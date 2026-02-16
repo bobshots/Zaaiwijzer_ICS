@@ -1,0 +1,396 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Veldsla (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Veldsla
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185339Z
+UID:9ac4a9284dc443be@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 8 (feb)\n🥕 Verwachte oogst: week 16–18 (apr–
+ mei)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarheid: ⚠️ Laag (
+ weersafhankelijk)\n\n💡 Tip: De grond is nog koud (<5°C). Zaai in een k
+ oude bak of onder vliesdoek voor betere kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185339Z
+UID:91125f3c15143c78@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Vroege rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 11 (mrt)\n🥕 Verwachte oogst: week 19–21 (mei)\
+ n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarheid: ⚠️ Laag (weers
+ afhankelijk)\n\n💡 Tip: De grond is nog koud (<5°C). Zaai in een koude 
+ bak of onder vliesdoek voor betere kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:c0936c661b2ed0a9@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Vroege rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 22–24 
+ (mei–jun)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarheid: ⚠️
+  Laag (weersafhankelijk)\n\n💡 Tip: De grond is nog koud (<5°C). Zaai i
+ n een koude bak of onder vliesdoek voor betere kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:5bbace40038112d5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Vroege rassen (Batch 1)\n\n🥕 Oogs
+ tperiode: week 16–18 (apr–mei)\n\nVariant: Snelgroeiend voorjaarsras\n
+ Betrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst hele ro
+ zetten. Bij warm weer in mei kan de plant snel doorschieten\; oogst tijdig
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:e01f431367018ca2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Vroege rassen (Batch 2)\n\n🥕 Oogs
+ tperiode: week 19–21 (mei)\n\nVariant: Snelgroeiend voorjaarsras\nBetrou
+ wbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst hele rozetten
+ . Bij warm weer in mei kan de plant snel doorschieten\; oogst tijdig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:77bf2f0d4a7b5e5e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Vroege rassen (Batch 3)\n\n🥕 Oogs
+ tperiode: week 22–24 (mei–jun)\n\nVariant: Snelgroeiend voorjaarsras\n
+ Betrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst hele ro
+ zetten. Bij warm weer in mei kan de plant snel doorschieten\; oogst tijdig
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:338137175e31528f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Zomer rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 17 (apr)\n🥕 Verwachte oogst: week 25–27 (jun–jul
+ )\n\nVariant: Trager schietend ras (o.a. Vit)\nBetrouwbaarheid: ⚠️ Laa
+ g (weersafhankelijk)\n\n💡 Tip: Houd de grond goed vochtig om kieming te
+  bevorderen. Deze rassen schieten minder snel door bij lange dagen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:0afb04f21a697ef9@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Zomer rassen (Batch 5)\n\n📅
+  Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 28–30 (jul)\n\nV
+ ariant: Trager schietend ras (o.a. Vit)\nBetrouwbaarheid: ✅ Hoog\n\n💡
+  Tip: Houd de grond goed vochtig om kieming te bevorderen. Deze rassen sch
+ ieten minder snel door bij lange dagen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:57c0d812834ae473@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Zomer rassen (Batch 6)\n\n📅
+  Zaaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 31–33 (jul–aug
+ )\n\nVariant: Trager schietend ras (o.a. Vit)\nBetrouwbaarheid: ✅ Hoog\n
+ \n💡 Tip: Houd de grond goed vochtig om kieming te bevorderen. Deze rass
+ en schieten minder snel door bij lange dagen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:8581644dc2f6b6b7@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Zomer rassen (Batch 7)\n\n📅
+  Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 34–36 (aug–sep
+ )\n\nVariant: Trager schietend ras (o.a. Vit)\nBetrouwbaarheid: ✅ Hoog\n
+ \n💡 Tip: Houd de grond goed vochtig om kieming te bevorderen. Deze rass
+ en schieten minder snel door bij lange dagen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185339Z
+UID:d9c514d1035c4b13@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Zomer rassen (Batch 8)\n\n📅
+  Zaaiperiode: week 29 (jul)\n🥕 Verwachte oogst: week 37–39 (sep)\n\nV
+ ariant: Trager schietend ras (o.a. Vit)\nBetrouwbaarheid: ✅ Hoog\n\n💡
+  Tip: Houd de grond goed vochtig om kieming te bevorderen. Deze rassen sch
+ ieten minder snel door bij lange dagen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:a6a163de11c1fe31@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Zomer rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 25–27 (jun–jul)\n\nVariant: Trager schietend ras (o.a. V
+ it)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst 's
+  ochtends vroeg als het blad nog fris is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:6eb872b9be755f83@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Zomer rassen (Batch 5)\n\n🥕 Oogst
+ periode: week 28–30 (jul)\n\nVariant: Trager schietend ras (o.a. Vit)\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het blad
+  nog fris is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185339Z
+UID:0080abcb6e13598e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Zomer rassen (Batch 6)\n\n🥕 Oogst
+ periode: week 31–33 (jul–aug)\n\nVariant: Trager schietend ras (o.a. V
+ it)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als he
+ t blad nog fris is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185339Z
+UID:7f90d921c5618cf7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Zomer rassen (Batch 7)\n\n🥕 Oogst
+ periode: week 34–36 (aug–sep)\n\nVariant: Trager schietend ras (o.a. V
+ it)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als he
+ t blad nog fris is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:b285d4cfc500fb01@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Zomer rassen (Batch 8)\n\n🥕 Oogst
+ periode: week 37–39 (sep)\n\nVariant: Trager schietend ras (o.a. Vit)\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het blad
+  nog fris is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185339Z
+UID:5d816713c148b539@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Late rassen (Batch 9)\n\n📅 
+ Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 40–42 (sep–okt)
+ \n\nVariant: Winterharde veldsla (o.a. Grote Hollandse)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Dit is de belangrijkste teelt. Zaai breedwerpig of i
+ n regels. Deze planten overleven zware vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:319327e1e1291c5e@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Late rassen (Batch 10)\n\n📅
+  Zaaiperiode: week 34 (aug)\n🥕 Verwachte oogst: week 43–45 (okt–nov
+ )\n\nVariant: Winterharde veldsla (o.a. Grote Hollandse)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: Dit is de belangrijkste teelt. Zaai breedwerpig of 
+ in regels. Deze planten overleven zware vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185339Z
+UID:413e07cc56faab8a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Late rassen (Batch 11)\n\n📅
+  Zaaiperiode: week 36 (sep)\n🥕 Verwachte oogst: week 46–49 (nov–dec
+ )\n\nVariant: Winterharde veldsla (o.a. Grote Hollandse)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: Dit is de belangrijkste teelt. Zaai breedwerpig of 
+ in regels. Deze planten overleven zware vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185339Z
+UID:19b186e17d92b9e2@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Late rassen (Batch 12)\n\n📅
+  Zaaiperiode: week 38 (sep)\n🥕 Verwachte oogst: week 50–52 (dec)\n\nV
+ ariant: Winterharde veldsla (o.a. Grote Hollandse)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: Dit is de belangrijkste teelt. Zaai breedwerpig of in reg
+ els. Deze planten overleven zware vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185339Z
+UID:65b885a9d9dfa744@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Late rassen (Batch 13)\n\n📅
+  Zaaiperiode: week 40 (sep–okt)\n🥕 Verwachte oogst: week 1–4 (dec
+ –jan)\n\nVariant: Winterharde veldsla (o.a. Grote Hollandse)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Dit is de belangrijkste teelt. Zaai breedwerp
+ ig of in regels. Deze planten overleven zware vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:bc2ea8ab9b3bd399@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Veldsla — Late rassen (Batch 14)\n\n📅
+  Zaaiperiode: week 42 (okt)\n🥕 Verwachte oogst: week 5–9 (jan–mrt)\
+ n\nVariant: Winterharde veldsla (o.a. Grote Hollandse)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Dit is de belangrijkste teelt. Zaai breedwerpig of i
+ n regels. Deze planten overleven zware vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:11231122acef5dc9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Late rassen (Batch 9)\n\n🥕 Oogstp
+ eriode: week 40–42 (sep–okt)\n\nVariant: Winterharde veldsla (o.a. Gro
+ te Hollandse)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk in de winter al
+ leen bij vorstvrij weer om bladschade te voorkomen. De plant groeit traag\
+ , pluk met beleid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185339Z
+UID:f869f93e7e7af70d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Late rassen (Batch 10)\n\n🥕 Oogst
+ periode: week 43–45 (okt–nov)\n\nVariant: Winterharde veldsla (o.a. Gr
+ ote Hollandse)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk in de winter a
+ lleen bij vorstvrij weer om bladschade te voorkomen. De plant groeit traag
+ \, pluk met beleid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20260216T185339Z
+UID:5c6c79cca9ac7dc3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Late rassen (Batch 11)\n\n🥕 Oogst
+ periode: week 46–49 (nov–dec)\n\nVariant: Winterharde veldsla (o.a. Gr
+ ote Hollandse)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk in de winter a
+ lleen bij vorstvrij weer om bladschade te voorkomen. De plant groeit traag
+ \, pluk met beleid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:94c32458300737be@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Late rassen (Batch 12)\n\n🥕 Oogst
+ periode: week 50–52 (dec)\n\nVariant: Winterharde veldsla (o.a. Grote Ho
+ llandse)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk in de winter alleen 
+ bij vorstvrij weer om bladschade te voorkomen. De plant groeit traag\, plu
+ k met beleid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250127
+DTSTAMP:20260216T185339Z
+UID:01e339c86abeb8c6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Late rassen (Batch 13)\n\n🥕 Oogst
+ periode: week 1–4 (dec–jan)\n\nVariant: Winterharde veldsla (o.a. Grot
+ e Hollandse)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk in de winter all
+ een bij vorstvrij weer om bladschade te voorkomen. De plant groeit traag\,
+  pluk met beleid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Veldsla — Late rassen
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185339Z
+UID:48a6213731aa229c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Veldsla — Late rassen (Batch 14)\n\n🥕 Oogst
+ periode: week 5–9 (jan–mrt)\n\nVariant: Winterharde veldsla (o.a. Grot
+ e Hollandse)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk in de winter all
+ een bij vorstvrij weer om bladschade te voorkomen. De plant groeit traag\,
+  pluk met beleid.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

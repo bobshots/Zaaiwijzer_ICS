@@ -1,0 +1,497 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Rucola (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Rucola
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:1243f29d45bf40e0@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 10 (mrt)\n🥕 Verwachte oogst: week 18–20 (apr–mei
+ )\n\nVariant: Snelgroeiend voorjaarsras (bijv. Coltivata)\nBetrouwbaarheid
+ : ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De grond is eigenlijk nog te
+  koud (<5°C). Kieming duurt lang\; gebruik vliesdoek of een koude bak om 
+ de bodem op te warmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:aea3a5bc9f8e64ab@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 12 (mrt)\n🥕 Verwachte oogst: week 19–21 (mei)\n\nV
+ ariant: Snelgroeiend voorjaarsras (bijv. Coltivata)\nBetrouwbaarheid: ⚠
+ ️ Laag (weersafhankelijk)\n\n💡 Tip: De grond is eigenlijk nog te koud
+  (<5°C). Kieming duurt lang\; gebruik vliesdoek of een koude bak om de bo
+ dem op te warmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:c452e8da6651c5d8@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Vroege rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 21–23 (mei
+ –jun)\n\nVariant: Snelgroeiend voorjaarsras (bijv. Coltivata)\nBetrouwba
+ arheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De grond is eigenlijk 
+ nog te koud (<5°C). Kieming duurt lang\; gebruik vliesdoek of een koude b
+ ak om de bodem op te warmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:2c7bbf93da6cc5ef@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Vroege rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 16 (apr)\n🥕 Verwachte oogst: week 22–24 (mei–jun
+ )\n\nVariant: Snelgroeiend voorjaarsras (bijv. Coltivata)\nBetrouwbaarheid
+ : ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De grond is eigenlijk nog te
+  koud (<5°C). Kieming duurt lang\; gebruik vliesdoek of een koude bak om 
+ de bodem op te warmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:644e4aaee1ef8751@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 18–20 (apr–mei)\n\nVariant: Snelgroeiend voorjaarsras (b
+ ijv. Coltivata)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 T
+ ip: Oogst jong (ca. 10-15cm) voor de mildste smaak. Bij warm weer (>20°C)
+  snel oogsten om doorschieten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:a602480beb9063c1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 19–21 (mei)\n\nVariant: Snelgroeiend voorjaarsras (bijv. C
+ oltivata)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oo
+ gst jong (ca. 10-15cm) voor de mildste smaak. Bij warm weer (>20°C) snel 
+ oogsten om doorschieten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:cf62b7cd4411b505@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Vroege rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 21–23 (mei–jun)\n\nVariant: Snelgroeiend voorjaarsras (b
+ ijv. Coltivata)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 T
+ ip: Oogst jong (ca. 10-15cm) voor de mildste smaak. Bij warm weer (>20°C)
+  snel oogsten om doorschieten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:e9b677f3efee85b5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Vroege rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 22–24 (mei–jun)\n\nVariant: Snelgroeiend voorjaarsras (b
+ ijv. Coltivata)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 T
+ ip: Oogst jong (ca. 10-15cm) voor de mildste smaak. Bij warm weer (>20°C)
+  snel oogsten om doorschieten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:35301aa9dbb392c9@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 23–24 (jun)
+ \n\nVariant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatica)\nBet
+ rouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Zaai deze rassen
+  omdat dagen nu langer zijn dan 14\,5 uur. Houd de grond goed vochtig om s
+ cherpe smaak en doorschieten te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:29059628515b43b8@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 6)\n\n📅 
+ Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 24–26 (jun)\n\nVa
+ riant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatica)\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zaai deze rassen omdat dagen nu langer zijn 
+ dan 14\,5 uur. Houd de grond goed vochtig om scherpe smaak en doorschieten
+  te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:1b85c28e4c8c375f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 26–28 (jun
+ –jul)\n\nVariant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatic
+ a)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai deze rassen omdat dagen nu
+  langer zijn dan 14\,5 uur. Houd de grond goed vochtig om scherpe smaak en
+  doorschieten te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:5511874b655c5333@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 8)\n\n📅 
+ Zaaiperiode: week 24 (jun)\n🥕 Verwachte oogst: week 28–30 (jul)\n\nVa
+ riant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatica)\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zaai deze rassen omdat dagen nu langer zijn 
+ dan 14\,5 uur. Houd de grond goed vochtig om scherpe smaak en doorschieten
+  te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:65043314e7ae05b5@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 9)\n\n📅 
+ Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 30–32 (jul–aug)
+ \n\nVariant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatica)\nBet
+ rouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai deze rassen omdat dagen nu langer
+  zijn dan 14\,5 uur. Houd de grond goed vochtig om scherpe smaak en doorsc
+ hieten te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:aad78d7b3daa9b31@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 10)\n\n📅
+  Zaaiperiode: week 28 (jul)\n🥕 Verwachte oogst: week 32–34 (aug)\n\nV
+ ariant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatica)\nBetrouwb
+ aarheid: ✅ Hoog\n\n💡 Tip: Zaai deze rassen omdat dagen nu langer zijn
+  dan 14\,5 uur. Houd de grond goed vochtig om scherpe smaak en doorschiete
+ n te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:d537dc8102f1e126@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 11)\n\n📅
+  Zaaiperiode: week 30 (jul)\n🥕 Verwachte oogst: week 34–36 (aug–sep
+ )\n\nVariant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatica)\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai deze rassen omdat dagen nu lange
+ r zijn dan 14\,5 uur. Houd de grond goed vochtig om scherpe smaak en doors
+ chieten te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185339Z
+UID:94653af1de5760ad@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Zomer rassen (Batch 12)\n\n📅
+  Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 36–38 (sep)\n\nV
+ ariant: Traaggroeiend\, schietresistent (bijv. Rucola Selvatica)\nBetrouwb
+ aarheid: ✅ Hoog\n\n💡 Tip: Zaai deze rassen omdat dagen nu langer zijn
+  dan 14\,5 uur. Houd de grond goed vochtig om scherpe smaak en doorschiete
+ n te remmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:86bf3a19ab011e73@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 5)\n\n🥕 Oogstp
+ eriode: week 23–24 (jun)\n\nVariant: Traaggroeiend\, schietresistent (bi
+ jv. Rucola Selvatica)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Snijd de bladeren af\, laat het hart staan\; deze rassen groeien
+  vaak nog een keer aan (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:39445622273cf253@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 6)\n\n🥕 Oogstp
+ eriode: week 24–26 (jun)\n\nVariant: Traaggroeiend\, schietresistent (bi
+ jv. Rucola Selvatica)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de bla
+ deren af\, laat het hart staan\; deze rassen groeien vaak nog een keer aan
+  (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:e5814e0e31992aba@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 7)\n\n🥕 Oogstp
+ eriode: week 26–28 (jun–jul)\n\nVariant: Traaggroeiend\, schietresiste
+ nt (bijv. Rucola Selvatica)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd 
+ de bladeren af\, laat het hart staan\; deze rassen groeien vaak nog een ke
+ er aan (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:69771778578cce93@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 8)\n\n🥕 Oogstp
+ eriode: week 28–30 (jul)\n\nVariant: Traaggroeiend\, schietresistent (bi
+ jv. Rucola Selvatica)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de bla
+ deren af\, laat het hart staan\; deze rassen groeien vaak nog een keer aan
+  (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185339Z
+UID:0368fe60fc655ca0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 9)\n\n🥕 Oogstp
+ eriode: week 30–32 (jul–aug)\n\nVariant: Traaggroeiend\, schietresiste
+ nt (bijv. Rucola Selvatica)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd 
+ de bladeren af\, laat het hart staan\; deze rassen groeien vaak nog een ke
+ er aan (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:14382b1e2a44b5c8@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 10)\n\n🥕 Oogst
+ periode: week 32–34 (aug)\n\nVariant: Traaggroeiend\, schietresistent (b
+ ijv. Rucola Selvatica)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de bl
+ aderen af\, laat het hart staan\; deze rassen groeien vaak nog een keer aa
+ n (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185339Z
+UID:7334bd611ff679f7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 11)\n\n🥕 Oogst
+ periode: week 34–36 (aug–sep)\n\nVariant: Traaggroeiend\, schietresist
+ ent (bijv. Rucola Selvatica)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd
+  de bladeren af\, laat het hart staan\; deze rassen groeien vaak nog een k
+ eer aan (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185339Z
+UID:62f336680a3ca78d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Zomer rassen (Batch 12)\n\n🥕 Oogst
+ periode: week 36–38 (sep)\n\nVariant: Traaggroeiend\, schietresistent (b
+ ijv. Rucola Selvatica)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de bl
+ aderen af\, laat het hart staan\; deze rassen groeien vaak nog een keer aa
+ n (pluksla-methode).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:35a8c255371c7e82@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Late rassen (Batch 13)\n\n📅 
+ Zaaiperiode: week 34 (aug)\n🥕 Verwachte oogst: week 39–42 (sep–okt)
+ \n\nVariant: Koude-tolerante rassen (bijv. Wilde Rucola)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De dagen worden korter\, groei vertraagt. Deze rass
+ en kunnen beter tegen de eerste nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Late rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185339Z
+UID:f08973c5ee409c4b@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Late rassen (Batch 14)\n\n📅 
+ Zaaiperiode: week 36 (sep)\n🥕 Verwachte oogst: week 42–45 (okt–nov)
+ \n\nVariant: Koude-tolerante rassen (bijv. Wilde Rucola)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De dagen worden korter\, groei vertraagt. Deze rass
+ en kunnen beter tegen de eerste nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185339Z
+UID:35bd30605fd4f88f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Late rassen (Batch 15)\n\n📅 
+ Zaaiperiode: week 38 (sep)\n🥕 Verwachte oogst: week 45–48 (nov)\n\nVa
+ riant: Koude-tolerante rassen (bijv. Wilde Rucola)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: De dagen worden korter\, groei vertraagt. Deze rassen kun
+ nen beter tegen de eerste nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185339Z
+UID:c5209b81c6f77287@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Late rassen (Batch 16)\n\n📅 
+ Zaaiperiode: week 40 (sep–okt)\n🥕 Verwachte oogst: week 48–52 (nov
+ –dec)\n\nVariant: Koude-tolerante rassen (bijv. Wilde Rucola)\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: De dagen worden korter\, groei vertraagt. De
+ ze rassen kunnen beter tegen de eerste nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Late rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:600ef2ffa353b404@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Late rassen (Batch 13)\n\n🥕 Oogstp
+ eriode: week 39–42 (sep–okt)\n\nVariant: Koude-tolerante rassen (bijv.
+  Wilde Rucola)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zolang het bl
+ ad er goed uitziet. Bij strenge vorst (-5°C) stopt de groei en kan blad s
+ chade oplopen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185339Z
+UID:4d4cc68ee34215c1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Late rassen (Batch 14)\n\n🥕 Oogstp
+ eriode: week 42–45 (okt–nov)\n\nVariant: Koude-tolerante rassen (bijv.
+  Wilde Rucola)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zolang het bl
+ ad er goed uitziet. Bij strenge vorst (-5°C) stopt de groei en kan blad s
+ chade oplopen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Late rassen
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185339Z
+UID:f7a5c6cb2484993a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Late rassen (Batch 15)\n\n🥕 Oogstp
+ eriode: week 45–48 (nov)\n\nVariant: Koude-tolerante rassen (bijv. Wilde
+  Rucola)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zolang het blad er 
+ goed uitziet. Bij strenge vorst (-5°C) stopt de groei en kan blad schade 
+ oplopen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Late rassen
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:27e366ba141517b1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Late rassen (Batch 16)\n\n🥕 Oogstp
+ eriode: week 48–52 (nov–dec)\n\nVariant: Koude-tolerante rassen (bijv.
+  Wilde Rucola)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zolang het bl
+ ad er goed uitziet. Bij strenge vorst (-5°C) stopt de groei en kan blad s
+ chade oplopen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Rucola — Doorlevende rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:b22c3e492e4be663@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Rucola — Doorlevende rassen (Batch 17)\n
+ \n📅 Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 30–42 (jul
+ –okt)\n\nVariant: Vaste plant (Diplotaxis tenuifolia)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Wilde rucola groeit langzamer maar komt elk jaar ter
+ ug. Kies een vaste plek in de zon/halfschaduw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rucola — Doorlevende rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:8bfb8a9b35764428@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rucola — Doorlevende rassen (Batch 17)\n\n🥕
+  Oogstperiode: week 30–42 (jul–okt)\n\nVariant: Vaste plant (Diplotaxi
+ s tenuifolia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf regelmatig oog
+ sten om bloei te voorkomen\, de smaak is veel pikanter dan gewone rucola.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

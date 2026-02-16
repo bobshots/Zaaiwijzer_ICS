@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Zwarte rammenas (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Zwarte rammenas
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Zwarte rammenas — Late rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:5bbaca56128f0860@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Zwarte rammenas — Late rassen (Batch 1)\
+ n\n📅 Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 38–44 (se
+ p–nov)\n\nVariant: Ronde of lange bewaarvariant\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Zaai direct ter plaatse en dun uit op 10-15 cm afstand. Di
+ t voorkomt schieten en zorgt voor mooie\, dikke knollen. Houd de grond goe
+ d vochtig tijdens de kieming in de zomer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Zwarte rammenas — Late rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185339Z
+UID:946aa4fd2a27a035@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Zwarte rammenas — Late rassen (Batch 2)\
+ n\n📅 Zaaiperiode: week 29 (jul)\n🥕 Verwachte oogst: week 42–48 (ok
+ t–nov)\n\nVariant: Ronde of lange bewaarvariant\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Zaai direct ter plaatse en dun uit op 10-15 cm afstand. Di
+ t voorkomt schieten en zorgt voor mooie\, dikke knollen. Houd de grond goe
+ d vochtig tijdens de kieming in de zomer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Zwarte rammenas — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185339Z
+UID:6703ec3c22d769ca@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Zwarte rammenas — Late rassen (Batch 3)\
+ n\n📅 Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 46–52 (no
+ v–dec)\n\nVariant: Ronde of lange bewaarvariant\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Zaai direct ter plaatse en dun uit op 10-15 cm afstand. Di
+ t voorkomt schieten en zorgt voor mooie\, dikke knollen. Houd de grond goe
+ d vochtig tijdens de kieming in de zomer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zwarte rammenas — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185339Z
+UID:5f80f2532a311b83@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zwarte rammenas — Late rassen (Batch 1)\n\n
+ 🥕 Oogstperiode: week 38–44 (sep–nov)\n\nVariant: Ronde of lange bew
+ aarvariant\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Rammenas kan tegen lich
+ te vorst\, maar oogst de laatste batch voor december of dek dik af met str
+ o. Bewaar in een kist met vochtig zand op een koele plek voor gebruik in d
+ e winter.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zwarte rammenas — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185339Z
+UID:19d74f5bbfdbfc34@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zwarte rammenas — Late rassen (Batch 2)\n\n
+ 🥕 Oogstperiode: week 42–48 (okt–nov)\n\nVariant: Ronde of lange bew
+ aarvariant\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Rammenas kan tegen lich
+ te vorst\, maar oogst de laatste batch voor december of dek dik af met str
+ o. Bewaar in een kist met vochtig zand op een koele plek voor gebruik in d
+ e winter.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zwarte rammenas — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:542b7e185ae8449a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zwarte rammenas — Late rassen (Batch 3)\n\n
+ 🥕 Oogstperiode: week 46–52 (nov–dec)\n\nVariant: Ronde of lange bew
+ aarvariant\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Rammenas kan tegen lich
+ te vorst\, maar oogst de laatste batch voor december of dek dik af met str
+ o. Bewaar in een kist met vochtig zand op een koele plek voor gebruik in d
+ e winter.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

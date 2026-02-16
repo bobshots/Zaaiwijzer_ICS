@@ -1,0 +1,519 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Andijvie (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Andijvie
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:005c8d61f088d403@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Vroege rassen (Batch 1)\n\n📅 
+ Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 14 (mrt–apr)\n🥕 Ver
+ wachte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorjaarst
+ ype (o.a. Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen wa
+ rm voor (min. 15°C) om vroegtijdig opschieten (doorschieten) door koude t
+ e voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:d867521ac2527dc1@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Vroege rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 16 (apr)\n🥕 Verwachte
+  oogst: week 23–24 (jun)\n\nVariant: Snelgroeiend voorjaarstype (o.a. Nu
+ mmer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen warm voor (min
+ . 15°C) om vroegtijdig opschieten (doorschieten) door koude te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:21e8994fc83ba7d4@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Vroege rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18 (apr–mei)\n
+ 🥕 Verwachte oogst: week 25–26 (jun)\n\nVariant: Snelgroeiend voorjaar
+ stype (o.a. Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen 
+ warm voor (min. 15°C) om vroegtijdig opschieten (doorschieten) door koude
+  te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:5e5ca9aeaa3678b8@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Vroege rassen (Batch 1)\n\n🏡 
+ Uitplantperiode: week 14 (mrt–apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕
+  Verwachte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorja
+ arstype (o.a. Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hanteer ee
+ n plantafstand van 30x30cm. Dek de eerste batch af met vliesdoek bij nacht
+ vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:62a20b53481fc564@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Vroege rassen (Batch 2)\n\n🏡 
+ Uitplantperiode: week 16 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwa
+ chte oogst: week 23–24 (jun)\n\nVariant: Snelgroeiend voorjaarstype (o.a
+ . Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hanteer een plantafsta
+ nd van 30x30cm. Dek de eerste batch af met vliesdoek bij nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:a2b0ceaff2ccd96d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Vroege rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 18 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–apr)
+ \n🥕 Verwachte oogst: week 25–26 (jun)\n\nVariant: Snelgroeiend voorja
+ arstype (o.a. Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hanteer ee
+ n plantafstand van 30x30cm. Dek de eerste batch af met vliesdoek bij nacht
+ vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:8d4480366fa620eb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Vroege rassen (Batch 1)\n\n🥕 Oog
+ stperiode: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorjaarstype
+  (o.a. Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst in de ochte
+ nd als de dauw is opgedroogd om smet te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:27d572dce4617925@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Vroege rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 23–24 (jun)\n\nVariant: Snelgroeiend voorjaarstype (o.a.
+  Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst in de ochtend als
+  de dauw is opgedroogd om smet te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Vroege rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:301fa1cde06b0132@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Vroege rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 25–26 (jun)\n\nVariant: Snelgroeiend voorjaarstype (o.a.
+  Nummer 5)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst in de ochtend als
+  de dauw is opgedroogd om smet te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:354a8f1e49ec5e65@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Zomer rassen (Batch 4)\n\n📅 Z
+ aaiperiode: week 16 (apr)\n🏡 Uitplanten: week 20 (mei)\n🥕 Verwachte 
+ oogst: week 27–28 (jun–jul)\n\nVariant: Zomer- en herfstteelt (o.a. Wa
+ llonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien en uitpla
+ nten (Route A) voor het beste resultaat\, zelfs in de zomer. Direct zaaien
+  is risicovoller voor schieters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:8c0fa199b7da4706@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Zomer rassen (Batch 5)\n\n📅 Z
+ aaiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 22 (mei–jun)\n
+ 🥕 Verwachte oogst: week 29–30 (jul)\n\nVariant: Zomer- en herfstteelt
+  (o.a. Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien 
+ en uitplanten (Route A) voor het beste resultaat\, zelfs in de zomer. Dire
+ ct zaaien is risicovoller voor schieters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:629aac2c5b1977c5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Zomer rassen (Batch 6)\n\n📅 Z
+ aaiperiode: week 20 (mei)\n🏡 Uitplanten: week 24 (jun)\n🥕 Verwachte 
+ oogst: week 31–32 (jul–aug)\n\nVariant: Zomer- en herfstteelt (o.a. Wa
+ llonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien en uitpla
+ nten (Route A) voor het beste resultaat\, zelfs in de zomer. Direct zaaien
+  is risicovoller voor schieters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:c1ead41b64f98978@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Zomer rassen (Batch 7)\n\n📅 Z
+ aaiperiode: week 22 (mei–jun)\n🏡 Uitplanten: week 26 (jun)\n🥕 Verw
+ achte oogst: week 33–34 (aug)\n\nVariant: Zomer- en herfstteelt (o.a. Wa
+ llonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien en uitpla
+ nten (Route A) voor het beste resultaat\, zelfs in de zomer. Direct zaaien
+  is risicovoller voor schieters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:da8d236426c3d107@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Zomer rassen (Batch 8)\n\n📅 Z
+ aaiperiode: week 24 (jun)\n🏡 Uitplanten: week 28 (jul)\n🥕 Verwachte 
+ oogst: week 35–36 (aug–sep)\n\nVariant: Zomer- en herfstteelt (o.a. Wa
+ llonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien en uitpla
+ nten (Route A) voor het beste resultaat\, zelfs in de zomer. Direct zaaien
+  is risicovoller voor schieters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:ca1d7e3d37facf1f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Zomer rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 26 (jun)\n🏡 Uitplanten: week 30 (jul)\n🥕 Verwachte 
+ oogst: week 37–38 (sep)\n\nVariant: Zomer- en herfstteelt (o.a. Wallonne
+ )\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien en uitplanten (
+ Route A) voor het beste resultaat\, zelfs in de zomer. Direct zaaien is ri
+ sicovoller voor schieters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:237ad5058ed5deb0@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Zomer rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 28 (jul)\n🏡 Uitplanten: week 32 (aug)\n🥕 Verwachte
+  oogst: week 39–40 (sep–okt)\n\nVariant: Zomer- en herfstteelt (o.a. W
+ allonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien en uitpl
+ anten (Route A) voor het beste resultaat\, zelfs in de zomer. Direct zaaie
+ n is risicovoller voor schieters.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:5e5a427b444d3d31@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Zomer rassen (Batch 4)\n\n🏡 U
+ itplantperiode: week 20 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwac
+ hte oogst: week 27–28 (jun–jul)\n\nVariant: Zomer- en herfstteelt (o.a
+ . Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg in de zomer voor 
+ voldoende water direct na het planten om rand (bruine bladranden) te voork
+ omen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:f34de40e06c1bb1f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Zomer rassen (Batch 5)\n\n🏡 U
+ itplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 18 (apr–mei)\
+ n🥕 Verwachte oogst: week 29–30 (jul)\n\nVariant: Zomer- en herfstteel
+ t (o.a. Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg in de zomer
+  voor voldoende water direct na het planten om rand (bruine bladranden) te
+  voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:17ae71655a813034@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Zomer rassen (Batch 6)\n\n🏡 U
+ itplantperiode: week 24 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕 Verwac
+ hte oogst: week 31–32 (jul–aug)\n\nVariant: Zomer- en herfstteelt (o.a
+ . Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg in de zomer voor 
+ voldoende water direct na het planten om rand (bruine bladranden) te voork
+ omen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:ac5be34f9a1013ee@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Zomer rassen (Batch 7)\n\n🏡 U
+ itplantperiode: week 26 (jun)\n🌱 Gezaaid in: week 22 (mei–jun)\n🥕 
+ Verwachte oogst: week 33–34 (aug)\n\nVariant: Zomer- en herfstteelt (o.a
+ . Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg in de zomer voor 
+ voldoende water direct na het planten om rand (bruine bladranden) te voork
+ omen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:3eb96696850dba05@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Zomer rassen (Batch 8)\n\n🏡 U
+ itplantperiode: week 28 (jul)\n🌱 Gezaaid in: week 24 (jun)\n🥕 Verwac
+ hte oogst: week 35–36 (aug–sep)\n\nVariant: Zomer- en herfstteelt (o.a
+ . Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg in de zomer voor 
+ voldoende water direct na het planten om rand (bruine bladranden) te voork
+ omen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:112b7ef0340a8286@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Zomer rassen (Batch 9)\n\n🏡 U
+ itplantperiode: week 30 (jul)\n🌱 Gezaaid in: week 26 (jun)\n🥕 Verwac
+ hte oogst: week 37–38 (sep)\n\nVariant: Zomer- en herfstteelt (o.a. Wall
+ onne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg in de zomer voor voldoe
+ nde water direct na het planten om rand (bruine bladranden) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:7278f10ed44e1acc@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Zomer rassen (Batch 10)\n\n🏡 
+ Uitplantperiode: week 32 (aug)\n🌱 Gezaaid in: week 28 (jul)\n🥕 Verwa
+ chte oogst: week 39–40 (sep–okt)\n\nVariant: Zomer- en herfstteelt (o.
+ a. Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg in de zomer voor
+  voldoende water direct na het planten om rand (bruine bladranden) te voor
+ komen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:48a6975a259513b9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Zomer rassen (Batch 4)\n\n🥕 Oogs
+ tperiode: week 27–28 (jun–jul)\n\nVariant: Zomer- en herfstteelt (o.a.
+  Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop net boven
+  de grond af. Laat de wortels zitten voor bodemverbetering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:e79bb77d09a53a17@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Zomer rassen (Batch 5)\n\n🥕 Oogs
+ tperiode: week 29–30 (jul)\n\nVariant: Zomer- en herfstteelt (o.a. Wallo
+ nne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop net boven de gr
+ ond af. Laat de wortels zitten voor bodemverbetering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:3951342b9fd21464@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Zomer rassen (Batch 6)\n\n🥕 Oogs
+ tperiode: week 31–32 (jul–aug)\n\nVariant: Zomer- en herfstteelt (o.a.
+  Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop net boven
+  de grond af. Laat de wortels zitten voor bodemverbetering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:7a7f1defc2db4e9e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Zomer rassen (Batch 7)\n\n🥕 Oogs
+ tperiode: week 33–34 (aug)\n\nVariant: Zomer- en herfstteelt (o.a. Wallo
+ nne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop net boven de gr
+ ond af. Laat de wortels zitten voor bodemverbetering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:39ebdafcb9b1846c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Zomer rassen (Batch 8)\n\n🥕 Oogs
+ tperiode: week 35–36 (aug–sep)\n\nVariant: Zomer- en herfstteelt (o.a.
+  Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop net boven
+  de grond af. Laat de wortels zitten voor bodemverbetering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:fc612aeddf4ecb79@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Zomer rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 37–38 (sep)\n\nVariant: Zomer- en herfstteelt (o.a. Wallo
+ nne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop net boven de gr
+ ond af. Laat de wortels zitten voor bodemverbetering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:7a05ae9340f4167f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Zomer rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 39–40 (sep–okt)\n\nVariant: Zomer- en herfstteelt (o.a
+ . Wallonne)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop net bove
+ n de grond af. Laat de wortels zitten voor bodemverbetering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:53e3e84b80a35db5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Late rassen (Batch 11)\n\n📅 Z
+ aaiperiode: week 30 (jul)\n🏡 Uitplanten: week 34 (aug)\n🥕 Verwachte 
+ oogst: week 41–44 (okt–nov)\n\nVariant: Late herfstteelt (o.a. Gele Vo
+ lhart)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dit zijn tragere groeiers d
+ ie beter tegen kou kunnen. Start tijdig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Andijvie — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:cdddc623c9a668e8@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Andijvie — Late rassen (Batch 12)\n\n📅 Z
+ aaiperiode: week 32 (aug)\n🏡 Uitplanten: week 36 (sep)\n🥕 Verwachte 
+ oogst: week 45–48 (nov)\n\nVariant: Late herfstteelt (o.a. Gele Volhart)
+ \nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dit zijn tragere groeiers die bet
+ er tegen kou kunnen. Start tijdig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:869ae21b0f6cd693@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Late rassen (Batch 11)\n\n🏡 U
+ itplantperiode: week 34 (aug)\n🌱 Gezaaid in: week 30 (jul)\n🥕 Verwac
+ hte oogst: week 41–44 (okt–nov)\n\nVariant: Late herfstteelt (o.a. Gel
+ e Volhart)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant op een beschutte 
+ plek. Vanaf november kan bescherming nodig zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Andijvie — Late rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:b986a3824c5f568d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Andijvie — Late rassen (Batch 12)\n\n🏡 U
+ itplantperiode: week 36 (sep)\n🌱 Gezaaid in: week 32 (aug)\n🥕 Verwac
+ hte oogst: week 45–48 (nov)\n\nVariant: Late herfstteelt (o.a. Gele Volh
+ art)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant op een beschutte plek. 
+ Vanaf november kan bescherming nodig zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Late rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185338Z
+UID:5cc673cf95d68b51@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Late rassen (Batch 11)\n\n🥕 Oogs
+ tperiode: week 41–44 (okt–nov)\n\nVariant: Late herfstteelt (o.a. Gele
+  Volhart)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen verdragen li
+ chte vorst (-5°C). Oogst voor strenge vorst of dek af.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Andijvie — Late rassen
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185338Z
+UID:11ecb8bb115e751d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Andijvie — Late rassen (Batch 12)\n\n🥕 Oogs
+ tperiode: week 45–48 (nov)\n\nVariant: Late herfstteelt (o.a. Gele Volha
+ rt)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen verdragen lichte v
+ orst (-5°C). Oogst voor strenge vorst of dek af.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

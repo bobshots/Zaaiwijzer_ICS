@@ -1,0 +1,399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Paksoi (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Paksoi
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:61d325d33dc80a2c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paksoi — Vroege rassen (Batch 1)\n\n📅 Za
+ aiperiode: week 8 (feb)\n🏡 Uitplanten: week 12–13 (mrt)\n🥕 Verwach
+ te oogst: week 17–19 (apr–mei)\n\nVariant: Schietresistente hybride (o
+ .a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen war
+ m voor (min. 20°C). Koude start zorgt direct voor bloemstengels (doorschi
+ eten).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:a6d04a5b201b4f3b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paksoi — Vroege rassen (Batch 2)\n\n📅 Za
+ aiperiode: week 11 (mrt)\n🏡 Uitplanten: week 15–16 (apr)\n🥕 Verwac
+ hte oogst: week 20–22 (mei–jun)\n\nVariant: Schietresistente hybride (
+ o.a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen wa
+ rm voor (min. 20°C). Koude start zorgt direct voor bloemstengels (doorsch
+ ieten).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:33dfd375c0720a99@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paksoi — Vroege rassen (Batch 3)\n\n📅 Za
+ aiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18–19 (apr–mei)\
+ n🥕 Verwachte oogst: week 23–25 (jun)\n\nVariant: Schietresistente hyb
+ ride (o.a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai bin
+ nen warm voor (min. 20°C). Koude start zorgt direct voor bloemstengels (d
+ oorschieten).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:f48ed849467a7883@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paksoi — Vroege rassen (Batch 4)\n\n📅 Za
+ aiperiode: week 17 (apr)\n🏡 Uitplanten: week 21–22 (mei–jun)\n🥕 
+ Verwachte oogst: week 26–28 (jun–jul)\n\nVariant: Schietresistente hyb
+ ride (o.a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai bin
+ nen warm voor (min. 20°C). Koude start zorgt direct voor bloemstengels (d
+ oorschieten).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:ba269a8eb4aae2ba@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paksoi — Vroege rassen (Batch 5)\n\n📅 Za
+ aiperiode: week 20 (mei)\n🏡 Uitplanten: week 24–25 (jun)\n🥕 Verwac
+ hte oogst: week 29–30 (jul)\n\nVariant: Schietresistente hybride (o.a. M
+ ei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen warm voo
+ r (min. 20°C). Koude start zorgt direct voor bloemstengels (doorschieten)
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:60ec4be26298fc4a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paksoi — Vroege rassen (Batch 1)\n\n🏡 Ui
+ tplantperiode: week 12–13 (mrt)\n🌱 Gezaaid in: week 8 (feb)\n🥕 Ver
+ wachte oogst: week 17–19 (apr–mei)\n\nVariant: Schietresistente hybrid
+ e (o.a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Let op: Bat
+ ch 1 vereist een koudebak of tunnel! De buitenlucht is nog te koud (-6°C)
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:d361c762421025a3@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paksoi — Vroege rassen (Batch 2)\n\n🏡 Ui
+ tplantperiode: week 15–16 (apr)\n🌱 Gezaaid in: week 11 (mrt)\n🥕 Ve
+ rwachte oogst: week 20–22 (mei–jun)\n\nVariant: Schietresistente hybri
+ de (o.a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Let op: Ba
+ tch 1 vereist een koudebak of tunnel! De buitenlucht is nog te koud (-6°C
+ ).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:e8dbf3df2af2ce6a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paksoi — Vroege rassen (Batch 3)\n\n🏡 Ui
+ tplantperiode: week 18–19 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–a
+ pr)\n🥕 Verwachte oogst: week 23–25 (jun)\n\nVariant: Schietresistente
+  hybride (o.a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Let 
+ op: Batch 1 vereist een koudebak of tunnel! De buitenlucht is nog te koud 
+ (-6°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:bbf2068c867e6464@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paksoi — Vroege rassen (Batch 4)\n\n🏡 Ui
+ tplantperiode: week 21–22 (mei–jun)\n🌱 Gezaaid in: week 17 (apr)\n
+ 🥕 Verwachte oogst: week 26–28 (jun–jul)\n\nVariant: Schietresistent
+ e hybride (o.a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Let
+  op: Batch 1 vereist een koudebak of tunnel! De buitenlucht is nog te koud
+  (-6°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:547994d4a724006e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paksoi — Vroege rassen (Batch 5)\n\n🏡 Ui
+ tplantperiode: week 24–25 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕 Ve
+ rwachte oogst: week 29–30 (jul)\n\nVariant: Schietresistente hybride (o.
+ a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Let op: Batch 1 
+ vereist een koudebak of tunnel! De buitenlucht is nog te koud (-6°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:b6049c596b08a0bd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 17–19 (apr–mei)\n\nVariant: Schietresistente hybride (o.
+ a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 5 groeit t
+ ijdens de langste dagen: oogst zeer jong (baby-leaf) vóór doorschieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:5393f25e3a568598@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 20–22 (mei–jun)\n\nVariant: Schietresistente hybride (o.
+ a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 5 groeit t
+ ijdens de langste dagen: oogst zeer jong (baby-leaf) vóór doorschieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:6647b01dbf16ad7d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Vroege rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 23–25 (jun)\n\nVariant: Schietresistente hybride (o.a. Mei
+  Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 5 groeit tijdens
+  de langste dagen: oogst zeer jong (baby-leaf) vóór doorschieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:23f60453410c997f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Vroege rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 26–28 (jun–jul)\n\nVariant: Schietresistente hybride (o.
+ a. Mei Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 5 groeit t
+ ijdens de langste dagen: oogst zeer jong (baby-leaf) vóór doorschieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Vroege rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:2267116dc147ca7d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Vroege rassen (Batch 5)\n\n🥕 Oogst
+ periode: week 29–30 (jul)\n\nVariant: Schietresistente hybride (o.a. Mei
+  Qing Choi)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 5 groeit tijdens
+  de langste dagen: oogst zeer jong (baby-leaf) vóór doorschieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paksoi — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:ec665ae639769032@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paksoi — Zomer rassen (Batch 6)\n\n📅 Zaa
+ iperiode: week 24 (jun)\n🏡 Uitplanten: week 27–28 (jun–jul)\n🥕 V
+ erwachte oogst: week 31–33 (jul–aug)\n\nVariant: Brede witte stelen (o
+ .a. Joi Choi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start nu pas met 
+ zomer-rassen. Eerder zaaien geeft gegarandeerd bloemstengels.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paksoi — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:053c25db3e1254c3@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paksoi — Zomer rassen (Batch 6)\n\n🏡 Uit
+ plantperiode: week 27–28 (jun–jul)\n🌱 Gezaaid in: week 24 (jun)\n
+ 🥕 Verwachte oogst: week 31–33 (jul–aug)\n\nVariant: Brede witte ste
+ len (o.a. Joi Choi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit o
+ p 30x30cm. Houd goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Paksoi — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:48795c52daa8156d@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Paksoi — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 34–36 (aug–sep)
+ \n\nVariant: Brede witte stelen (o.a. Joi Choi F1)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: Bodem is nu warm genoeg (>10°C). Zaai direct ter plaatse
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Paksoi — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:64c3f2a810794f0d@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Paksoi — Zomer rassen (Batch 8)\n\n📅 
+ Zaaiperiode: week 28 (jul)\n🥕 Verwachte oogst: week 37–38 (sep)\n\nVa
+ riant: Brede witte stelen (o.a. Joi Choi F1)\nBetrouwbaarheid: ✅ Hoog\n\
+ n💡 Tip: Bodem is nu warm genoeg (>10°C). Zaai direct ter plaatse.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:1035f6b10590efc8@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Zomer rassen (Batch 6)\n\n🥕 Oogstp
+ eriode: week 31–33 (jul–aug)\n\nVariant: Brede witte stelen (o.a. Joi 
+ Choi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop in zijn geh
+ eel af aan de basis.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:f25b1fcbaa1e0022@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Zomer rassen (Batch 7)\n\n🥕 Oogstp
+ eriode: week 34–36 (aug–sep)\n\nVariant: Brede witte stelen (o.a. Joi 
+ Choi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop in zijn geh
+ eel af aan de basis.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:eb0770c5f76e4750@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Zomer rassen (Batch 8)\n\n🥕 Oogstp
+ eriode: week 37–38 (sep)\n\nVariant: Brede witte stelen (o.a. Joi Choi F
+ 1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Snijd de krop in zijn geheel af
+  aan de basis.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Paksoi — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:9f2e95e5f4d87fb7@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Paksoi — Late rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 30 (jul)\n🥕 Verwachte oogst: week 39–41 (sep–okt)\
+ n\nVariant: Koude-tolerante types (o.a. Canton White)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Ideale periode voor paksoi: dalende daglengte voorko
+ mt doorschieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Paksoi — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:0e87152b38ca4891@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Paksoi — Late rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 42–43 (okt)\n\nVa
+ riant: Koude-tolerante types (o.a. Canton White)\nBetrouwbaarheid: ✅ Hoo
+ g\n\n💡 Tip: Ideale periode voor paksoi: dalende daglengte voorkomt door
+ schieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Paksoi — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:582937e607bfcde4@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Paksoi — Late rassen (Batch 11)\n\n📅 
+ Zaaiperiode: week 34 (aug)\n🥕 Verwachte oogst: week 44–45 (okt–nov)
+ \n\nVariant: Koude-tolerante types (o.a. Canton White)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Ideale periode voor paksoi: dalende daglengte voorko
+ mt doorschieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Late rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:1fc29f33afb6d261@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Late rassen (Batch 9)\n\n🥕 Oogstpe
+ riode: week 39–41 (sep–okt)\n\nVariant: Koude-tolerante types (o.a. Ca
+ nton White)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor week 46\, d
+ aarna wordt de kans op zware vorst (-5°C) te groot voor dit ras.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185338Z
+UID:86532a64306b38b7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Late rassen (Batch 10)\n\n🥕 Oogstp
+ eriode: week 42–43 (okt)\n\nVariant: Koude-tolerante types (o.a. Canton 
+ White)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor week 46\, daarna
+  wordt de kans op zware vorst (-5°C) te groot voor dit ras.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paksoi — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:25c6e105dc472cf3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paksoi — Late rassen (Batch 11)\n\n🥕 Oogstp
+ eriode: week 44–45 (okt–nov)\n\nVariant: Koude-tolerante types (o.a. C
+ anton White)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor week 46\, 
+ daarna wordt de kans op zware vorst (-5°C) te groot voor dit ras.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,429 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Spinazie (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Spinazie
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250217
+DTSTAMP:20260216T185339Z
+UID:89699f3467f52cb4@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 7 (feb)\n🥕 Verwachte oogst: week 16–18 (apr–
+ mei)\n\nVariant: Snelgroeiend scherpzaad (voorjaar)\nBetrouwbaarheid: ⚠
+ ️ Laag (weersafhankelijk)\n\n💡 Tip: Grond is nog koud (<3°C)\, kiemi
+ ng duurt lang. Dek eventueel af met vliesdoek voor versnelling.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185339Z
+UID:baf606a6c0271c00@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Vroege rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 9 (feb–mrt)\n🥕 Verwachte oogst: week 18–20 (
+ apr–mei)\n\nVariant: Snelgroeiend scherpzaad (voorjaar)\nBetrouwbaarheid
+ : ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Grond is nog koud (<3°C)\, 
+ kieming duurt lang. Dek eventueel af met vliesdoek voor versnelling.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185339Z
+UID:182eea31194bfb7c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Vroege rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 11 (mrt)\n🥕 Verwachte oogst: week 20–22 (mei
+ –jun)\n\nVariant: Snelgroeiend scherpzaad (voorjaar)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Grond is nog koud (<3°C)\, ki
+ eming duurt lang. Dek eventueel af met vliesdoek voor versnelling.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185339Z
+UID:7f6cbcdaa8130235@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Vroege rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 13 (mrt)\n🥕 Verwachte oogst: week 21–23 (mei
+ –jun)\n\nVariant: Snelgroeiend scherpzaad (voorjaar)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Grond is nog koud (<3°C)\, ki
+ eming duurt lang. Dek eventueel af met vliesdoek voor versnelling.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:986905497238c3a4@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Zomer rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 15 (apr)\n🥕 Verwachte oogst: week 22–24 (mei
+ –jun)\n\nVariant: Trage schieters (rondzaad)\nBetrouwbaarheid: ⚠️ La
+ ag (weersafhankelijk)\n\n💡 Tip: Houd de grond goed vochtig om doorschie
+ ten bij lange dagen te vertragen. Oogst jong.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:dd396bbff0991d1c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Zomer rassen (Batch 6)\n\n
+ 📅 Zaaiperiode: week 17 (apr)\n🥕 Verwachte oogst: week 23–25 (jun)\
+ n\nVariant: Trage schieters (rondzaad)\nBetrouwbaarheid: ✅ Hoog\n\n💡 
+ Tip: Houd de grond goed vochtig om doorschieten bij lange dagen te vertrag
+ en. Oogst jong.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:349c85a3750f5c95@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Zomer rassen (Batch 7)\n\n
+ 📅 Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 25–27 (jun
+ –jul)\n\nVariant: Trage schieters (rondzaad)\nBetrouwbaarheid: ✅ Hoog\
+ n\n💡 Tip: Houd de grond goed vochtig om doorschieten bij lange dagen te
+  vertragen. Oogst jong.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:30a4c3a5a85ae604@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Zomer rassen (Batch 8)\n\n
+ 📅 Zaaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 27–29 (jun
+ –jul)\n\nVariant: Trage schieters (rondzaad)\nBetrouwbaarheid: ✅ Hoog\
+ n\n💡 Tip: Houd de grond goed vochtig om doorschieten bij lange dagen te
+  vertragen. Oogst jong.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:1b579b96cfb66c44@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Zomer rassen (Batch 9)\n\n
+ 📅 Zaaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 29–31 (jul
+ –aug)\n\nVariant: Trage schieters (rondzaad)\nBetrouwbaarheid: ✅ Hoog\
+ n\n💡 Tip: Houd de grond goed vochtig om doorschieten bij lange dagen te
+  vertragen. Oogst jong.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:a97773a0cb82e3ae@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Zomer rassen (Batch 10)\n\n
+ 📅 Zaaiperiode: week 25 (jun)\n🥕 Verwachte oogst: week 31–33 (jul
+ –aug)\n\nVariant: Trage schieters (rondzaad)\nBetrouwbaarheid: ✅ Hoog\
+ n\n💡 Tip: Houd de grond goed vochtig om doorschieten bij lange dagen te
+  vertragen. Oogst jong.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:d6c15aedb5bf36be@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Zomer rassen (Batch 11)\n\n
+ 📅 Zaaiperiode: week 27 (jun–jul)\n🥕 Verwachte oogst: week 33–35 
+ (aug)\n\nVariant: Trage schieters (rondzaad)\nBetrouwbaarheid: ✅ Hoog\n\
+ n💡 Tip: Houd de grond goed vochtig om doorschieten bij lange dagen te v
+ ertragen. Oogst jong.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:f16206b640097b5f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Late rassen (Batch 12)\n\n
+ 📅 Zaaiperiode: week 31 (jul–aug)\n🥕 Verwachte oogst: week 40–43 
+ (sep–okt)\n\nVariant: Winterhard breedblad (herfst/winter)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: De laatste batches overwinteren voor een vroege
+  oogst in het volgende voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:e2dc061954955051@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Late rassen (Batch 13)\n\n
+ 📅 Zaaiperiode: week 34 (aug)\n🥕 Verwachte oogst: week 44–47 (okt
+ –nov)\n\nVariant: Winterhard breedblad (herfst/winter)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De laatste batches overwinteren voor een vroege oog
+ st in het volgende voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185339Z
+UID:a73ab9a80fd9574a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Late rassen (Batch 14)\n\n
+ 📅 Zaaiperiode: week 37 (sep)\n🥕 Verwachte oogst: week 48–51 (nov
+ –dec)\n\nVariant: Winterhard breedblad (herfst/winter)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De laatste batches overwinteren voor een vroege oog
+ st in het volgende voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185339Z
+UID:ec7bb2857029e100@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Spinazie — Late rassen (Batch 15)\n\n
+ 📅 Zaaiperiode: week 40 (sep–okt)\n🥕 Verwachte oogst: week 11–14 
+ (mrt–apr)\n\nVariant: Winterhard breedblad (herfst/winter)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: De laatste batches overwinteren voor een vroege
+  oogst in het volgende voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:0b6e6e019d610b05@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Vroege rassen (Batch 1)\n\n🥕 Oog
+ stperiode: week 16–18 (apr–mei)\n\nVariant: Snelgroeiend scherpzaad (v
+ oorjaar)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Sni
+ jd de blaadjes net boven het hart af zodat ze kunnen hergroeien voor een t
+ weede snede.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:292096f73f9b7179@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Vroege rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 18–20 (apr–mei)\n\nVariant: Snelgroeiend scherpzaad (v
+ oorjaar)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Sni
+ jd de blaadjes net boven het hart af zodat ze kunnen hergroeien voor een t
+ weede snede.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:8446ab7799e06b75@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Vroege rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 20–22 (mei–jun)\n\nVariant: Snelgroeiend scherpzaad (v
+ oorjaar)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Sni
+ jd de blaadjes net boven het hart af zodat ze kunnen hergroeien voor een t
+ weede snede.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:ea2265feafab711b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Vroege rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 21–23 (mei–jun)\n\nVariant: Snelgroeiend scherpzaad (v
+ oorjaar)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Sni
+ jd de blaadjes net boven het hart af zodat ze kunnen hergroeien voor een t
+ weede snede.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:36eb6399427efa50@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Zomer rassen (Batch 5)\n\n🥕 Oogs
+ tperiode: week 22–24 (mei–jun)\n\nVariant: Trage schieters (rondzaad)\
+ nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst 's och
+ tends vroeg als het blad nog knapperig is. Let op bloemstengels\; direct o
+ ogsten als deze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:c27d82023d2e447b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Zomer rassen (Batch 6)\n\n🥕 Oogs
+ tperiode: week 23–25 (jun)\n\nVariant: Trage schieters (rondzaad)\nBetro
+ uwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het blad nog
+  knapperig is. Let op bloemstengels\; direct oogsten als deze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:fa9852e891f46a6f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Zomer rassen (Batch 7)\n\n🥕 Oogs
+ tperiode: week 25–27 (jun–jul)\n\nVariant: Trage schieters (rondzaad)\
+ nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het bl
+ ad nog knapperig is. Let op bloemstengels\; direct oogsten als deze versch
+ ijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185339Z
+UID:05fe3e550844512c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Zomer rassen (Batch 8)\n\n🥕 Oogs
+ tperiode: week 27–29 (jun–jul)\n\nVariant: Trage schieters (rondzaad)\
+ nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het bl
+ ad nog knapperig is. Let op bloemstengels\; direct oogsten als deze versch
+ ijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:153f2a49f4ec5058@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Zomer rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 29–31 (jul–aug)\n\nVariant: Trage schieters (rondzaad)\
+ nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het bl
+ ad nog knapperig is. Let op bloemstengels\; direct oogsten als deze versch
+ ijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185339Z
+UID:25dfcced589ad51e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Zomer rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 31–33 (jul–aug)\n\nVariant: Trage schieters (rondzaad)
+ \nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het b
+ lad nog knapperig is. Let op bloemstengels\; direct oogsten als deze versc
+ hijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185339Z
+UID:c715f81c9ac94843@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Zomer rassen (Batch 11)\n\n🥕 Oog
+ stperiode: week 33–35 (aug)\n\nVariant: Trage schieters (rondzaad)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroeg als het blad no
+ g knapperig is. Let op bloemstengels\; direct oogsten als deze verschijnen
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185339Z
+UID:b75490b936fb268e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Late rassen (Batch 12)\n\n🥕 Oogs
+ tperiode: week 40–43 (sep–okt)\n\nVariant: Winterhard breedblad (herfs
+ t/winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De laatste oogst valt in
+  het nieuwe jaar (maart/april). Oogst alleen bij vorstvrij weer om bladsch
+ ade te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20260216T185339Z
+UID:da0dfd4365ae37ef@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Late rassen (Batch 13)\n\n🥕 Oogs
+ tperiode: week 44–47 (okt–nov)\n\nVariant: Winterhard breedblad (herfs
+ t/winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De laatste oogst valt in
+  het nieuwe jaar (maart/april). Oogst alleen bij vorstvrij weer om bladsch
+ ade te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251222
+DTSTAMP:20260216T185339Z
+UID:da02fa642e2184b0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Late rassen (Batch 14)\n\n🥕 Oogs
+ tperiode: week 48–51 (nov–dec)\n\nVariant: Winterhard breedblad (herfs
+ t/winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De laatste oogst valt in
+  het nieuwe jaar (maart/april). Oogst alleen bij vorstvrij weer om bladsch
+ ade te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spinazie — Late rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:017e1adcc5fca8a4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spinazie — Late rassen (Batch 15)\n\n🥕 Oogs
+ tperiode: week 11–14 (mrt–apr)\n\nVariant: Winterhard breedblad (herfs
+ t/winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De laatste oogst valt in
+  het nieuwe jaar (maart/april). Oogst alleen bij vorstvrij weer om bladsch
+ ade te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,582 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Broccoli (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Broccoli
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185338Z
+UID:40a23a356554c5e6@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Vroege rassen (Batch 1)\n\n📅 
+ Zaaiperiode: week 6 (feb)\n🏡 Uitplanten: week 11–12 (mrt)\n🥕 Verwa
+ chte oogst: week 20–21 (mei)\n\nVariant: Snelgroeiende hybride (o.a. Mar
+ athon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen warm voor. D
+ eze vroege batches geven de eerste oogst\, maar bescherm jonge planten str
+ aks goed tegen nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:33e42d05c96c719b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Vroege rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 8 (feb)\n🏡 Uitplanten: week 13–14 (mrt–apr)\n🥕
+  Verwachte oogst: week 22–23 (mei–jun)\n\nVariant: Snelgroeiende hybri
+ de (o.a. Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen 
+ warm voor. Deze vroege batches geven de eerste oogst\, maar bescherm jonge
+  planten straks goed tegen nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:909a10a80de4f6fa@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Vroege rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 15–16 (apr)\n🥕 Verw
+ achte oogst: week 24–25 (jun)\n\nVariant: Snelgroeiende hybride (o.a. Ma
+ rathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen warm voor. 
+ Deze vroege batches geven de eerste oogst\, maar bescherm jonge planten st
+ raks goed tegen nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:7edab4ad47773ec7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Vroege rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 17–18 (apr–mei)\n
+ 🥕 Verwachte oogst: week 26–27 (jun–jul)\n\nVariant: Snelgroeiende h
+ ybride (o.a. Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai bin
+ nen warm voor. Deze vroege batches geven de eerste oogst\, maar bescherm j
+ onge planten straks goed tegen nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:c97d2ac2156fbfce@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Vroege rassen (Batch 1)\n\n🏡 
+ Uitplantperiode: week 11–12 (mrt)\n🌱 Gezaaid in: week 6 (feb)\n🥕 V
+ erwachte oogst: week 20–21 (mei)\n\nVariant: Snelgroeiende hybride (o.a.
+  Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harde de planten af 
+ voor het uitplanten. Gebruik vliesdoek bij nachtvorst (< -3°C) en leg dir
+ ect insectengaas tegen koolvlieg en duiven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:54716c4e9ea3be86@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Vroege rassen (Batch 2)\n\n🏡 
+ Uitplantperiode: week 13–14 (mrt–apr)\n🌱 Gezaaid in: week 8 (feb)\n
+ 🥕 Verwachte oogst: week 22–23 (mei–jun)\n\nVariant: Snelgroeiende h
+ ybride (o.a. Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harde de
+  planten af voor het uitplanten. Gebruik vliesdoek bij nachtvorst (< -3°C
+ ) en leg direct insectengaas tegen koolvlieg en duiven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:e6ff8db418443d57@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Vroege rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 15–16 (apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕 
+ Verwachte oogst: week 24–25 (jun)\n\nVariant: Snelgroeiende hybride (o.a
+ . Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harde de planten af
+  voor het uitplanten. Gebruik vliesdoek bij nachtvorst (< -3°C) en leg di
+ rect insectengaas tegen koolvlieg en duiven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:7df253995cd9205a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Vroege rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 17–18 (apr–mei)\n🌱 Gezaaid in: week 12 (mrt)\
+ n🥕 Verwachte oogst: week 26–27 (jun–jul)\n\nVariant: Snelgroeiende 
+ hybride (o.a. Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harde d
+ e planten af voor het uitplanten. Gebruik vliesdoek bij nachtvorst (< -3°
+ C) en leg direct insectengaas tegen koolvlieg en duiven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:4b93e1814d89ea64@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Vroege rassen (Batch 1)\n\n🥕 Oog
+ stperiode: week 20–21 (mei)\n\nVariant: Snelgroeiende hybride (o.a. Mara
+ thon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de hoofdkop g
+ oed gevormd is maar de bloemknoppen nog gesloten zijn. Snijd de steel schu
+ in af.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:d4f88ed9d1b3e2b9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Vroege rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 22–23 (mei–jun)\n\nVariant: Snelgroeiende hybride (o.a
+ . Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de hoof
+ dkop goed gevormd is maar de bloemknoppen nog gesloten zijn. Snijd de stee
+ l schuin af.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:eab5f1ab79bff3fa@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Vroege rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 24–25 (jun)\n\nVariant: Snelgroeiende hybride (o.a. Mara
+ thon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de hoofdkop g
+ oed gevormd is maar de bloemknoppen nog gesloten zijn. Snijd de steel schu
+ in af.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:092109ebe996cc5b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Vroege rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 26–27 (jun–jul)\n\nVariant: Snelgroeiende hybride (o.a
+ . Marathon F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de hoof
+ dkop goed gevormd is maar de bloemknoppen nog gesloten zijn. Snijd de stee
+ l schuin af.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:55d0a1e7c1e787a6@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Zomer rassen (Batch 5)\n\n📅 Z
+ aaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18–19 (apr–mei)
+ \n🥕 Verwachte oogst: week 28–29 (jul)\n\nVariant: Productierassen (o.
+ a. Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien 
+ geeft betere resultaten dan direct zaaien i.v.m. ongedierte. Houd de zaail
+ ingen vochtig maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:cc1ddb21428a9ea5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Zomer rassen (Batch 6)\n\n📅 Z
+ aaiperiode: week 16 (apr)\n🏡 Uitplanten: week 20–21 (mei)\n🥕 Verwa
+ chte oogst: week 30–31 (jul–aug)\n\nVariant: Productierassen (o.a. Cal
+ abrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien geeft 
+ betere resultaten dan direct zaaien i.v.m. ongedierte. Houd de zaailingen 
+ vochtig maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:960aa7182140bb72@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Zomer rassen (Batch 7)\n\n📅 Z
+ aaiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 22–23 (mei–jun)
+ \n🥕 Verwachte oogst: week 32–33 (aug)\n\nVariant: Productierassen (o.
+ a. Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien 
+ geeft betere resultaten dan direct zaaien i.v.m. ongedierte. Houd de zaail
+ ingen vochtig maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:5bc5c471bf5653f5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Zomer rassen (Batch 8)\n\n📅 Z
+ aaiperiode: week 20 (mei)\n🏡 Uitplanten: week 24–25 (jun)\n🥕 Verwa
+ chte oogst: week 34–35 (aug)\n\nVariant: Productierassen (o.a. Calabrese
+ \, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien geeft betere
+  resultaten dan direct zaaien i.v.m. ongedierte. Houd de zaailingen vochti
+ g maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:7e6407ce9d95de87@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Zomer rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 22 (mei–jun)\n🏡 Uitplanten: week 26–27 (jun–jul)
+ \n🥕 Verwachte oogst: week 36–37 (sep)\n\nVariant: Productierassen (o.
+ a. Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien 
+ geeft betere resultaten dan direct zaaien i.v.m. ongedierte. Houd de zaail
+ ingen vochtig maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:1db1183f61c644df@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Zomer rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 24 (jun)\n🏡 Uitplanten: week 28–29 (jul)\n🥕 Verw
+ achte oogst: week 38–40 (sep–okt)\n\nVariant: Productierassen (o.a. Ca
+ labrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien geeft
+  betere resultaten dan direct zaaien i.v.m. ongedierte. Houd de zaailingen
+  vochtig maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:26ea0be6027d5077@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Zomer rassen (Batch 5)\n\n🏡 U
+ itplantperiode: week 18–19 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–
+ apr)\n🥕 Verwachte oogst: week 28–29 (jul)\n\nVariant: Productierassen
+  (o.a. Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant s
+ tevig aan in voedzame grond. Bescherming met insectengaas is essentieel te
+ gen het koolwitje in de zomermaanden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:fa516a4836aa177b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Zomer rassen (Batch 6)\n\n🏡 U
+ itplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 V
+ erwachte oogst: week 30–31 (jul–aug)\n\nVariant: Productierassen (o.a.
+  Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant stevig 
+ aan in voedzame grond. Bescherming met insectengaas is essentieel tegen he
+ t koolwitje in de zomermaanden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:a7116cc76602983c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Zomer rassen (Batch 7)\n\n🏡 U
+ itplantperiode: week 22–23 (mei–jun)\n🌱 Gezaaid in: week 18 (apr–
+ mei)\n🥕 Verwachte oogst: week 32–33 (aug)\n\nVariant: Productierassen
+  (o.a. Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant s
+ tevig aan in voedzame grond. Bescherming met insectengaas is essentieel te
+ gen het koolwitje in de zomermaanden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:2a41a30a37629410@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Zomer rassen (Batch 8)\n\n🏡 U
+ itplantperiode: week 24–25 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕 V
+ erwachte oogst: week 34–35 (aug)\n\nVariant: Productierassen (o.a. Calab
+ rese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant stevig aan in
+  voedzame grond. Bescherming met insectengaas is essentieel tegen het kool
+ witje in de zomermaanden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:42f2292cab4e51ad@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Zomer rassen (Batch 9)\n\n🏡 U
+ itplantperiode: week 26–27 (jun–jul)\n🌱 Gezaaid in: week 22 (mei–
+ jun)\n🥕 Verwachte oogst: week 36–37 (sep)\n\nVariant: Productierassen
+  (o.a. Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant s
+ tevig aan in voedzame grond. Bescherming met insectengaas is essentieel te
+ gen het koolwitje in de zomermaanden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:d5bcc7de325165f6@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Zomer rassen (Batch 10)\n\n🏡 
+ Uitplantperiode: week 28–29 (jul)\n🌱 Gezaaid in: week 24 (jun)\n🥕 
+ Verwachte oogst: week 38–40 (sep–okt)\n\nVariant: Productierassen (o.a
+ . Calabrese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant stevig
+  aan in voedzame grond. Bescherming met insectengaas is essentieel tegen h
+ et koolwitje in de zomermaanden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:c2da59f760e78b23@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Zomer rassen (Batch 5)\n\n🥕 Oogs
+ tperiode: week 28–29 (jul)\n\nVariant: Productierassen (o.a. Calabrese\,
+  Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na het snijden van de hoo
+ fdkop produceren deze rassen vaak nog kleinere zijscheuten. Laat de plant 
+ staan voor een bonusoogst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:51f3c7f3f2523227@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Zomer rassen (Batch 6)\n\n🥕 Oogs
+ tperiode: week 30–31 (jul–aug)\n\nVariant: Productierassen (o.a. Calab
+ rese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na het snijden van 
+ de hoofdkop produceren deze rassen vaak nog kleinere zijscheuten. Laat de 
+ plant staan voor een bonusoogst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:5387a6efef7c9684@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Zomer rassen (Batch 7)\n\n🥕 Oogs
+ tperiode: week 32–33 (aug)\n\nVariant: Productierassen (o.a. Calabrese\,
+  Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na het snijden van de hoo
+ fdkop produceren deze rassen vaak nog kleinere zijscheuten. Laat de plant 
+ staan voor een bonusoogst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:f18bc1f51964c2cf@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Zomer rassen (Batch 8)\n\n🥕 Oogs
+ tperiode: week 34–35 (aug)\n\nVariant: Productierassen (o.a. Calabrese\,
+  Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na het snijden van de hoo
+ fdkop produceren deze rassen vaak nog kleinere zijscheuten. Laat de plant 
+ staan voor een bonusoogst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:ef49acfc3e113bf3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Zomer rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 36–37 (sep)\n\nVariant: Productierassen (o.a. Calabrese\,
+  Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na het snijden van de hoo
+ fdkop produceren deze rassen vaak nog kleinere zijscheuten. Laat de plant 
+ staan voor een bonusoogst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:9a42923af0759a25@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Zomer rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 38–40 (sep–okt)\n\nVariant: Productierassen (o.a. Cala
+ brese\, Fiesta)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na het snijden van
+  de hoofdkop produceren deze rassen vaak nog kleinere zijscheuten. Laat de
+  plant staan voor een bonusoogst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:1f711f06c8898d53@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Late rassen (Batch 11)\n\n📅 Z
+ aaiperiode: week 26 (jun)\n🏡 Uitplanten: week 31–32 (jul–aug)\n🥕
+  Verwachte oogst: week 6–8 (feb)\n\nVariant: Winterbroccoli / Sprouting 
+ (o.a. Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dit is de 
+ teelt voor volgend voorjaar. Zaai nu om sterke planten te hebben voor de w
+ inter invalt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:662d216aee4a161a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Late rassen (Batch 12)\n\n📅 Z
+ aaiperiode: week 28 (jul)\n🏡 Uitplanten: week 33–34 (aug)\n🥕 Verwa
+ chte oogst: week 8–10 (feb–mrt)\n\nVariant: Winterbroccoli / Sprouting
+  (o.a. Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dit is de
+  teelt voor volgend voorjaar. Zaai nu om sterke planten te hebben voor de 
+ winter invalt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:d1dfb29f23a3e3ee@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Broccoli — Late rassen (Batch 13)\n\n📅 Z
+ aaiperiode: week 30 (jul)\n🏡 Uitplanten: week 35–36 (aug–sep)\n🥕
+  Verwachte oogst: week 10–13 (mrt)\n\nVariant: Winterbroccoli / Sproutin
+ g (o.a. Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dit is d
+ e teelt voor volgend voorjaar. Zaai nu om sterke planten te hebben voor de
+  winter invalt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:8dbe4965b15b8143@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Late rassen (Batch 11)\n\n🏡 U
+ itplantperiode: week 31–32 (jul–aug)\n🌱 Gezaaid in: week 26 (jun)\n
+ 🥕 Verwachte oogst: week 6–8 (feb)\n\nVariant: Winterbroccoli / Sprout
+ ing (o.a. Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant 
+ op een beschutte plek waar ze de hele winter kunnen blijven staan. Aanaard
+ en helpt tegen omwaaien bij herfststormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:4e35b6c704b3456d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Late rassen (Batch 12)\n\n🏡 U
+ itplantperiode: week 33–34 (aug)\n🌱 Gezaaid in: week 28 (jul)\n🥕 V
+ erwachte oogst: week 8–10 (feb–mrt)\n\nVariant: Winterbroccoli / Sprou
+ ting (o.a. Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant
+  op een beschutte plek waar ze de hele winter kunnen blijven staan. Aanaar
+ den helpt tegen omwaaien bij herfststormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:baf48927768c67db@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Broccoli — Late rassen (Batch 13)\n\n🏡 U
+ itplantperiode: week 35–36 (aug–sep)\n🌱 Gezaaid in: week 30 (jul)\n
+ 🥕 Verwachte oogst: week 10–13 (mrt)\n\nVariant: Winterbroccoli / Spro
+ uting (o.a. Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plan
+ t op een beschutte plek waar ze de hele winter kunnen blijven staan. Aanaa
+ rden helpt tegen omwaaien bij herfststormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:161bcd3bf1750885@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Late rassen (Batch 11)\n\n🥕 Oogs
+ tperiode: week 6–8 (feb)\n\nVariant: Winterbroccoli / Sprouting (o.a. Pu
+ rple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de losse blo
+ emstengels in het vroege voorjaar. Regelmatig plukken stimuleert nieuwe aa
+ nmaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:f1aa25876d4e864f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Late rassen (Batch 12)\n\n🥕 Oogs
+ tperiode: week 8–10 (feb–mrt)\n\nVariant: Winterbroccoli / Sprouting (
+ o.a. Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de lo
+ sse bloemstengels in het vroege voorjaar. Regelmatig plukken stimuleert ni
+ euwe aanmaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Broccoli — Late rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:2944a2851a1c37bc@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Broccoli — Late rassen (Batch 13)\n\n🥕 Oogs
+ tperiode: week 10–13 (mrt)\n\nVariant: Winterbroccoli / Sprouting (o.a. 
+ Purple Sprouting)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de losse b
+ loemstengels in het vroege voorjaar. Regelmatig plukken stimuleert nieuwe 
+ aanmaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

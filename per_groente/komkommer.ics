@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Komkommer (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Komkommer
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Komkommer — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:70a9a1b6bd7bf3dd@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Komkommer — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 18–19 (apr–mei)\n🏡 Uitplanten: week 22–23 (mei
+ –jun)\n🥕 Verwachte oogst: week 28–35 (jul–aug)\n\nVariant: Parthe
+ nocarpe hybride (o.a. Picolino)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Za
+ ai 4 weken voor het uitplanten. Gebruik ruime potten (9cm) en houd de temp
+ eratuur boven de 20°C.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Komkommer — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:262a68b577affbbe@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Komkommer — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 22–23 (mei–jun)\n🌱 Gezaaid in: week 18–19 
+ (apr–mei)\n🥕 Verwachte oogst: week 28–35 (jul–aug)\n\nVariant: Pa
+ rthenocarpe hybride (o.a. Picolino)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip
+ : Plant pas uit als de nachtvorst definitief weg is (na Ijsheiligen). Kies
+  de warmste plek in de tuin.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Komkommer — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:399e5c8cc6e71b41@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Komkommer — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 28–35 (jul–aug)\n\nVariant: Parthenocarpe hybride (o.
+ a. Picolino)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de eerste vruch
+ ten jong om de plant niet uit te putten. Dit stimuleert verdere zetting.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Komkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:881424a3576fffa3@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Komkommer — Zomer rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 20–21 (mei)\n🏡 Uitplanten: week 24–25 (jun)\n🥕
+  Verwachte oogst: week 30–38 (jul–sep)\n\nVariant: Sterke buitenteelt 
+ rassen (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai verv
+ olgbatches om spreiding in de oogst te krijgen en zieke planten in juli te
+  kunnen vervangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Komkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:becdb1444455cab1@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Komkommer — Zomer rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 23–24 (jun)\n🏡 Uitplanten: week 27–28 (jun–jul)
+ \n🥕 Verwachte oogst: week 33–41 (aug–okt)\n\nVariant: Sterke buiten
+ teelt rassen (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaa
+ i vervolgbatches om spreiding in de oogst te krijgen en zieke planten in j
+ uli te kunnen vervangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Komkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:aab98c28eb77d98b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Komkommer — Zomer rassen (Batch 2)\n\n🏡 
+ Uitplantperiode: week 24–25 (jun)\n🌱 Gezaaid in: week 20–21 (mei)\n
+ 🥕 Verwachte oogst: week 30–38 (jul–sep)\n\nVariant: Sterke buitente
+ elt rassen (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef 
+ ruim water bij de voet\, niet op het blad (voorkomt meeldauw). Mulchlaag h
+ elpt tegen uitdroging.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Komkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:cf130350e840c101@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Komkommer — Zomer rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 27–28 (jun–jul)\n🌱 Gezaaid in: week 23–24 (
+ jun)\n🥕 Verwachte oogst: week 33–41 (aug–okt)\n\nVariant: Sterke bu
+ itenteelt rassen (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip:
+  Geef ruim water bij de voet\, niet op het blad (voorkomt meeldauw). Mulch
+ laag helpt tegen uitdroging.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Komkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:22f5e830f0e0448e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Komkommer — Zomer rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 30–38 (jul–sep)\n\nVariant: Sterke buitenteelt rassen 
+ (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer bij w
+ arm weer dagelijks\; komkommers kunnen in 24 uur enorm groeien en hun smaa
+ k verliezen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Komkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:b9292478106ce08c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Komkommer — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 33–41 (aug–okt)\n\nVariant: Sterke buitenteelt rassen 
+ (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer bij w
+ arm weer dagelijks\; komkommers kunnen in 24 uur enorm groeien en hun smaa
+ k verliezen.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

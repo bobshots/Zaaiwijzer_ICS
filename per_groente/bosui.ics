@@ -1,0 +1,520 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Bosui (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Bosui
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185338Z
+UID:1f908adede923a97@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bosui — Vroege rassen (Batch 1)\n\n📅 Zaa
+ iperiode: week 6 (feb)\n🏡 Uitplanten: week 12 (mrt)\n🥕 Verwachte oog
+ st: week 18–20 (apr–mei)\n\nVariant: Snelgroeiende stengelui (o.a. Ish
+ ikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in modules of trays. G
+ ebruik 'multi-sowing': zaai 5-7 zaadjes per vakje en plant later de hele k
+ luit uit voor een vollere bos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:a4437f3b34777c0d@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bosui — Vroege rassen (Batch 2)\n\n📅 Zaa
+ iperiode: week 8 (feb)\n🏡 Uitplanten: week 14 (mrt–apr)\n🥕 Verwach
+ te oogst: week 20–22 (mei–jun)\n\nVariant: Snelgroeiende stengelui (o.
+ a. Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in modules of tr
+ ays. Gebruik 'multi-sowing': zaai 5-7 zaadjes per vakje en plant later de 
+ hele kluit uit voor een vollere bos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:54803f322962ce0a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bosui — Vroege rassen (Batch 3)\n\n📅 Zaa
+ iperiode: week 10 (mrt)\n🏡 Uitplanten: week 16 (apr)\n🥕 Verwachte oo
+ gst: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende stengelui (o.a. Is
+ hikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in modules of trays. 
+ Gebruik 'multi-sowing': zaai 5-7 zaadjes per vakje en plant later de hele 
+ kluit uit voor een vollere bos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:2b85f2aaf563e8c0@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bosui — Vroege rassen (Batch 4)\n\n📅 Zaa
+ iperiode: week 12 (mrt)\n🏡 Uitplanten: week 17 (apr)\n🥕 Verwachte oo
+ gst: week 24–26 (jun)\n\nVariant: Snelgroeiende stengelui (o.a. Ishikura
+ )\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in modules of trays. Gebrui
+ k 'multi-sowing': zaai 5-7 zaadjes per vakje en plant later de hele kluit 
+ uit voor een vollere bos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:48164d68e4fee884@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bosui — Vroege rassen (Batch 5)\n\n📅 Zaa
+ iperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Verwac
+ hte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende stengelui (o
+ .a. Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in modules of t
+ rays. Gebruik 'multi-sowing': zaai 5-7 zaadjes per vakje en plant later de
+  hele kluit uit voor een vollere bos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:6b15c153c0b665fc@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bosui — Vroege rassen (Batch 6)\n\n📅 Zaa
+ iperiode: week 16 (apr)\n🏡 Uitplanten: week 20 (mei)\n🥕 Verwachte oo
+ gst: week 28–30 (jul)\n\nVariant: Snelgroeiende stengelui (o.a. Ishikura
+ )\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in modules of trays. Gebrui
+ k 'multi-sowing': zaai 5-7 zaadjes per vakje en plant later de hele kluit 
+ uit voor een vollere bos.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:0176a898266d9685@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bosui — Vroege rassen (Batch 1)\n\n🏡 Uit
+ plantperiode: week 12 (mrt)\n🌱 Gezaaid in: week 6 (feb)\n🥕 Verwachte
+  oogst: week 18–20 (apr–mei)\n\nVariant: Snelgroeiende stengelui (o.a.
+  Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de kluitjes uit o
+ p 15x15cm. De bodem is nog koud\, dus verhard de plantjes goed af voor het
+  uitplanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:277ef13261e8bc4d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bosui — Vroege rassen (Batch 2)\n\n🏡 Uit
+ plantperiode: week 14 (mrt–apr)\n🌱 Gezaaid in: week 8 (feb)\n🥕 Ver
+ wachte oogst: week 20–22 (mei–jun)\n\nVariant: Snelgroeiende stengelui
+  (o.a. Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de kluitjes
+  uit op 15x15cm. De bodem is nog koud\, dus verhard de plantjes goed af vo
+ or het uitplanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:6791712be9ff5fa6@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bosui — Vroege rassen (Batch 3)\n\n🏡 Uit
+ plantperiode: week 16 (apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕 Verwacht
+ e oogst: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende stengelui (o.a
+ . Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de kluitjes uit 
+ op 15x15cm. De bodem is nog koud\, dus verhard de plantjes goed af voor he
+ t uitplanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:1ad7706fdc21f141@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bosui — Vroege rassen (Batch 4)\n\n🏡 Uit
+ plantperiode: week 17 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwacht
+ e oogst: week 24–26 (jun)\n\nVariant: Snelgroeiende stengelui (o.a. Ishi
+ kura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de kluitjes uit op 15x
+ 15cm. De bodem is nog koud\, dus verhard de plantjes goed af voor het uitp
+ lanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:565e546b032b608a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bosui — Vroege rassen (Batch 5)\n\n🏡 Uit
+ plantperiode: week 19 (mei)\n🌱 Gezaaid in: week 14 (mrt–apr)\n🥕 Ve
+ rwachte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende stengelu
+ i (o.a. Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de kluitje
+ s uit op 15x15cm. De bodem is nog koud\, dus verhard de plantjes goed af v
+ oor het uitplanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:435812f860c69370@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bosui — Vroege rassen (Batch 6)\n\n🏡 Uit
+ plantperiode: week 20 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwacht
+ e oogst: week 28–30 (jul)\n\nVariant: Snelgroeiende stengelui (o.a. Ishi
+ kura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de kluitjes uit op 15x
+ 15cm. De bodem is nog koud\, dus verhard de plantjes goed af voor het uitp
+ lanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:5f6008f40198545e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Vroege rassen (Batch 1)\n\n🥕 Oogstp
+ eriode: week 18–20 (apr–mei)\n\nVariant: Snelgroeiende stengelui (o.a.
+  Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de hele kluit of 
+ snijd net boven de grond voor hergroei. Oogst bij droog weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:7b9d2063260cfe24@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Vroege rassen (Batch 2)\n\n🥕 Oogstp
+ eriode: week 20–22 (mei–jun)\n\nVariant: Snelgroeiende stengelui (o.a.
+  Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de hele kluit of 
+ snijd net boven de grond voor hergroei. Oogst bij droog weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:11ebaf2e63671a56@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Vroege rassen (Batch 3)\n\n🥕 Oogstp
+ eriode: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende stengelui (o.a.
+  Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de hele kluit of 
+ snijd net boven de grond voor hergroei. Oogst bij droog weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:2d8d16de5eea799a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Vroege rassen (Batch 4)\n\n🥕 Oogstp
+ eriode: week 24–26 (jun)\n\nVariant: Snelgroeiende stengelui (o.a. Ishik
+ ura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de hele kluit of snijd 
+ net boven de grond voor hergroei. Oogst bij droog weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:408658d7a1adc80d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Vroege rassen (Batch 5)\n\n🥕 Oogstp
+ eriode: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende stengelui (o.a.
+  Ishikura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de hele kluit of 
+ snijd net boven de grond voor hergroei. Oogst bij droog weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:166cb542956189b6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Vroege rassen (Batch 6)\n\n🥕 Oogstp
+ eriode: week 28–30 (jul)\n\nVariant: Snelgroeiende stengelui (o.a. Ishik
+ ura)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de hele kluit of snijd 
+ net boven de grond voor hergroei. Oogst bij droog weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:5e1374d4be7fdb46@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Zomer rassen (Batch 7)\n\n📅 Z
+ aaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 29–31 (jul–aug)\
+ n\nVariant: Hittetolerante grove ui (o.a. White Lisbon)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: De bodem is nu warm genoeg (>5°C). Zaai direct in r
+ egels op 25cm afstand\, 1-2 cm diep. Houd goed vochtig voor kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:5d3be85b7ee792ca@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Zomer rassen (Batch 8)\n\n📅 Z
+ aaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 31–33 (jul–aug)\
+ n\nVariant: Hittetolerante grove ui (o.a. White Lisbon)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: De bodem is nu warm genoeg (>5°C). Zaai direct in r
+ egels op 25cm afstand\, 1-2 cm diep. Houd goed vochtig voor kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:dd1c4077bdd7a75c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Zomer rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 33–35 (aug)\n\nVar
+ iant: Hittetolerante grove ui (o.a. White Lisbon)\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: De bodem is nu warm genoeg (>5°C). Zaai direct in regels 
+ op 25cm afstand\, 1-2 cm diep. Houd goed vochtig voor kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:fb8cb9bd9d016fff@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Zomer rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 25 (jun)\n🥕 Verwachte oogst: week 35–37 (aug–sep)
+ \n\nVariant: Hittetolerante grove ui (o.a. White Lisbon)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De bodem is nu warm genoeg (>5°C). Zaai direct in 
+ regels op 25cm afstand\, 1-2 cm diep. Houd goed vochtig voor kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:2b92996dcad3ac81@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Zomer rassen (Batch 11)\n\n📅 
+ Zaaiperiode: week 27 (jun–jul)\n🥕 Verwachte oogst: week 37–39 (sep)
+ \n\nVariant: Hittetolerante grove ui (o.a. White Lisbon)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De bodem is nu warm genoeg (>5°C). Zaai direct in 
+ regels op 25cm afstand\, 1-2 cm diep. Houd goed vochtig voor kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:5d27a5b6d11b058d@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Zomer rassen (Batch 12)\n\n📅 
+ Zaaiperiode: week 29 (jul)\n🥕 Verwachte oogst: week 39–41 (sep–okt)
+ \n\nVariant: Hittetolerante grove ui (o.a. White Lisbon)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De bodem is nu warm genoeg (>5°C). Zaai direct in 
+ regels op 25cm afstand\, 1-2 cm diep. Houd goed vochtig voor kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:b3ccd78327706911@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Zomer rassen (Batch 7)\n\n🥕 Oogstpe
+ riode: week 29–31 (jul–aug)\n\nVariant: Hittetolerante grove ui (o.a. 
+ White Lisbon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij warm weer regelm
+ atig water geven om scherpe smaak te voorkomen. Oogst jong voor de zachtst
+ e smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:2a1489206032c8e5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Zomer rassen (Batch 8)\n\n🥕 Oogstpe
+ riode: week 31–33 (jul–aug)\n\nVariant: Hittetolerante grove ui (o.a. 
+ White Lisbon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij warm weer regelm
+ atig water geven om scherpe smaak te voorkomen. Oogst jong voor de zachtst
+ e smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:dcb0bdfd30d8fcc2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Zomer rassen (Batch 9)\n\n🥕 Oogstpe
+ riode: week 33–35 (aug)\n\nVariant: Hittetolerante grove ui (o.a. White 
+ Lisbon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij warm weer regelmatig w
+ ater geven om scherpe smaak te voorkomen. Oogst jong voor de zachtste smaa
+ k.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:3c22610f21303215@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Zomer rassen (Batch 10)\n\n🥕 Oogstp
+ eriode: week 35–37 (aug–sep)\n\nVariant: Hittetolerante grove ui (o.a.
+  White Lisbon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij warm weer regel
+ matig water geven om scherpe smaak te voorkomen. Oogst jong voor de zachts
+ te smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:49be3e6e09911fbb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Zomer rassen (Batch 11)\n\n🥕 Oogstp
+ eriode: week 37–39 (sep)\n\nVariant: Hittetolerante grove ui (o.a. White
+  Lisbon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij warm weer regelmatig 
+ water geven om scherpe smaak te voorkomen. Oogst jong voor de zachtste sma
+ ak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:82bef83c59f64363@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Zomer rassen (Batch 12)\n\n🥕 Oogstp
+ eriode: week 39–41 (sep–okt)\n\nVariant: Hittetolerante grove ui (o.a.
+  White Lisbon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij warm weer regel
+ matig water geven om scherpe smaak te voorkomen. Oogst jong voor de zachts
+ te smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:691726cc54717963@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Late rassen (Batch 13)\n\n📅 Z
+ aaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 42–45 (okt–nov)\
+ n\nVariant: Winterharde bosui (o.a. Winterhecke)\nBetrouwbaarheid: ✅ Hoo
+ g\n\n💡 Tip: De laatste zaairondes voor winteroogst en het vroege voorja
+ ar. Zorg voor een onkruidvrij bed.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Late rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:de7e53d6f03b7634@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Late rassen (Batch 14)\n\n📅 Z
+ aaiperiode: week 35 (aug)\n🥕 Verwachte oogst: week 12–15 (mrt–apr)\
+ n\nVariant: Winterharde bosui (o.a. Winterhecke)\nBetrouwbaarheid: ✅ Hoo
+ g\n\n💡 Tip: De laatste zaairondes voor winteroogst en het vroege voorja
+ ar. Zorg voor een onkruidvrij bed.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bosui — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:eb1b19296ad729e0@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bosui — Late rassen (Batch 15)\n\n📅 Z
+ aaiperiode: week 38 (sep)\n🥕 Verwachte oogst: week 16–19 (apr–mei)\
+ n\nVariant: Winterharde bosui (o.a. Winterhecke)\nBetrouwbaarheid: ✅ Hoo
+ g\n\n💡 Tip: De laatste zaairondes voor winteroogst en het vroege voorja
+ ar. Zorg voor een onkruidvrij bed.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:d0f850131d7e7433@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Late rassen (Batch 13)\n\n🥕 Oogstpe
+ riode: week 42–45 (okt–nov)\n\nVariant: Winterharde bosui (o.a. Winter
+ hecke)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 13 oogst je in de her
+ fst. Batch 14 en 15 overwinteren en zijn de allereerste verse uien in het 
+ nieuwe voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Late rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:c2317c81e8054148@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Late rassen (Batch 14)\n\n🥕 Oogstpe
+ riode: week 12–15 (mrt–apr)\n\nVariant: Winterharde bosui (o.a. Winter
+ hecke)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 13 oogst je in de her
+ fst. Batch 14 en 15 overwinteren en zijn de allereerste verse uien in het 
+ nieuwe voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bosui — Late rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:2e1548d33de32ecc@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bosui — Late rassen (Batch 15)\n\n🥕 Oogstpe
+ riode: week 16–19 (apr–mei)\n\nVariant: Winterharde bosui (o.a. Winter
+ hecke)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 13 oogst je in de her
+ fst. Batch 14 en 15 overwinteren en zijn de allereerste verse uien in het 
+ nieuwe voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Prei (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Prei
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Prei — Vroege rassen
+DTSTART;VALUE=DATE:20250120
+DTEND;VALUE=DATE:20250203
+DTSTAMP:20260216T185338Z
+UID:39632ec6b62bf0eb@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Prei — Vroege rassen (Batch 1)\n\n📅 Zaai
+ periode: week 4–5 (jan–feb)\n🏡 Uitplanten: week 14–15 (mrt–apr)
+ \n🥕 Verwachte oogst: week 24–28 (jun–jul)\n\nVariant: Snelgroeiende
+  zomerprei (o.a. King Richard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaa
+ i binnen warm (20°C). Knip de sprieten tot 10cm terug als ze te lang word
+ en voor stevigere planten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Prei — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:10d777efbdbb9c51@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Prei — Vroege rassen (Batch 2)\n\n📅 Zaai
+ periode: week 8–9 (feb–mrt)\n🏡 Uitplanten: week 17–18 (apr–mei)
+ \n🥕 Verwachte oogst: week 28–32 (jul–aug)\n\nVariant: Snelgroeiende
+  zomerprei (o.a. King Richard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaa
+ i binnen warm (20°C). Knip de sprieten tot 10cm terug als ze te lang word
+ en voor stevigere planten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Prei — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:999bfa027effe7e5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Prei — Vroege rassen (Batch 1)\n\n🏡 Uitp
+ lantperiode: week 14–15 (mrt–apr)\n🌱 Gezaaid in: week 4–5 (jan–
+ feb)\n🥕 Verwachte oogst: week 24–28 (jun–jul)\n\nVariant: Snelgroei
+ ende zomerprei (o.a. King Richard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip:
+  Plant diep (in puggaten van 15cm) voor een lange witte schacht. Niet dich
+ tgooien\, alleen aangieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Prei — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:ad1c7aa2ec6afbd8@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Prei — Vroege rassen (Batch 2)\n\n🏡 Uitp
+ lantperiode: week 17–18 (apr–mei)\n🌱 Gezaaid in: week 8–9 (feb–
+ mrt)\n🥕 Verwachte oogst: week 28–32 (jul–aug)\n\nVariant: Snelgroei
+ ende zomerprei (o.a. King Richard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip:
+  Plant diep (in puggaten van 15cm) voor een lange witte schacht. Niet dich
+ tgooien\, alleen aangieten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Prei — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:b6b215b449527da2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Prei — Vroege rassen (Batch 1)\n\n🥕 Oogstpe
+ riode: week 24–28 (jun–jul)\n\nVariant: Snelgroeiende zomerprei (o.a. 
+ King Richard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst deze vroege pr
+ ei jong\, ze zijn minder vorstbestendig en kunnen niet lang op het veld bl
+ ijven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Prei — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:920c550b3503bb64@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Prei — Vroege rassen (Batch 2)\n\n🥕 Oogstpe
+ riode: week 28–32 (jul–aug)\n\nVariant: Snelgroeiende zomerprei (o.a. 
+ King Richard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst deze vroege pr
+ ei jong\, ze zijn minder vorstbestendig en kunnen niet lang op het veld bl
+ ijven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Prei — Zomer rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:2277b9743dbc81f8@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Prei — Zomer rassen (Batch 3)\n\n📅 Zaaip
+ eriode: week 11–12 (mrt)\n🏡 Uitplanten: week 20–21 (mei)\n🥕 Verw
+ achte oogst: week 32–38 (aug–sep)\n\nVariant: Herfstprei (o.a. Porino 
+ F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kan in een koude bak of kweekk
+ as. Houd de grond vochtig maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Prei — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:fba177eb7efccf7e@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Prei — Zomer rassen (Batch 4)\n\n📅 Zaaip
+ eriode: week 15–16 (apr)\n🏡 Uitplanten: week 23–24 (jun)\n🥕 Verw
+ achte oogst: week 38–46 (sep–nov)\n\nVariant: Herfstprei (o.a. Porino 
+ F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kan in een koude bak of kweekk
+ as. Houd de grond vochtig maar niet nat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Prei — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:0d475d6d1e2d57c1@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Prei — Zomer rassen (Batch 3)\n\n🏡 Uitpl
+ antperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 11–12 (mrt)\n🥕 
+ Verwachte oogst: week 32–38 (aug–sep)\n\nVariant: Herfstprei (o.a. Por
+ ino F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Aanaarden (grond tegen de 
+ stam schuiven) bevordert het witbleken van de schacht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Prei — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:13551ebe1796945f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Prei — Zomer rassen (Batch 4)\n\n🏡 Uitpl
+ antperiode: week 23–24 (jun)\n🌱 Gezaaid in: week 15–16 (apr)\n🥕 
+ Verwachte oogst: week 38–46 (sep–nov)\n\nVariant: Herfstprei (o.a. Por
+ ino F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Aanaarden (grond tegen de 
+ stam schuiven) bevordert het witbleken van de schacht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Prei — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:6ff00bdff1ef38f9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Prei — Zomer rassen (Batch 3)\n\n🥕 Oogstper
+ iode: week 32–38 (aug–sep)\n\nVariant: Herfstprei (o.a. Porino F1)\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor de zware vorst invalt (-5
+ °C is de limiet voor deze rassen).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Prei — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20260216T185338Z
+UID:32f2771a074a7085@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Prei — Zomer rassen (Batch 4)\n\n🥕 Oogstper
+ iode: week 38–46 (sep–nov)\n\nVariant: Herfstprei (o.a. Porino F1)\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor de zware vorst invalt (-5
+ °C is de limiet voor deze rassen).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Prei — Late rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:ea08ac179dd1d1bd@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Prei — Late rassen (Batch 5)\n\n📅 Zaaipe
+ riode: week 19–20 (mei)\n🏡 Uitplanten: week 27–28 (jun–jul)\n🥕
+  Verwachte oogst: week 46–52 (nov–dec)\n\nVariant: Winterharde prei (o
+ .a. Blauwgroene Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op ee
+ n zaaibed in de volle grond of in trays buiten. Grondtemperatuur is nu hoo
+ g genoeg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Prei — Late rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:1cf930603d831984@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Prei — Late rassen (Batch 6)\n\n📅 Zaaipe
+ riode: week 23–24 (jun)\n🏡 Uitplanten: week 30–31 (jul–aug)\n🥕
+  Verwachte oogst: week 1–15 (dec–apr)\n\nVariant: Winterharde prei (o.
+ a. Blauwgroene Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op een
+  zaaibed in de volle grond of in trays buiten. Grondtemperatuur is nu hoog
+  genoeg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Prei — Late rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:d3e60c4096cf7a26@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Prei — Late rassen (Batch 5)\n\n🏡 Uitpla
+ ntperiode: week 27–28 (jun–jul)\n🌱 Gezaaid in: week 19–20 (mei)\n
+ 🥕 Verwachte oogst: week 46–52 (nov–dec)\n\nVariant: Winterharde pre
+ i (o.a. Blauwgroene Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet wi
+ nterprei iets dieper. Ze groeien traag en blijven de hele winter staan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Prei — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:1d0a0c1966a675d3@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Prei — Late rassen (Batch 6)\n\n🏡 Uitpla
+ ntperiode: week 30–31 (jul–aug)\n🌱 Gezaaid in: week 23–24 (jun)\n
+ 🥕 Verwachte oogst: week 1–15 (dec–apr)\n\nVariant: Winterharde prei
+  (o.a. Blauwgroene Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet win
+ terprei iets dieper. Ze groeien traag en blijven de hele winter staan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Prei — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:22c160188b44aafb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Prei — Late rassen (Batch 5)\n\n🥕 Oogstperi
+ ode: week 46–52 (nov–dec)\n\nVariant: Winterharde prei (o.a. Blauwgroe
+ ne Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij zware vorst is oogs
+ ten lastig\; dek eventueel een deel af met stro om de grond oogstbaar te h
+ ouden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Prei — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:1d3e5a84014bf273@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Prei — Late rassen (Batch 6)\n\n🥕 Oogstperi
+ ode: week 1–15 (dec–apr)\n\nVariant: Winterharde prei (o.a. Blauwgroen
+ e Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij zware vorst is oogst
+ en lastig\; dek eventueel een deel af met stro om de grond oogstbaar te ho
+ uden.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

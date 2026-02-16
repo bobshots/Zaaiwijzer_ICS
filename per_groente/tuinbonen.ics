@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Tuinbonen (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Tuinbonen
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Tuinbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185339Z
+UID:fc204c3b036652d6@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Tuinbonen — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 6 (feb)\n🏡 Uitplanten: week 10–11 (mrt)\n🥕 Verw
+ achte oogst: week 23–25 (jun)\n\nVariant: Snelgroeiend witkiem ras (o.a.
+  Witkiem)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen in potjes. 
+ Dit voorkomt dat zaden wegrotten in koude grond of worden opgegeten door m
+ uizen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Tuinbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185339Z
+UID:9762238ed0d14e75@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Tuinbonen — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 9 (feb–mrt)\n🏡 Uitplanten: week 13–14 (mrt–apr
+ )\n🥕 Verwachte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiend
+  witkiem ras (o.a. Witkiem)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start 
+ binnen in potjes. Dit voorkomt dat zaden wegrotten in koude grond of worde
+ n opgegeten door muizen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Tuinbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185339Z
+UID:36f106b4af3e9207@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Tuinbonen — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 10–11 (mrt)\n🌱 Gezaaid in: week 6 (feb)\n🥕 
+ Verwachte oogst: week 23–25 (jun)\n\nVariant: Snelgroeiend witkiem ras (
+ o.a. Witkiem)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit zodra de p
+ lantjes 10cm zijn. Dek bij nachtvorst af met vliesdoek\, de jonge planten 
+ zitten op de grens van hun vorsttolerantie.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Tuinbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:d9d6ff1f3e339b23@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Tuinbonen — Vroege rassen (Batch 2)\n\n🏡
+  Uitplantperiode: week 13–14 (mrt–apr)\n🌱 Gezaaid in: week 9 (feb
+ –mrt)\n🥕 Verwachte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgr
+ oeiend witkiem ras (o.a. Witkiem)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Plant uit zodra de plantjes 10cm zijn. Dek bij nachtvorst af met vliesdoek
+ \, de jonge planten zitten op de grens van hun vorsttolerantie.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tuinbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:a83f9da37a2e7712@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tuinbonen — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 23–25 (jun)\n\nVariant: Snelgroeiend witkiem ras (o.a. 
+ Witkiem)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als de bonen zichtb
+ aar zijn door de peul heen. Top de planten als de onderste peulen gevormd 
+ zijn tegen zwarte luis.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tuinbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:639ea31a26fe3465@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tuinbonen — Vroege rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 26–28 (jun–jul)\n\nVariant: Snelgroeiend witkiem ras 
+ (o.a. Witkiem)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als de bonen 
+ zichtbaar zijn door de peul heen. Top de planten als de onderste peulen ge
+ vormd zijn tegen zwarte luis.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Tuinbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185339Z
+UID:0153c2e81d923bb7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Tuinbonen — Zomer rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 13 (mrt)\n🏡 Uitplanten: week 17–18 (apr–mei)\n
+ 🥕 Verwachte oogst: week 29–31 (jul–aug)\n\nVariant: Productief ras 
+ (o.a. Triple White)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaai
+ en. Zomer-rassen zijn minder koudebestendig dan vroege rassen en vragen ee
+ n warmere start.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Tuinbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:18cebaf5527711a3@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Tuinbonen — Zomer rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 16 (apr)\n🏡 Uitplanten: week 20–21 (mei)\n🥕 Verw
+ achte oogst: week 32–34 (aug)\n\nVariant: Productief ras (o.a. Triple Wh
+ ite)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf voorzaaien. Zomer-rasse
+ n zijn minder koudebestendig dan vroege rassen en vragen een warmere start
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Tuinbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:75281eba1c750499@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Tuinbonen — Zomer rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 17–18 (apr–mei)\n🌱 Gezaaid in: week 13 (mrt)\
+ n🥕 Verwachte oogst: week 29–31 (jul–aug)\n\nVariant: Productief ras
+  (o.a. Triple White)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor ste
+ vige ondersteuning\; zomerbonen worden hoger en vangen veel wind.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Tuinbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:4c60fd1517af3fc2@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Tuinbonen — Zomer rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 
+ Verwachte oogst: week 32–34 (aug)\n\nVariant: Productief ras (o.a. Tripl
+ e White)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor stevige onderst
+ euning\; zomerbonen worden hoger en vangen veel wind.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tuinbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:43eff60502375f72@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tuinbonen — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 29–31 (jul–aug)\n\nVariant: Productief ras (o.a. Tripl
+ e White)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk regelmatig om de aan
+ maak van nieuwe peulen te stimuleren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tuinbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:7090f9df5003fddd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tuinbonen — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 32–34 (aug)\n\nVariant: Productief ras (o.a. Triple Whit
+ e)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk regelmatig om de aanmaak v
+ an nieuwe peulen te stimuleren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Tuinbonen — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185339Z
+UID:f7067f5d3ee9d6a0@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Tuinbonen — Late rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 42–43 (okt)\n🥕 Verwachte oogst: week 21–23 (
+ mei–jun)\n\nVariant: Winterhard ras (o.a. Super Aquadulce)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Zaai in oktober voor de aller-vroegste oogst vo
+ lgend voorjaar. Bescherm eventueel met vliesdoek bij strenge kale vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tuinbonen — Late rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:70e9865378a9304e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tuinbonen — Late rassen (Batch 5)\n\n🥕 Oogs
+ tperiode: week 21–23 (mei–jun)\n\nVariant: Winterhard ras (o.a. Super 
+ Aquadulce)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De primeur van het jaar
+ ! Oogst deze winterteelt voordat de zwarte luis toeslaat.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

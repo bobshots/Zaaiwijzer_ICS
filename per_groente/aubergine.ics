@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Aubergine (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Aubergine
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Aubergine — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185338Z
+UID:692cb9383e2d48bd@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Aubergine — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 6 (feb)\n🏡 Uitplanten: week 20–21 (mei)\n🥕 Verw
+ achte oogst: week 28–36 (jul–sep)\n\nVariant: Compacte pot-rassen (o.a
+ . Ophelia F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen bij min.
+  22°C. Gebruik groeilampen want het licht is nog beperkt in februari.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Aubergine — Zomer rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:2429fa33a6194677@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Aubergine — Zomer rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 8 (feb)\n🏡 Uitplanten: week 21–22 (mei–jun)\n🥕
+  Verwachte oogst: week 30–39 (jul–sep)\n\nVariant: Klassieke grote vru
+ chten (o.a. Black Beauty)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in 
+ luchtige zaaigrond. Houd de grond constant vochtig en warm (20-25°C) voor
+  goede kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Aubergine — Zomer rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:0e87559c5f9f4c98@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Aubergine — Zomer rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 22–23 (mei–jun)\n
+ 🥕 Verwachte oogst: week 32–41 (aug–okt)\n\nVariant: Klassieke grote
+  vruchten (o.a. Black Beauty)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai
+  in luchtige zaaigrond. Houd de grond constant vochtig en warm (20-25°C) 
+ voor goede kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aubergine — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:a197aa727f321678@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aubergine — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 6 (feb)\n🥕 
+ Verwachte oogst: week 28–36 (jul–sep)\n\nVariant: Compacte pot-rassen 
+ (o.a. Ophelia F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit in gro
+ te potten of in de kas ná Ijsheiligen. Aubergines haten koude voeten\; de
+  grond moet minimaal 15°C zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aubergine — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:854b555ebab57753@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aubergine — Zomer rassen (Batch 2)\n\n🏡 
+ Uitplantperiode: week 21–22 (mei–jun)\n🌱 Gezaaid in: week 8 (feb)\n
+ 🥕 Verwachte oogst: week 30–39 (jul–sep)\n\nVariant: Klassieke grote
+  vruchten (o.a. Black Beauty)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kwee
+ k bij voorkeur in een kas of tunnel. Verwijder de eerste bloem voor een st
+ erkere plantgroei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aubergine — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:0bd13ebc92e1526e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aubergine — Zomer rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 22–23 (mei–jun)\n🌱 Gezaaid in: week 10 (mrt)\
+ n🥕 Verwachte oogst: week 32–41 (aug–okt)\n\nVariant: Klassieke grot
+ e vruchten (o.a. Black Beauty)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kwe
+ ek bij voorkeur in een kas of tunnel. Verwijder de eerste bloem voor een s
+ terkere plantgroei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aubergine — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:3ac2bd39cb62ca10@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aubergine — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 28–36 (jul–sep)\n\nVariant: Compacte pot-rassen (o.a.
+  Ophelia F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als de schil gl
+ anst en de vrucht licht in te drukken is. Doffe vruchten zijn overrijp.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aubergine — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:02fa9b4dcc2161ff@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aubergine — Zomer rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 30–39 (jul–sep)\n\nVariant: Klassieke grote vruchten (
+ o.a. Black Beauty)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebruik een sch
+ erp mes of snoeischaar. De kelk kan stekelig zijn. Blijf plukken voor door
+ bloei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aubergine — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:a94aca1fa0185577@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aubergine — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 32–41 (aug–okt)\n\nVariant: Klassieke grote vruchten (
+ o.a. Black Beauty)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebruik een sch
+ erp mes of snoeischaar. De kelk kan stekelig zijn. Blijf plukken voor door
+ bloei.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

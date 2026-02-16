@@ -1,0 +1,479 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Mizuna (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Mizuna
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:20243389faa4b5c4@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Mizuna — Vroege rassen (Batch 1)\n\n📅 Za
+ aiperiode: week 10 (mrt)\n🏡 Uitplanten: week 14–15 (mrt–apr)\n🥕 
+ Verwachte oogst: week 17–18 (apr–mei)\n\nVariant: Snelgroeiend voorjaa
+ rstype (o.a. Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start b
+ innen in trays. De grond buiten is nog te koud (onder 5°C) voor directe k
+ ieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:9ed6c7458aa741cf@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Mizuna — Vroege rassen (Batch 2)\n\n📅 Za
+ aiperiode: week 12 (mrt)\n🏡 Uitplanten: week 16–17 (apr)\n🥕 Verwac
+ hte oogst: week 19–20 (mei)\n\nVariant: Snelgroeiend voorjaarstype (o.a.
+  Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen in tra
+ ys. De grond buiten is nog te koud (onder 5°C) voor directe kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:a3d61fefc5a63768@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Mizuna — Vroege rassen (Batch 3)\n\n📅 Za
+ aiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18 (apr–mei)\n🥕
+  Verwachte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorja
+ arstype (o.a. Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start 
+ binnen in trays. De grond buiten is nog te koud (onder 5°C) voor directe 
+ kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:6762e818e9f85c44@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Mizuna — Vroege rassen (Batch 1)\n\n🏡 Ui
+ tplantperiode: week 14–15 (mrt–apr)\n🌱 Gezaaid in: week 10 (mrt)\n
+ 🥕 Verwachte oogst: week 17–18 (apr–mei)\n\nVariant: Snelgroeiend vo
+ orjaarstype (o.a. Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Af
+ harden is cruciaal. Gebruik vliesdoek bij nachtvorst\, jonge plantjes verd
+ ragen lichte vorst (-3°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:e1a7fa726dfa4275@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Mizuna — Vroege rassen (Batch 2)\n\n🏡 Ui
+ tplantperiode: week 16–17 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Ve
+ rwachte oogst: week 19–20 (mei)\n\nVariant: Snelgroeiend voorjaarstype (
+ o.a. Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Afharden is cru
+ ciaal. Gebruik vliesdoek bij nachtvorst\, jonge plantjes verdragen lichte 
+ vorst (-3°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:421edf052944e1a8@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Mizuna — Vroege rassen (Batch 3)\n\n🏡 Ui
+ tplantperiode: week 18 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–apr)\n
+ 🥕 Verwachte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend vo
+ orjaarstype (o.a. Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Af
+ harden is cruciaal. Gebruik vliesdoek bij nachtvorst\, jonge plantjes verd
+ ragen lichte vorst (-3°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:4ff4dda49ab87c63@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 17–18 (apr–mei)\n\nVariant: Snelgroeiend voorjaarstype (
+ o.a. Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong (bab
+ y-leaf) of laat doorgroeien. Snij boven het groeipunt voor hergroei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:4c2cb9ac6ae035f1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 19–20 (mei)\n\nVariant: Snelgroeiend voorjaarstype (o.a. M
+ izuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong (baby-leaf
+ ) of laat doorgroeien. Snij boven het groeipunt voor hergroei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:80ed8a50c8ba16bd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Vroege rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorjaarstype (
+ o.a. Mizuna Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong (bab
+ y-leaf) of laat doorgroeien. Snij boven het groeipunt voor hergroei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:9a7b01bf1ac1e5ae@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Mizuna — Zomer rassen (Batch 4)\n\n📅 Zaa
+ iperiode: week 16 (apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Verwachte oo
+ gst: week 22–23 (mei–jun)\n\nVariant: Schietresistente selectie (o.a. 
+ Red Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laatste batch om voor 
+ te zaaien\; hierna is de grond warm genoeg voor direct zaaien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:b992aa73204504c7@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Mizuna — Zomer rassen (Batch 4)\n\n🏡 Uit
+ plantperiode: week 19 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwacht
+ e oogst: week 22–23 (mei–jun)\n\nVariant: Schietresistente selectie (o
+ .a. Red Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op 20x20
+ cm voor volle kroppen\, of dichter voor snijpluk.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:291a63a3e0d0ea06@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 24–25 (jun)\n\nVa
+ riant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer vaker om 
+ gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:457bec3f16b96785@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 6)\n\n📅 
+ Zaaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 26–27 (jun–jul)
+ \n\nVariant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer vak
+ er om gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:693fc1e2b673e754@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 28–29 (jul)\n\nVa
+ riant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer vaker om 
+ gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:acad75f26567923a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 8)\n\n📅 
+ Zaaiperiode: week 25 (jun)\n🥕 Verwachte oogst: week 30–31 (jul–aug)
+ \n\nVariant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer vak
+ er om gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:0c072ec2625f71ff@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 9)\n\n📅 
+ Zaaiperiode: week 27 (jun–jul)\n🥕 Verwachte oogst: week 32–33 (aug)
+ \n\nVariant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer vak
+ er om gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:46a5b77d25c0ae9f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 10)\n\n📅
+  Zaaiperiode: week 29 (jul)\n🥕 Verwachte oogst: week 34–35 (aug)\n\nV
+ ariant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid: ✅ 
+ Hoog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer vaker om
+  gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:c06d0530094a7de6@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 11)\n\n📅
+  Zaaiperiode: week 30 (jul)\n🥕 Verwachte oogst: week 35–36 (aug–sep
+ )\n\nVariant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer va
+ ker om gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:422083ec8e9e1880@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Zomer rassen (Batch 12)\n\n📅
+  Zaaiperiode: week 31 (jul–aug)\n🥕 Verwachte oogst: week 36–37 (sep
+ )\n\nVariant: Schietresistente selectie (o.a. Red Mizuna)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: De bodem is warm (>5°C). We zaaien in de zomer va
+ ker om gaten door snelle groei op te vangen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:3d6ed298fd9fec9d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 4)\n\n🥕 Oogstp
+ eriode: week 22–23 (mei–jun)\n\nVariant: Schietresistente selectie (o.
+ a. Red Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; 
+ bloemstengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:e52960f6e19f5518@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 5)\n\n🥕 Oogstp
+ eriode: week 24–25 (jun)\n\nVariant: Schietresistente selectie (o.a. Red
+  Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; bloems
+ tengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:17157c3dac011bd6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 6)\n\n🥕 Oogstp
+ eriode: week 26–27 (jun–jul)\n\nVariant: Schietresistente selectie (o.
+ a. Red Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; 
+ bloemstengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:10f90a147abf8835@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 7)\n\n🥕 Oogstp
+ eriode: week 28–29 (jul)\n\nVariant: Schietresistente selectie (o.a. Red
+  Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; bloems
+ tengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:7b1de3a2b51d32f6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 8)\n\n🥕 Oogstp
+ eriode: week 30–31 (jul–aug)\n\nVariant: Schietresistente selectie (o.
+ a. Red Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; 
+ bloemstengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:d3e2f838a49dec1b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 9)\n\n🥕 Oogstp
+ eriode: week 32–33 (aug)\n\nVariant: Schietresistente selectie (o.a. Red
+  Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; bloems
+ tengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:7d003fdc10865c5d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 10)\n\n🥕 Oogst
+ periode: week 34–35 (aug)\n\nVariant: Schietresistente selectie (o.a. Re
+ d Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; bloem
+ stengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:8e9539fd23153df8@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 11)\n\n🥕 Oogst
+ periode: week 35–36 (aug–sep)\n\nVariant: Schietresistente selectie (o
+ .a. Red Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\;
+  bloemstengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:30efe70a4a261596@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Zomer rassen (Batch 12)\n\n🥕 Oogst
+ periode: week 36–37 (sep)\n\nVariant: Schietresistente selectie (o.a. Re
+ d Mizuna)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst regelmatig\; bloem
+ stengels direct verwijderen als ze verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Late rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:7ea8b5a2db4fb93d@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Late rassen (Batch 13)\n\n📅 
+ Zaaiperiode: week 31 (jul–aug)\n🥕 Verwachte oogst: week 38–41 (sep
+ –okt)\n\nVariant: Koude-tolerante herfstteelt (o.a. Kyoto Green)\nBetrou
+ wbaarheid: ✅ Hoog\n\n💡 Tip: We zaaien dit tragere ras tegelijk met he
+ t laatste zomerras om de oogst naadloos over te nemen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Late rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:40ebc259cc05f68c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Late rassen (Batch 14)\n\n📅 
+ Zaaiperiode: week 33 (aug)\n🥕 Verwachte oogst: week 42–45 (okt–nov)
+ \n\nVariant: Koude-tolerante herfstteelt (o.a. Kyoto Green)\nBetrouwbaarhe
+ id: ✅ Hoog\n\n💡 Tip: We zaaien dit tragere ras tegelijk met het laats
+ te zomerras om de oogst naadloos over te nemen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Mizuna — Late rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:62f66257efffa8df@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Mizuna — Late rassen (Batch 15)\n\n📅 
+ Zaaiperiode: week 35 (aug)\n🥕 Verwachte oogst: week 46–49 (nov–dec)
+ \n\nVariant: Koude-tolerante herfstteelt (o.a. Kyoto Green)\nBetrouwbaarhe
+ id: ✅ Hoog\n\n💡 Tip: We zaaien dit tragere ras tegelijk met het laats
+ te zomerras om de oogst naadloos over te nemen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:bac895b8fb85cbda@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Late rassen (Batch 13)\n\n🥕 Oogstp
+ eriode: week 38–41 (sep–okt)\n\nVariant: Koude-tolerante herfstteelt (
+ o.a. Kyoto Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen verd
+ ragen lichte vorst (-10°C). Groei stopt in wk 47\, maar oogsten kan zolan
+ g het niet vriest.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:d537bdeb54a9eb2b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Late rassen (Batch 14)\n\n🥕 Oogstp
+ eriode: week 42–45 (okt–nov)\n\nVariant: Koude-tolerante herfstteelt (
+ o.a. Kyoto Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen verd
+ ragen lichte vorst (-10°C). Groei stopt in wk 47\, maar oogsten kan zolan
+ g het niet vriest.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Mizuna — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20260216T185338Z
+UID:67f925ee6a079feb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Mizuna — Late rassen (Batch 15)\n\n🥕 Oogstp
+ eriode: week 46–49 (nov–dec)\n\nVariant: Koude-tolerante herfstteelt (
+ o.a. Kyoto Green)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen verd
+ ragen lichte vorst (-10°C). Groei stopt in wk 47\, maar oogsten kan zolan
+ g het niet vriest.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

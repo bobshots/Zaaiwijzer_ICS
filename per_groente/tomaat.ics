@@ -1,0 +1,141 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Tomaat (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Tomaat
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Tomaat — Vroege rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:8bd7bacf51e6d39d@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Tomaat — Vroege rassen (Batch 1)\n\n📅 Za
+ aiperiode: week 9–10 (feb–mrt)\n🏡 Uitplanten: week 21–22 (mei–j
+ un)\n🥕 Verwachte oogst: week 28–34 (jul–aug)\n\nVariant: Koude-tole
+ rante struiktomaat (o.a. Glacier)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Zaai binnen warm (20-22°C). Week 9 vereist een zeer lichte plek of groeil
+ amp\, week 10 kan op de vensterbank.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Tomaat — Zomer rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:b09b7fd802883fb7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Tomaat — Zomer rassen (Batch 2)\n\n📅 Zaa
+ iperiode: week 11–12 (mrt)\n🏡 Uitplanten: week 22–23 (mei–jun)\n
+ 🥕 Verwachte oogst: week 30–39 (jul–sep)\n\nVariant: Productieve sta
+ mtomaat (o.a. Moneymaker)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De stand
+ aardteelt. Houd de grond vochtig maar niet nat. Verspeen naar potjes zodra
+  de eerste echte blaadjes verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Tomaat — Late rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:05d9a53fb5419971@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Tomaat — Late rassen (Batch 3)\n\n📅 Zaai
+ periode: week 13–14 (mrt–apr)\n🏡 Uitplanten: week 23–24 (jun)\n
+ 🥕 Verwachte oogst: week 33–41 (aug–okt)\n\nVariant: Vlezige roma/po
+ modori (o.a. San Marzano)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laatste 
+ zaaironde. Deze planten geven hun hoofdoogst in de nazomer\, ideaal voor s
+ oep en saus.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Tomaat — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:b49dd16ea5668f88@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Tomaat — Vroege rassen (Batch 1)\n\n🏡 Ui
+ tplantperiode: week 21–22 (mei–jun)\n🌱 Gezaaid in: week 9–10 (feb
+ –mrt)\n🥕 Verwachte oogst: week 28–34 (jul–aug)\n\nVariant: Koude-
+ tolerante struiktomaat (o.a. Glacier)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Harden is cruciaal: zet planten 1 week overdag buiten\, 's nachts binn
+ en. Plant uit na IJsheiligen (wk 21).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Tomaat — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:8a063a4d23facd99@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Tomaat — Zomer rassen (Batch 2)\n\n🏡 Uit
+ plantperiode: week 22–23 (mei–jun)\n🌱 Gezaaid in: week 11–12 (mrt
+ )\n🥕 Verwachte oogst: week 30–39 (jul–sep)\n\nVariant: Productieve 
+ stamtomaat (o.a. Moneymaker)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Verwi
+ jder de onderste bladeren en plant diep voor extra wortels. Geef direct st
+ eun (stok of draad).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Tomaat — Late rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:4ddf864a935adbe6@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Tomaat — Late rassen (Batch 3)\n\n🏡 Uitp
+ lantperiode: week 23–24 (jun)\n🌱 Gezaaid in: week 13–14 (mrt–apr)
+ \n🥕 Verwachte oogst: week 33–41 (aug–okt)\n\nVariant: Vlezige roma/
+ pomodori (o.a. San Marzano)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet de
+ ze op de zonnigste\, warmste plek in de tuin om rijping voor de herfst te 
+ garanderen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tomaat — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:9a406fb7901bbf6b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tomaat — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 28–34 (jul–aug)\n\nVariant: Koude-tolerante struiktomaat
+  (o.a. Glacier)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de vru
+ cht volledig gekleurd is. Regelmatig plukken stimuleert nieuwe vruchtzetti
+ ng.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tomaat — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:c17cea37ac6f0fb5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tomaat — Zomer rassen (Batch 2)\n\n🥕 Oogstp
+ eriode: week 30–39 (jul–sep)\n\nVariant: Productieve stamtomaat (o.a. 
+ Moneymaker)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De hoofdoogst. Verwijd
+ er 'dieven' (zijscheuten) wekelijks om energie naar de vruchten te sturen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Tomaat — Late rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185339Z
+UID:744beb30d3a72dec@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Tomaat — Late rassen (Batch 3)\n\n🥕 Oogstpe
+ riode: week 33–41 (aug–okt)\n\nVariant: Vlezige roma/pomodori (o.a. Sa
+ n Marzano)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Let op nachtvorst vanaf
+  week 41. Pluk bij dreigende vorst alle tomaten\, ook de groene (deze rijp
+ en binnen na).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,414 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Postelein (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Postelein
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:fd17ff0c11ef6840@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Postelein — Zomer rassen (Batch 1)\n\n📅 
+ Zaaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18 (apr–mei)\n
+ 🥕 Verwachte oogst: week 21–23 (mei–jun)\n\nVariant: Vlezige zomerpo
+ stelein (Portulaca oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai 
+ binnen warm voor. Zomerpostelein heeft warmte nodig\; binnen starten wint 
+ kostbare weken in het frisse voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:fd1d84e7ba5b6ad1@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Postelein — Zomer rassen (Batch 1)\n\n🏡 
+ Uitplantperiode: week 18 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–apr)
+ \n🥕 Verwachte oogst: week 21–23 (mei–jun)\n\nVariant: Vlezige zomer
+ postelein (Portulaca oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt uit op een zonnige\, beschutte plek. De nachten zijn nog fris\, dus dek
+  eventueel af met vliesdoek bij kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:8e907bde43e32d82@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 24–25 
+ (jun)\n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches (w
+ k 18-20): de grond is nog relatief koud\, kieming kan 2-3 weken duren. Hou
+ d de grond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:e26fa5fa31ba8413@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 26–27 (jun
+ –jul)\n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches 
+ (wk 18-20): de grond is nog relatief koud\, kieming kan 2-3 weken duren. H
+ oud de grond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:a8d78e2e55d6775a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 28–29 
+ (jul)\n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches (w
+ k 18-20): de grond is nog relatief koud\, kieming kan 2-3 weken duren. Hou
+ d de grond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:007a5b5475cbb1af@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 24 (jun)\n🥕 Verwachte oogst: week 30–31 (jul
+ –aug)\n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches 
+ (wk 18-20): de grond is nog relatief koud\, kieming kan 2-3 weken duren. H
+ oud de grond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:8d9485fda77c3429@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 6)\n\n
+ 📅 Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 32–33 (aug)\
+ n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches (wk 18-2
+ 0): de grond is nog relatief koud\, kieming kan 2-3 weken duren. Houd de g
+ rond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:6fb65a979e48f39c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 7)\n\n
+ 📅 Zaaiperiode: week 28 (jul)\n🥕 Verwachte oogst: week 34–35 (aug)\
+ n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches (wk 18-2
+ 0): de grond is nog relatief koud\, kieming kan 2-3 weken duren. Houd de g
+ rond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:ee0b0e02300696cc@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 8)\n\n
+ 📅 Zaaiperiode: week 30 (jul)\n🥕 Verwachte oogst: week 36–37 (sep)\
+ n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches (wk 18-2
+ 0): de grond is nog relatief koud\, kieming kan 2-3 weken duren. Houd de g
+ rond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:689b655eb4b0c91e@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Zomer rassen (Batch 9)\n\n
+ 📅 Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 38–39 (sep)\
+ n\nVariant: Vlezige zomerpostelein (Portulaca oleracea)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Zaai breedwerpig. Let op bij vroege batches (wk 18-2
+ 0): de grond is nog relatief koud\, kieming kan 2-3 weken duren. Houd de g
+ rond vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:366e353ea3cb0ddb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 1)\n\n🥕 Oog
+ stperiode: week 21–23 (mei–jun)\n\nVariant: Vlezige zomerpostelein (Po
+ rtulaca oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtend
+ s vroeg voor de meest knapperige stengels. Snijd laag af voor hergroei zol
+ ang het weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:d576a355da07cc27@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 24–25 (jun)\n\nVariant: Vlezige zomerpostelein (Portulac
+ a oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g voor de meest knapperige stengels. Snijd laag af voor hergroei zolang he
+ t weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:f8ab99921473b920@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 26–27 (jun–jul)\n\nVariant: Vlezige zomerpostelein (Po
+ rtulaca oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtend
+ s vroeg voor de meest knapperige stengels. Snijd laag af voor hergroei zol
+ ang het weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:b6a82390e622a0af@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 28–29 (jul)\n\nVariant: Vlezige zomerpostelein (Portulac
+ a oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g voor de meest knapperige stengels. Snijd laag af voor hergroei zolang he
+ t weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:f828a64d15f091b1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 30–31 (jul–aug)\n\nVariant: Vlezige zomerpostelein (Po
+ rtulaca oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtend
+ s vroeg voor de meest knapperige stengels. Snijd laag af voor hergroei zol
+ ang het weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:0e70ce1ff1ecc7e4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 6)\n\n🥕 Oog
+ stperiode: week 32–33 (aug)\n\nVariant: Vlezige zomerpostelein (Portulac
+ a oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g voor de meest knapperige stengels. Snijd laag af voor hergroei zolang he
+ t weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:e20e982e6902a28d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 7)\n\n🥕 Oog
+ stperiode: week 34–35 (aug)\n\nVariant: Vlezige zomerpostelein (Portulac
+ a oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g voor de meest knapperige stengels. Snijd laag af voor hergroei zolang he
+ t weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:211b5d919ea78115@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 8)\n\n🥕 Oog
+ stperiode: week 36–37 (sep)\n\nVariant: Vlezige zomerpostelein (Portulac
+ a oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g voor de meest knapperige stengels. Snijd laag af voor hergroei zolang he
+ t weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:52c2434b923ec00e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Zomer rassen (Batch 9)\n\n🥕 Oog
+ stperiode: week 38–39 (sep)\n\nVariant: Vlezige zomerpostelein (Portulac
+ a oleracea)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g voor de meest knapperige stengels. Snijd laag af voor hergroei zolang he
+ t weer warm blijft.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:b287320ba1d5ee40@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Late rassen (Batch 10)\n\n
+ 📅 Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 39–44 (sep
+ –nov)\n\nVariant: Winterpostelein (Claytonia perfoliata)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Winterpostelein kiemt beter bij dalende temperatu
+ ren. Zaai in augustus/september voor een zekere herfstoogst en overwinteri
+ ng.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Late rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:2e1eaac6616b1fec@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Late rassen (Batch 11)\n\n
+ 📅 Zaaiperiode: week 35 (aug)\n🥕 Verwachte oogst: week 45–50 (nov
+ –dec)\n\nVariant: Winterpostelein (Claytonia perfoliata)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Winterpostelein kiemt beter bij dalende temperatu
+ ren. Zaai in augustus/september voor een zekere herfstoogst en overwinteri
+ ng.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:ca29b3f6f03695f5@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Late rassen (Batch 12)\n\n
+ 📅 Zaaiperiode: week 38 (sep)\n🥕 Verwachte oogst: week 1–52 (dec)\n
+ \nVariant: Winterpostelein (Claytonia perfoliata)\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Winterpostelein kiemt beter bij dalende temperaturen. Zaai
+  in augustus/september voor een zekere herfstoogst en overwintering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Postelein — Late rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:8efd46ba95aa149c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Postelein — Late rassen (Batch 13)\n\n
+ 📅 Zaaiperiode: week 41 (okt)\n🥕 Verwachte oogst: week 9–14 (feb–
+ apr)\n\nVariant: Winterpostelein (Claytonia perfoliata)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Winterpostelein kiemt beter bij dalende temperaturen
+ . Zaai in augustus/september voor een zekere herfstoogst en overwintering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Late rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185338Z
+UID:32a6890c25b58aa7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Late rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 39–44 (sep–nov)\n\nVariant: Winterpostelein (Claytonia
+  perfoliata)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de malse blaadje
+ s. Deze plant is extreem winterhard en groeit bij zacht winterweer gewoon 
+ door. Laat het hart intact.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Late rassen
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251215
+DTSTAMP:20260216T185338Z
+UID:21d6f588d8cfba28@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Late rassen (Batch 11)\n\n🥕 Oog
+ stperiode: week 45–50 (nov–dec)\n\nVariant: Winterpostelein (Claytonia
+  perfoliata)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de malse blaadje
+ s. Deze plant is extreem winterhard en groeit bij zacht winterweer gewoon 
+ door. Laat het hart intact.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Late rassen
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:9ea99926f9462cb1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Late rassen (Batch 12)\n\n🥕 Oog
+ stperiode: week 51–52 (dec)\n\nVariant: Winterpostelein (Claytonia perfo
+ liata)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de malse blaadjes. Dez
+ e plant is extreem winterhard en groeit bij zacht winterweer gewoon door. 
+ Laat het hart intact.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:8638e170132f3cf9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Late rassen (Batch 12)\n\n🥕 Oog
+ stperiode: week 1–8 (dec–feb)\n\nVariant: Winterpostelein (Claytonia p
+ erfoliata)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de malse blaadjes.
+  Deze plant is extreem winterhard en groeit bij zacht winterweer gewoon do
+ or. Laat het hart intact.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Postelein — Late rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:227fbe389fe1892e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Postelein — Late rassen (Batch 13)\n\n🥕 Oog
+ stperiode: week 9–14 (feb–apr)\n\nVariant: Winterpostelein (Claytonia 
+ perfoliata)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de malse blaadjes
+ . Deze plant is extreem winterhard en groeit bij zacht winterweer gewoon d
+ oor. Laat het hart intact.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

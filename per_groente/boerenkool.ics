@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Boerenkool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Boerenkool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Boerenkool — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:151a66dbfd8f865f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Boerenkool — Zomer rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 15–16 (apr)\n🏡 Uitplanten: week 20–21 (mei)\n
+ 🥕 Verwachte oogst: week 33–40 (aug–okt)\n\nVariant: Herfstoogst typ
+ e (o.a. Palmkool/Cavolo Nero)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai
+  binnen of in een koude bak in potjes/trays. Dit geeft sterke planten die 
+ beter bestand zijn tegen slakken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Boerenkool — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:577b1fc1ae4016e9@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Boerenkool — Zomer rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 19–20 (mei)\n🏡 Uitplanten: week 24–25 (jun)\n
+ 🥕 Verwachte oogst: week 40–46 (sep–nov)\n\nVariant: Herfstoogst typ
+ e (o.a. Palmkool/Cavolo Nero)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai
+  binnen of in een koude bak in potjes/trays. Dit geeft sterke planten die 
+ beter bestand zijn tegen slakken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Boerenkool — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:c9f8ba5c98df5575@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Boerenkool — Zomer rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 15–16 (apr)\
+ n🥕 Verwachte oogst: week 33–40 (aug–okt)\n\nVariant: Herfstoogst ty
+ pe (o.a. Palmkool/Cavolo Nero)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt uit op 50x50cm. Druk de grond rond de stam goed aan (kool houdt van vas
+ tigheid). Gebruik direct insectengaas tegen koolwitjes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Boerenkool — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:89c23fe88cafd5a5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Boerenkool — Zomer rassen (Batch 2)\n\n🏡
+  Uitplantperiode: week 24–25 (jun)\n🌱 Gezaaid in: week 19–20 (mei)\
+ n🥕 Verwachte oogst: week 40–46 (sep–nov)\n\nVariant: Herfstoogst ty
+ pe (o.a. Palmkool/Cavolo Nero)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt uit op 50x50cm. Druk de grond rond de stam goed aan (kool houdt van vas
+ tigheid). Gebruik direct insectengaas tegen koolwitjes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Boerenkool — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:02d33200e1699088@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Boerenkool — Zomer rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 33–40 (aug–okt)\n\nVariant: Herfstoogst type (o.a. Pa
+ lmkool/Cavolo Nero)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de onder
+ ste bladeren eerst\, de plant groeit van boven gewoon door. Deze rassen zi
+ jn minder winterhard\, dus oogst alles voor strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Boerenkool — Zomer rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20260216T185338Z
+UID:15f516893a712af5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Boerenkool — Zomer rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 40–46 (sep–nov)\n\nVariant: Herfstoogst type (o.a. Pa
+ lmkool/Cavolo Nero)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de onder
+ ste bladeren eerst\, de plant groeit van boven gewoon door. Deze rassen zi
+ jn minder winterhard\, dus oogst alles voor strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:01e563044a2ecbbe@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Boerenkool — Late rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 24–25 (jun)\n🏡 Uitplanten: week 29–30 (jul)\n🥕
+  Verwachte oogst: week 1–52 (dec)\n\nVariant: Winterharde krulkool (o.a.
+  Westlandse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op een za
+ aibed buiten of in trays. Houd de grond goed vochtig\, want juni kan droog
+  zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:7873e3871efa00db@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Boerenkool — Late rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 28–29 (jul)\n🏡 Uitplanten: week 34–35 (aug)\n🥕
+  Verwachte oogst: week 5–52 (jan–dec)\n\nVariant: Winterharde krulkool
+  (o.a. Westlandse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op 
+ een zaaibed buiten of in trays. Houd de grond goed vochtig\, want juni kan
+  droog zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:8bf2134c27081755@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Boerenkool — Late rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 29–30 (jul)\n🌱 Gezaaid in: week 24–25 (jun)\n
+ 🥕 Verwachte oogst: week 1–52 (dec)\n\nVariant: Winterharde krulkool (
+ o.a. Westlandse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant diep
+ : de onderste bladeren mogen net boven de grond komen voor extra stevighei
+ d in herfststormen. Bescherm met netten tegen duiven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:3b31e5e40aee1808@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Boerenkool — Late rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 34–35 (aug)\n🌱 Gezaaid in: week 28–29 (jul)\n
+ 🥕 Verwachte oogst: week 5–52 (jan–dec)\n\nVariant: Winterharde krul
+ kool (o.a. Westlandse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plan
+ t diep: de onderste bladeren mogen net boven de grond komen voor extra ste
+ vigheid in herfststormen. Bescherm met netten tegen duiven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:30dc0cbc61b687ba@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Boerenkool — Late rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 1–9 (dec–mrt)\n\nVariant: Winterharde krulkool (o.a. W
+ estlandse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak wordt z
+ oeter na de eerste nachtvorst (zetmeel wordt suiker). Oogst de hele winter
+  door\; laat de kop staan voor nieuwe uitloop in het voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:e3ad5c8440f6ffdb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Boerenkool — Late rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 5–13 (jan–mrt)\n\nVariant: Winterharde krulkool (o.a. 
+ Westlandse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak wordt 
+ zoeter na de eerste nachtvorst (zetmeel wordt suiker). Oogst de hele winte
+ r door\; laat de kop staan voor nieuwe uitloop in het voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:3809d6a91a297734@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Boerenkool — Late rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 46–52 (nov–dec)\n\nVariant: Winterharde krulkool (o.a.
+  Westlandse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak wordt
+  zoeter na de eerste nachtvorst (zetmeel wordt suiker). Oogst de hele wint
+ er door\; laat de kop staan voor nieuwe uitloop in het voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Boerenkool — Late rassen
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:4007472da95347e5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Boerenkool — Late rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 50–52 (dec)\n\nVariant: Winterharde krulkool (o.a. Westl
+ andse Winter)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak wordt zoete
+ r na de eerste nachtvorst (zetmeel wordt suiker). Oogst de hele winter doo
+ r\; laat de kop staan voor nieuwe uitloop in het voorjaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

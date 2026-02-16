@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Rode kool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Rode kool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185338Z
+UID:dfff97a90560fd33@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 6 (feb)\n🏡 Uitplanten: week 11 (mrt)\n🥕 Verwachte
+  oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende ronde zomerkool
+  (o.a. Primero F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Zaai binnen warm voor (20°C). Batch 1 en 2 hebben extra bescher
+ ming nodig bij uitplanten vanwege de kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:008b425969afb5ba@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 9 (feb–mrt)\n🏡 Uitplanten: week 14 (mrt–apr)\n
+ 🥕 Verwachte oogst: week 29–31 (jul–aug)\n\nVariant: Snelgroeiende r
+ onde zomerkool (o.a. Primero F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhan
+ kelijk)\n\n💡 Tip: Zaai binnen warm voor (20°C). Batch 1 en 2 hebben ex
+ tra bescherming nodig bij uitplanten vanwege de kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:173ff4aff6de3cc8@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Vroege rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 17 (apr)\n🥕 Verwacht
+ e oogst: week 32–34 (aug)\n\nVariant: Snelgroeiende ronde zomerkool (o.a
+ . Primero F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen warm voo
+ r (20°C). Batch 1 en 2 hebben extra bescherming nodig bij uitplanten vanw
+ ege de kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:9e7d9f0f5a40fb67@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 11 (mrt)\n🌱 Gezaaid in: week 6 (feb)\n🥕 Verwa
+ chte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende ronde zomer
+ kool (o.a. Primero F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\
+ n💡 Tip: Hanteer een plantafstand van 50x50cm. Gebruik vliesdoek bij nac
+ htvorst. Druk de grond stevig aan rond de kluit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:36d39dafab2f402f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Vroege rassen (Batch 2)\n\n🏡
+  Uitplantperiode: week 14 (mrt–apr)\n🌱 Gezaaid in: week 9 (feb–mrt)
+ \n🥕 Verwachte oogst: week 29–31 (jul–aug)\n\nVariant: Snelgroeiende
+  ronde zomerkool (o.a. Primero F1)\nBetrouwbaarheid: ⚠️ Laag (weersafh
+ ankelijk)\n\n💡 Tip: Hanteer een plantafstand van 50x50cm. Gebruik vlies
+ doek bij nachtvorst. Druk de grond stevig aan rond de kluit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:d41c0bade30acca5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Vroege rassen (Batch 3)\n\n🏡
+  Uitplantperiode: week 17 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verw
+ achte oogst: week 32–34 (aug)\n\nVariant: Snelgroeiende ronde zomerkool 
+ (o.a. Primero F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hanteer een plan
+ tafstand van 50x50cm. Gebruik vliesdoek bij nachtvorst. Druk de grond stev
+ ig aan rond de kluit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:72c77d05ab6e4408@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende ronde zomer
+ kool (o.a. Primero F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\
+ n💡 Tip: Oogst zodra de krop stevig aanvoelt. Wacht niet te lang\, ander
+ s barsten ze open.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:32fe69c1cab1ece6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Vroege rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 29–31 (jul–aug)\n\nVariant: Snelgroeiende ronde zomer
+ kool (o.a. Primero F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\
+ n💡 Tip: Oogst zodra de krop stevig aanvoelt. Wacht niet te lang\, ander
+ s barsten ze open.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Vroege rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:8868cca51510df5d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Vroege rassen (Batch 3)\n\n🥕 Oo
+ gstperiode: week 32–34 (aug)\n\nVariant: Snelgroeiende ronde zomerkool (
+ o.a. Primero F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de kr
+ op stevig aanvoelt. Wacht niet te lang\, anders barsten ze open.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:295a51ef1f1bcf58@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Zomer rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Ver
+ wachte oogst: week 35–37 (aug–sep)\n\nVariant: Kegelvormige of herfstr
+ assen (o.a. Kalibos)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien in
+  een tray zorgt voor sterkere planten en minder uitval door slakken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:5ed38c4674d612dc@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Zomer rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 16 (apr)\n🏡 Uitplanten: week 21 (mei)\n🥕 Verwachte
+  oogst: week 38–40 (sep–okt)\n\nVariant: Kegelvormige of herfstrassen 
+ (o.a. Kalibos)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien in een t
+ ray zorgt voor sterkere planten en minder uitval door slakken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:a133985d62dedf73@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Zomer rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 19 (mei)\n🌱 Gezaaid in: week 14 (mrt–apr)\n🥕
+  Verwachte oogst: week 35–37 (aug–sep)\n\nVariant: Kegelvormige of her
+ fstrassen (o.a. Kalibos)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dek direc
+ t na het planten af met insectengaas tegen koolwitjes en koolvlieg. Dit is
+  cruciaal.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:f03e113780128d82@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Zomer rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 21 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwa
+ chte oogst: week 38–40 (sep–okt)\n\nVariant: Kegelvormige of herfstras
+ sen (o.a. Kalibos)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dek direct na h
+ et planten af met insectengaas tegen koolwitjes en koolvlieg. Dit is cruci
+ aal.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:f8e4fa8e9ae09405@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 35–37 (aug–sep)\n\nVariant: Kegelvormige of herfstrass
+ en (o.a. Kalibos)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen zijn
+  vers het lekkerst en bewaren minder lang dan de late rassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:4104acea00d60ce3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Zomer rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 38–40 (sep–okt)\n\nVariant: Kegelvormige of herfstrass
+ en (o.a. Kalibos)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen zijn
+  vers het lekkerst en bewaren minder lang dan de late rassen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:8525b34c3993d713@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Late rassen (Batch 6)\n\n📅 Z
+ aaiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 23 (jun)\n🥕 Verw
+ achte oogst: week 41–43 (okt)\n\nVariant: Harde bewaarkool (o.a. Langedi
+ jker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet deze zaailingen b
+ uiten op een wachtbed of in potjes tot er plek is in de moestuin.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:212a6c1ba565a4e9@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Late rassen (Batch 7)\n\n📅 Z
+ aaiperiode: week 20 (mei)\n🏡 Uitplanten: week 25 (jun)\n🥕 Verwachte 
+ oogst: week 44–46 (okt–nov)\n\nVariant: Harde bewaarkool (o.a. Langedi
+ jker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet deze zaailingen b
+ uiten op een wachtbed of in potjes tot er plek is in de moestuin.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:a4859d0b59b07a3c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Late rassen (Batch 8)\n\n📅 Z
+ aaiperiode: week 22 (mei–jun)\n🏡 Uitplanten: week 27 (jun–jul)\n
+ 🥕 Verwachte oogst: week 47–49 (nov–dec)\n\nVariant: Harde bewaarkoo
+ l (o.a. Langedijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet de
+ ze zaailingen buiten op een wachtbed of in potjes tot er plek is in de moe
+ stuin.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:816c2ed31fb34155@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Late rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 24 (jun)\n🏡 Uitplanten: week 29 (jul)\n🥕 Verwachte 
+ oogst: week 50–52 (dec)\n\nVariant: Harde bewaarkool (o.a. Langedijker B
+ ewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet deze zaailingen buiten 
+ op een wachtbed of in potjes tot er plek is in de moestuin.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:706c05ad2e9b91ed@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Rode kool — Late rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 26 (jun)\n🏡 Uitplanten: week 31 (jul–aug)\n🥕 Ver
+ wachte oogst: week 1–3 (dec–jan)\n\nVariant: Harde bewaarkool (o.a. La
+ ngedijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zet deze zaailin
+ gen buiten op een wachtbed of in potjes tot er plek is in de moestuin.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:f686467229990d61@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Late rassen (Batch 6)\n\n🏡 U
+ itplantperiode: week 23 (jun)\n🌱 Gezaaid in: week 18 (apr–mei)\n🥕 
+ Verwachte oogst: week 41–43 (okt)\n\nVariant: Harde bewaarkool (o.a. Lan
+ gedijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef in droge per
+ iodes veel water voor een goede kropvorming. Mulch houdt het vocht vast.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:1ecdb8b904dbe868@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Late rassen (Batch 7)\n\n🏡 U
+ itplantperiode: week 25 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕 Verwac
+ hte oogst: week 44–46 (okt–nov)\n\nVariant: Harde bewaarkool (o.a. Lan
+ gedijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef in droge per
+ iodes veel water voor een goede kropvorming. Mulch houdt het vocht vast.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:8edef1c06767ec4c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Late rassen (Batch 8)\n\n🏡 U
+ itplantperiode: week 27 (jun–jul)\n🌱 Gezaaid in: week 22 (mei–jun)\
+ n🥕 Verwachte oogst: week 47–49 (nov–dec)\n\nVariant: Harde bewaarko
+ ol (o.a. Langedijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef 
+ in droge periodes veel water voor een goede kropvorming. Mulch houdt het v
+ ocht vast.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:d76df5041ddbb5d3@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Late rassen (Batch 9)\n\n🏡 U
+ itplantperiode: week 29 (jul)\n🌱 Gezaaid in: week 24 (jun)\n🥕 Verwac
+ hte oogst: week 50–52 (dec)\n\nVariant: Harde bewaarkool (o.a. Langedijk
+ er Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef in droge periodes 
+ veel water voor een goede kropvorming. Mulch houdt het vocht vast.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:2bf0aae4742361e2@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Rode kool — Late rassen (Batch 10)\n\n🏡 
+ Uitplantperiode: week 31 (jul–aug)\n🌱 Gezaaid in: week 26 (jun)\n🥕
+  Verwachte oogst: week 1–3 (dec–jan)\n\nVariant: Harde bewaarkool (o.a
+ . Langedijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef in drog
+ e periodes veel water voor een goede kropvorming. Mulch houdt het vocht va
+ st.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185338Z
+UID:c1453e873a572a0f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Late rassen (Batch 6)\n\n🥕 Oogs
+ tperiode: week 41–43 (okt)\n\nVariant: Harde bewaarkool (o.a. Langedijke
+ r Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór strenge vor
+ st (-5°C). Bewaar de kolen met wortel en al op een koele\, vorstvrije ple
+ k (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20260216T185338Z
+UID:877655b6f8546c4a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Late rassen (Batch 7)\n\n🥕 Oogs
+ tperiode: week 44–46 (okt–nov)\n\nVariant: Harde bewaarkool (o.a. Lang
+ edijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór stren
+ ge vorst (-5°C). Bewaar de kolen met wortel en al op een koele\, vorstvri
+ je plek (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20251117
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20260216T185338Z
+UID:e36d184ab618a1cd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Late rassen (Batch 8)\n\n🥕 Oogs
+ tperiode: week 47–49 (nov–dec)\n\nVariant: Harde bewaarkool (o.a. Lang
+ edijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór stren
+ ge vorst (-5°C). Bewaar de kolen met wortel en al op een koele\, vorstvri
+ je plek (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:c448ab726049df24@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Late rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 50–52 (dec)\n\nVariant: Harde bewaarkool (o.a. Langedijke
+ r Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór strenge vor
+ st (-5°C). Bewaar de kolen met wortel en al op een koele\, vorstvrije ple
+ k (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Rode kool — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250120
+DTSTAMP:20260216T185338Z
+UID:e61381e8ecdc7e39@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Rode kool — Late rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 1–3 (dec–jan)\n\nVariant: Harde bewaarkool (o.a. Lange
+ dijker Bewaar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór streng
+ e vorst (-5°C). Bewaar de kolen met wortel en al op een koele\, vorstvrij
+ e plek (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

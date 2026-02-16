@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Kapucijners (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Kapucijners
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Kapucijners — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:f5314f50886f36c7@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Kapucijners — Vroege rassen (Batch 1)\n\
+ n📅 Zaaiperiode: week 10 (mrt)\n🥕 Verwachte oogst: week 31–33 (jul
+ –aug)\n\nVariant: Klimmende blauwschokker (o.a. Blauwschokker)\nBetrouwb
+ aarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De grond is eigenlijk
+  nog te koud (<5°C)\, maar vroege rassen kunnen wat hebben. Dek af met vl
+ iesdoek tegen vogels en muizen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Kapucijners — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:822e0dc2b4318541@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Kapucijners — Vroege rassen (Batch 2)\n\
+ n📅 Zaaiperiode: week 13 (mrt)\n🥕 Verwachte oogst: week 32–34 (aug)
+ \n\nVariant: Klimmende blauwschokker (o.a. Blauwschokker)\nBetrouwbaarheid
+ : ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De grond is eigenlijk nog te
+  koud (<5°C)\, maar vroege rassen kunnen wat hebben. Dek af met vliesdoek
+  tegen vogels en muizen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Kapucijners — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:465615f6d5733013@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Kapucijners — Zomer rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 16 (apr)\n🥕 Verwachte oogst: week 33–35 (aug)\
+ n\nVariant: Productieve stam- of rijskapucijner (o.a. Desiree)\nBetrouwbaa
+ rheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Plaats direct bij het z
+ aaien een klimrek of gaas\; deze planten worden hoog en hebben steun nodig
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Kapucijners — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:4a8e7967fb72fea3@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Kapucijners — Zomer rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 34–36 (aug
+ –sep)\n\nVariant: Productieve stam- of rijskapucijner (o.a. Desiree)\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: Plaats direct bij het zaaien een klim
+ rek of gaas\; deze planten worden hoog en hebben steun nodig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Kapucijners — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:15add60ebe9af70c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Kapucijners — Zomer rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 37–39 
+ (sep)\n\nVariant: Productieve stam- of rijskapucijner (o.a. Desiree)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Plaats direct bij het zaaien een klimre
+ k of gaas\; deze planten worden hoog en hebben steun nodig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kapucijners — Vroege rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:39af2133e30851dd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kapucijners — Vroege rassen (Batch 1)\n\n🥕 
+ Oogstperiode: week 31–33 (jul–aug)\n\nVariant: Klimmende blauwschokker
+  (o.a. Blauwschokker)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Pluk de paarse peulen zodra ze dik zijn\, maar voordat ze melig 
+ worden. Regelmatig plukken stimuleert nieuwe groei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kapucijners — Vroege rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:b449b55538c29b21@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kapucijners — Vroege rassen (Batch 2)\n\n🥕 
+ Oogstperiode: week 32–34 (aug)\n\nVariant: Klimmende blauwschokker (o.a.
+  Blauwschokker)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 T
+ ip: Pluk de paarse peulen zodra ze dik zijn\, maar voordat ze melig worden
+ . Regelmatig plukken stimuleert nieuwe groei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kapucijners — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:0023bf5e8e376837@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kapucijners — Zomer rassen (Batch 3)\n\n🥕 O
+ ogstperiode: week 33–35 (aug)\n\nVariant: Productieve stam- of rijskapuc
+ ijner (o.a. Desiree)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Oogst droog om schimmel te voorkomen. De late oogst is ideaal om
+  te drogen voor wintervoorraad.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kapucijners — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:0e5eb903172d09ab@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kapucijners — Zomer rassen (Batch 4)\n\n🥕 O
+ ogstperiode: week 34–36 (aug–sep)\n\nVariant: Productieve stam- of rij
+ skapucijner (o.a. Desiree)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst d
+ roog om schimmel te voorkomen. De late oogst is ideaal om te drogen voor w
+ intervoorraad.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kapucijners — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:43d7b013ac520dcd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kapucijners — Zomer rassen (Batch 5)\n\n🥕 O
+ ogstperiode: week 37–39 (sep)\n\nVariant: Productieve stam- of rijskapuc
+ ijner (o.a. Desiree)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst droog o
+ m schimmel te voorkomen. De late oogst is ideaal om te drogen voor winterv
+ oorraad.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

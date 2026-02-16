@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Snijbiet (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Snijbiet
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Snijbiet — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:da245bf320a0d3fc@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Snijbiet — Vroege rassen (Batch 1)\n\n📅 
+ Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 16 (apr)\n🥕 Verwachte
+  oogst: week 22–27 (mei–jul)\n\nVariant: Snelgroeiend scherpzaad (o.a.
+  Lucullus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen in potjes.
+  De grond buiten is nog veel te koud voor directe kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Snijbiet — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:3f9ac88317697b15@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Snijbiet — Vroege rassen (Batch 1)\n\n🏡 
+ Uitplantperiode: week 16 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwa
+ chte oogst: week 22–27 (mei–jul)\n\nVariant: Snelgroeiend scherpzaad (
+ o.a. Lucullus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harden de plantjes 
+ af. Plant uit op 30cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Snijbiet — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:e3ad1e4230d2b7d0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Snijbiet — Vroege rassen (Batch 1)\n\n🥕 Oog
+ stperiode: week 22–27 (mei–jul)\n\nVariant: Snelgroeiend scherpzaad (o
+ .a. Lucullus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst de buitenste b
+ laderen eerst\, het hart groeit door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Snijbiet — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:4230a38f539a2e1d@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Snijbiet — Zomer rassen (Batch 2)\n\n📅 Z
+ aaiperiode: week 15 (apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Verwachte 
+ oogst: week 25–33 (jun–aug)\n\nVariant: Kleurrijke snijbiet (o.a. Brig
+ ht Lights)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien is nog steed
+ s nodig\; de bodem is buiten nog <8°C.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Snijbiet — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:1bdcd8aeca798c95@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Snijbiet — Zomer rassen (Batch 2)\n\n🏡 U
+ itplantperiode: week 19 (mei)\n🌱 Gezaaid in: week 15 (apr)\n🥕 Verwac
+ hte oogst: week 25–33 (jun–aug)\n\nVariant: Kleurrijke snijbiet (o.a. 
+ Bright Lights)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor voldoende
+  water bij het uitplanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Snijbiet — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:391bc624b3901c0a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Snijbiet — Zomer rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 31–39 (jul
+ –sep)\n\nVariant: Kleurrijke snijbiet (o.a. Bright Lights)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Bodem is nu warm genoeg (8°C+). Zaai direct in
+  regels en dun later uit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Snijbiet — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:34307c5faecee0bc@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Snijbiet — Zomer rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 28 (jul)\n🥕 Verwachte oogst: week 36–44 (sep
+ –nov)\n\nVariant: Kleurrijke snijbiet (o.a. Bright Lights)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Bodem is nu warm genoeg (8°C+). Zaai direct in
+  regels en dun later uit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Snijbiet — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185339Z
+UID:823ec3ef2e0f3fdb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Snijbiet — Zomer rassen (Batch 2)\n\n🥕 Oogs
+ tperiode: week 25–33 (jun–aug)\n\nVariant: Kleurrijke snijbiet (o.a. B
+ right Lights)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf regelmatig plu
+ kken om doorgroei te stimuleren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Snijbiet — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:bc11ae98d216fc57@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Snijbiet — Zomer rassen (Batch 3)\n\n🥕 Oogs
+ tperiode: week 31–39 (jul–sep)\n\nVariant: Kleurrijke snijbiet (o.a. B
+ right Lights)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf regelmatig plu
+ kken om doorgroei te stimuleren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Snijbiet — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185339Z
+UID:e8f73f4520d1af15@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Snijbiet — Zomer rassen (Batch 4)\n\n🥕 Oogs
+ tperiode: week 36–44 (sep–nov)\n\nVariant: Kleurrijke snijbiet (o.a. B
+ right Lights)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Blijf regelmatig plu
+ kken om doorgroei te stimuleren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Snijbiet — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185339Z
+UID:6a17c80e1eefe804@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Snijbiet — Late rassen (Batch 5)\n\n📅
+  Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 42–48 (okt–nov
+ )\n\nVariant: Winterharde bladbiet (o.a. Perpetual Spinach)\nBetrouwbaarhe
+ id: ✅ Hoog\n\n💡 Tip: Deze late zaai zorgt voor verse bladgroente in d
+ e herfst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Snijbiet — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185339Z
+UID:6071e1edbd7f1277@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Snijbiet — Late rassen (Batch 5)\n\n🥕 Oogst
+ periode: week 42–48 (okt–nov)\n\nVariant: Winterharde bladbiet (o.a. P
+ erpetual Spinach)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst stopt zodr
+ a strenge vorst (-5°C) intreedt (meestal eind november).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

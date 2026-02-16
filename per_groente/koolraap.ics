@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Koolraap (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Koolraap
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:2ad394519311dd70@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolraap — Late rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 40–47 (sep
+ –nov)\n\nVariant: Winterharde bewaarkoolraap (o.a. Wilhelmsburger)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai ter plaatse op 2cm diepte. Dun tij
+ dig uit op 30-40cm plantafstand voor mooie ronde knollen. Gebruik insecten
+ gaas tegen koolvlieg en aardvlooien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:7ac09ade84103670@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolraap — Late rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 42–49 (okt–dec
+ )\n\nVariant: Winterharde bewaarkoolraap (o.a. Wilhelmsburger)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Zaai ter plaatse op 2cm diepte. Dun tijdig ui
+ t op 30-40cm plantafstand voor mooie ronde knollen. Gebruik insectengaas t
+ egen koolvlieg en aardvlooien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:f0fb5b9fc98fd926@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolraap — Late rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 44–51 (okt
+ –dec)\n\nVariant: Winterharde bewaarkoolraap (o.a. Wilhelmsburger)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai ter plaatse op 2cm diepte. Dun tij
+ dig uit op 30-40cm plantafstand voor mooie ronde knollen. Gebruik insecten
+ gaas tegen koolvlieg en aardvlooien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:d2c0c2c1cb9bdbbf@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolraap — Late rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 24 (jun)\n🥕 Verwachte oogst: week 46–52 (nov–dec
+ )\n\nVariant: Winterharde bewaarkoolraap (o.a. Wilhelmsburger)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Zaai ter plaatse op 2cm diepte. Dun tijdig ui
+ t op 30-40cm plantafstand voor mooie ronde knollen. Gebruik insectengaas t
+ egen koolvlieg en aardvlooien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20260216T185338Z
+UID:59e0121b80806a3d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolraap — Late rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 40–47 (sep–nov)\n\nVariant: Winterharde bewaarkoolraap (
+ o.a. Wilhelmsburger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak word
+ t zoeter na lichte vorst. Oogst alles vóór strenge vorst (< -10°C) of d
+ ek af met een dikke laag stro om de oogst tot in januari te rekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20260216T185338Z
+UID:0e09cdc5835e6ade@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolraap — Late rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 42–49 (okt–dec)\n\nVariant: Winterharde bewaarkoolraap (
+ o.a. Wilhelmsburger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak word
+ t zoeter na lichte vorst. Oogst alles vóór strenge vorst (< -10°C) of d
+ ek af met een dikke laag stro om de oogst tot in januari te rekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251222
+DTSTAMP:20260216T185338Z
+UID:03eb18343b93e778@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolraap — Late rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 44–51 (okt–dec)\n\nVariant: Winterharde bewaarkoolraap (
+ o.a. Wilhelmsburger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak word
+ t zoeter na lichte vorst. Oogst alles vóór strenge vorst (< -10°C) of d
+ ek af met een dikke laag stro om de oogst tot in januari te rekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolraap — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:ec64a39f6ad7c012@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolraap — Late rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 46–52 (nov–dec)\n\nVariant: Winterharde bewaarkoolraap (
+ o.a. Wilhelmsburger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De smaak word
+ t zoeter na lichte vorst. Oogst alles vóór strenge vorst (< -10°C) of d
+ ek af met een dikke laag stro om de oogst tot in januari te rekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

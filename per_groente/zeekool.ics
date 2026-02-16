@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Zeekool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Zeekool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Zeekool — Doorlevende rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:34c6d0456406d90d@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Zeekool — Doorlevende rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 10–12 (mrt)\n🏡 Uitplanten: week 16–18 (apr
+ –mei)\n🥕 Verwachte oogst: week 11–15 (mrt–apr)\n\nVariant: Vaste 
+ plant (Crambe maritima)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebruik di
+ epe potten voor de penwortel. Verwijder de harde kurkachtige schil rond he
+ t zaad voor betere kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Zeekool — Doorlevende rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:c35387930405b491@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Zeekool — Doorlevende rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 14–16 (mrt–apr)\n🏡 Uitplanten: week 20–22 
+ (mei–jun)\n🥕 Verwachte oogst: week 16–20 (apr–mei)\n\nVariant: Va
+ ste plant (Crambe maritima)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebrui
+ k diepe potten voor de penwortel. Verwijder de harde kurkachtige schil ron
+ d het zaad voor betere kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Zeekool — Doorlevende rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:d91652dd41adbf8f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Zeekool — Doorlevende rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 16–18 (apr–mei)\n🌱 Gezaaid in: week 10
+ –12 (mrt)\n🥕 Verwachte oogst: week 11–15 (mrt–apr)\n\nVariant: Va
+ ste plant (Crambe maritima)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant 
+ uit op een definitieve\, zonnige plek (vaste plant). Zorg voor goed doorla
+ tende\, kalkrijke grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Zeekool — Doorlevende rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:c3cd8a398b1804a6@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Zeekool — Doorlevende rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 20–22 (mei–jun)\n🌱 Gezaaid in: week 14
+ –16 (mrt–apr)\n🥕 Verwachte oogst: week 16–20 (apr–mei)\n\nVaria
+ nt: Vaste plant (Crambe maritima)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Plant uit op een definitieve\, zonnige plek (vaste plant). Zorg voor goed 
+ doorlatende\, kalkrijke grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zeekool — Doorlevende rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:ec9cbe1c717b8e34@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zeekool — Doorlevende rassen (Batch 1)\n\n🥕
+  Oogstperiode: week 11–15 (mrt–apr)\n\nVariant: Vaste plant (Crambe ma
+ ritima)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst pas vanaf JAAR 2 of 
+ 3. In het vroege voorjaar de pollen afdekken met een bleekpot voor malse w
+ itte stengels.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zeekool — Doorlevende rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:42a6c8d1d8219477@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zeekool — Doorlevende rassen (Batch 2)\n\n🥕
+  Oogstperiode: week 16–20 (apr–mei)\n\nVariant: Vaste plant (Crambe ma
+ ritima)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst pas vanaf JAAR 2 of 
+ 3. In het vroege voorjaar de pollen afdekken met een bleekpot voor malse w
+ itte stengels.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

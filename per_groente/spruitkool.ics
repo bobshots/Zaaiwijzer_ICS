@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Spruitkool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Spruitkool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spruitkool — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185339Z
+UID:b1f1ee8389b623d0@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spruitkool — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 12–13 (mrt)\n🏡 Uitplanten: week 17–18 (apr
+ –mei)\n🥕 Verwachte oogst: week 38–41 (sep–okt)\n\nVariant: Vroege
+  hybride (o.a. Brigitte F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai b
+ innen of in een verwarmde kas (15-20°C). Dit valt binnen het optimale sta
+ rtvenster.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spruitkool — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:79be1a6062b8845c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spruitkool — Vroege rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 15–16 (apr)\n🏡 Uitplanten: week 20–21 (mei)\
+ n🥕 Verwachte oogst: week 41–45 (okt–nov)\n\nVariant: Vroege hybride
+  (o.a. Brigitte F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen of
+  in een verwarmde kas (15-20°C). Dit valt binnen het optimale startvenste
+ r.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spruitkool — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:040272196f780a7d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spruitkool — Vroege rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 17–18 (apr–mei)\n🌱 Gezaaid in: week 12
+ –13 (mrt)\n🥕 Verwachte oogst: week 38–41 (sep–okt)\n\nVariant: Vr
+ oege hybride (o.a. Brigitte F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Ha
+ rden de planten af voor het uitplanten. Plant stevig vast op 50x50cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spruitkool — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:11c8cc14a5daff71@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spruitkool — Vroege rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 15–16 (a
+ pr)\n🥕 Verwachte oogst: week 41–45 (okt–nov)\n\nVariant: Vroege hyb
+ ride (o.a. Brigitte F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harden de 
+ planten af voor het uitplanten. Plant stevig vast op 50x50cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spruitkool — Vroege rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185339Z
+UID:67097152717cb796@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spruitkool — Vroege rassen (Batch 1)\n\n🥕 O
+ ogstperiode: week 38–41 (sep–okt)\n\nVariant: Vroege hybride (o.a. Bri
+ gitte F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de onderste spruitj
+ es eerst\, zodat de bovenste nog kunnen doorgroeien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spruitkool — Vroege rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185339Z
+UID:dd403a89e947546a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spruitkool — Vroege rassen (Batch 2)\n\n🥕 O
+ ogstperiode: week 41–45 (okt–nov)\n\nVariant: Vroege hybride (o.a. Bri
+ gitte F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de onderste spruitj
+ es eerst\, zodat de bovenste nog kunnen doorgroeien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spruitkool — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:bd77dac203275722@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spruitkool — Zomer rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 16–17 (apr)\n🏡 Uitplanten: week 21–22 (mei–jun
+ )\n🥕 Verwachte oogst: week 46–51 (nov–dec)\n\nVariant: Herfsttype (
+ o.a. Content F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in een koude
+  bak of op een beschut zaaibed buiten (bodem is nu warm genoeg).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spruitkool — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:202f0165d7e1aa1c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spruitkool — Zomer rassen (Batch 3)\n\n🏡
+  Uitplantperiode: week 21–22 (mei–jun)\n🌱 Gezaaid in: week 16–17 
+ (apr)\n🥕 Verwachte oogst: week 46–51 (nov–dec)\n\nVariant: Herfstty
+ pe (o.a. Content F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor vol
+ doende water bij het uitplanten\, mei kan droog zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spruitkool — Zomer rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251222
+DTSTAMP:20260216T185339Z
+UID:b89086f46524d471@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spruitkool — Zomer rassen (Batch 3)\n\n🥕 Oo
+ gstperiode: week 46–51 (nov–dec)\n\nVariant: Herfsttype (o.a. Content 
+ F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst deze rassen voor de stre
+ ngste winterkou (januari) invalt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spruitkool — Late rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:8ee7c4fe74d409c1@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spruitkool — Late rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 21–22 (mei–jun)\n🏡 Uitplanten: week 26–27 (jun
+ –jul)\n🥕 Verwachte oogst: week 52–6 (dec–feb)\n\nVariant: Winterh
+ arde bewaarspruit (o.a. Groninger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip:
+  Zaai buiten op een zaaibed. Bescherm tegen vogels en koolwitjes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spruitkool — Late rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:6fad1d1fda7c0c79@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spruitkool — Late rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 24–25 (jun)\n🏡 Uitplanten: week 29–30 (jul)\n🥕
+  Verwachte oogst: week 6–12 (feb–mrt)\n\nVariant: Winterharde bewaarsp
+ ruit (o.a. Groninger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai buiten 
+ op een zaaibed. Bescherm tegen vogels en koolwitjes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spruitkool — Late rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:5c1b242907cb45a0@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spruitkool — Late rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 26–27 (jun–jul)\n🌱 Gezaaid in: week 21–22 (
+ mei–jun)\n🥕 Verwachte oogst: week 52–6 (dec–feb)\n\nVariant: Wint
+ erharde bewaarspruit (o.a. Groninger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Plant deze late rassen ruim (60-70cm) voor goede luchtcirculatie in de
+  vochtige herfst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spruitkool — Late rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:6a7554d6b8f1930d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spruitkool — Late rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 29–30 (jul)\n🌱 Gezaaid in: week 24–25 (jun)\n
+ 🥕 Verwachte oogst: week 6–12 (feb–mrt)\n\nVariant: Winterharde bewa
+ arspruit (o.a. Groninger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de
+ ze late rassen ruim (60-70cm) voor goede luchtcirculatie in de vochtige he
+ rfst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spruitkool — Late rassen
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185339Z
+UID:cc6c14739a0add05@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spruitkool — Late rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 52–6 (dec–feb)\n\nVariant: Winterharde bewaarspruit (o
+ .a. Groninger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Ideaal voor de wint
+ eroogst. De smaak verbetert aanzienlijk na de eerste nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spruitkool — Late rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:c2f9d742a7d531e0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spruitkool — Late rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 6–12 (feb–mrt)\n\nVariant: Winterharde bewaarspruit (o
+ .a. Groninger)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Ideaal voor de wint
+ eroogst. De smaak verbetert aanzienlijk na de eerste nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

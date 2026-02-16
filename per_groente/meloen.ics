@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Meloen (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Meloen
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Meloen — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:6014e97e5a5231a7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Meloen — Vroege rassen (Batch 1)\n\n📅 Za
+ aiperiode: week 13 (mrt)\n🏡 Uitplanten: week 18 (apr–mei)\n🥕 Verwa
+ chte oogst: week 28–30 (jul)\n\nVariant: Kleine suikermeloen (bijv. Peti
+ t Gris de Rennes)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡
+  Tip: Start vroeg binnen in potten bij minstens 22°C. Deze vroege batch v
+ ereist later een kas of tunnel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Meloen — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:43040caeb536b659@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Meloen — Vroege rassen (Batch 1)\n\n🏡 Ui
+ tplantperiode: week 18 (apr–mei)\n🌱 Gezaaid in: week 13 (mrt)\n🥕 V
+ erwachte oogst: week 28–30 (jul)\n\nVariant: Kleine suikermeloen (bijv. 
+ Petit Gris de Rennes)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Plant uit in een kas of tunnel. De grond is buiten nog te koud\;
+  gebruik zwart plastic om de bodem te verwarmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Meloen — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:f16df31836e5b7f3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Meloen — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 28–30 (jul)\n\nVariant: Kleine suikermeloen (bijv. Petit G
+ ris de Rennes)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Ti
+ p: De meloen is rijp als er barstjes rond de steel ontstaan en hij heerlij
+ k zoet ruikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:fa175eaae9deb79a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Meloen — Zomer rassen (Batch 2)\n\n📅 Zaa
+ iperiode: week 15 (apr)\n🏡 Uitplanten: week 20 (mei)\n🥕 Verwachte oo
+ gst: week 30–32 (jul–aug)\n\nVariant: Warminnende netmeloen (bijv. Cha
+ rentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen in ruim
+ e potten (P9). Meloenen houden niet van verpotten\, dus zaai direct in de 
+ eindpot.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:f489d4ccceaae628@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Meloen — Zomer rassen (Batch 3)\n\n📅 Zaa
+ iperiode: week 17 (apr)\n🏡 Uitplanten: week 22 (mei–jun)\n🥕 Verwac
+ hte oogst: week 32–34 (aug)\n\nVariant: Warminnende netmeloen (bijv. Cha
+ rentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen in ruim
+ e potten (P9). Meloenen houden niet van verpotten\, dus zaai direct in de 
+ eindpot.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:4347e8b578567c2a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Meloen — Zomer rassen (Batch 4)\n\n📅 Zaa
+ iperiode: week 19 (mei)\n🏡 Uitplanten: week 24 (jun)\n🥕 Verwachte oo
+ gst: week 34–36 (aug–sep)\n\nVariant: Warminnende netmeloen (bijv. Cha
+ rentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen in ruim
+ e potten (P9). Meloenen houden niet van verpotten\, dus zaai direct in de 
+ eindpot.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:c351c17e19cb2281@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Meloen — Zomer rassen (Batch 2)\n\n🏡 Uit
+ plantperiode: week 20 (mei)\n🌱 Gezaaid in: week 15 (apr)\n🥕 Verwacht
+ e oogst: week 30–32 (jul–aug)\n\nVariant: Warminnende netmeloen (bijv.
+  Charentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd 5-6 weken 
+ aan tussen zaaien en uitplanten. Plant pas buiten als nachtvorst definitie
+ f weg is (na IJsheiligen).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:9137f13529dbcc24@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Meloen — Zomer rassen (Batch 3)\n\n🏡 Uit
+ plantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 17 (apr)\n🥕 Ve
+ rwachte oogst: week 32–34 (aug)\n\nVariant: Warminnende netmeloen (bijv.
+  Charentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd 5-6 weken 
+ aan tussen zaaien en uitplanten. Plant pas buiten als nachtvorst definitie
+ f weg is (na IJsheiligen).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:b482a718055bce9d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Meloen — Zomer rassen (Batch 4)\n\n🏡 Uit
+ plantperiode: week 24 (jun)\n🌱 Gezaaid in: week 19 (mei)\n🥕 Verwacht
+ e oogst: week 34–36 (aug–sep)\n\nVariant: Warminnende netmeloen (bijv.
+  Charentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd 5-6 weken 
+ aan tussen zaaien en uitplanten. Plant pas buiten als nachtvorst definitie
+ f weg is (na IJsheiligen).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:3763eff5ae513be1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Meloen — Zomer rassen (Batch 2)\n\n🥕 Oogstp
+ eriode: week 30–32 (jul–aug)\n\nVariant: Warminnende netmeloen (bijv. 
+ Charentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Stop met water g
+ even 1 week voor de oogst voor een zoetere smaak ('afrijpen').
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:c91a811dfeb2bda4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Meloen — Zomer rassen (Batch 3)\n\n🥕 Oogstp
+ eriode: week 32–34 (aug)\n\nVariant: Warminnende netmeloen (bijv. Charen
+ tais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Stop met water geven 1
+  week voor de oogst voor een zoetere smaak ('afrijpen').
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Meloen — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:f680b3696304eaf5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Meloen — Zomer rassen (Batch 4)\n\n🥕 Oogstp
+ eriode: week 34–36 (aug–sep)\n\nVariant: Warminnende netmeloen (bijv. 
+ Charentais/Galia)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Stop met water g
+ even 1 week voor de oogst voor een zoetere smaak ('afrijpen').
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
