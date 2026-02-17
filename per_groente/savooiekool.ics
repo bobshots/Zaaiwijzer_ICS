@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Savooiekool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Savooiekool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185339Z
+UID:d57a166a7c7bc5e5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 8 (feb)\n🏡 Uitplanten: week 13–14 (mrt–apr)\
+ n🥕 Verwachte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiend v
+ oorjaarsras (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaa
+ i binnen warm voor (min. 15°C). Zorg voor veel licht zodra de kiemplantje
+ s zichtbaar zijn om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:026689a4bd12d430@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Vroege rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 15–16 (apr)\n🥕
+  Verwachte oogst: week 28–30 (jul)\n\nVariant: Snelgroeiend voorjaarsras
+  (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen wa
+ rm voor (min. 15°C). Zorg voor veel licht zodra de kiemplantjes zichtbaar
+  zijn om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:496c48401690065b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Vroege rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 17–18 (apr–mei)
+ \n🥕 Verwachte oogst: week 30–32 (jul–aug)\n\nVariant: Snelgroeiend 
+ voorjaarsras (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Za
+ ai binnen warm voor (min. 15°C). Zorg voor veel licht zodra de kiemplantj
+ es zichtbaar zijn om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:d44131e8a3631a9a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Vroege rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 19–20 (mei)
+ \n🥕 Verwachte oogst: week 32–34 (aug)\n\nVariant: Snelgroeiend voorja
+ arsras (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai bin
+ nen warm voor (min. 15°C). Zorg voor veel licht zodra de kiemplantjes zic
+ htbaar zijn om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:77e3415830d9322e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Vroege rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 13–14 (mrt–apr)\n🌱 Gezaaid in: week 8 (f
+ eb)\n🥕 Verwachte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeie
+ nd voorjaarsras (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip:
+  Harden de planten af voor het uitplanten. Gebruik koolkragen tegen de koo
+ lvlieg en dek direct af met insectengaas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:f6c4c95f7248903e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Vroege rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 15–16 (apr)\n🌱 Gezaaid in: week 10 (mrt)\n
+ 🥕 Verwachte oogst: week 28–30 (jul)\n\nVariant: Snelgroeiend voorjaar
+ sras (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harden de 
+ planten af voor het uitplanten. Gebruik koolkragen tegen de koolvlieg en d
+ ek direct af met insectengaas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:92dba38fcab3ea6d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Vroege rassen (Batch 3)\n\n
+ 🏡 Uitplantperiode: week 17–18 (apr–mei)\n🌱 Gezaaid in: week 12 (
+ mrt)\n🥕 Verwachte oogst: week 30–32 (jul–aug)\n\nVariant: Snelgroei
+ end voorjaarsras (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip
+ : Harden de planten af voor het uitplanten. Gebruik koolkragen tegen de ko
+ olvlieg en dek direct af met insectengaas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:486d75acf973a451@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Vroege rassen (Batch 4)\n\n
+ 🏡 Uitplantperiode: week 19–20 (mei)\n🌱 Gezaaid in: week 14 (mrt–
+ apr)\n🥕 Verwachte oogst: week 32–34 (aug)\n\nVariant: Snelgroeiend vo
+ orjaarsras (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hard
+ en de planten af voor het uitplanten. Gebruik koolkragen tegen de koolvlie
+ g en dek direct af met insectengaas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:2c38da98fcdc20d4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Vroege rassen (Batch 1)\n\n🥕 
+ Oogstperiode: week 26–28 (jun–jul)\n\nVariant: Snelgroeiend voorjaarsr
+ as (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra 
+ de kroppen stevig aanvoelen. Laat ze niet te lang staan om barsten te voor
+ komen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:7591dad97f6370f5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Vroege rassen (Batch 2)\n\n🥕 
+ Oogstperiode: week 28–30 (jul)\n\nVariant: Snelgroeiend voorjaarsras (o.
+ a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de kro
+ ppen stevig aanvoelen. Laat ze niet te lang staan om barsten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185339Z
+UID:41441f0d80aeef3e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Vroege rassen (Batch 3)\n\n🥕 
+ Oogstperiode: week 30–32 (jul–aug)\n\nVariant: Snelgroeiend voorjaarsr
+ as (o.a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra 
+ de kroppen stevig aanvoelen. Laat ze niet te lang staan om barsten te voor
+ komen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Vroege rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:fc327bfb9615074c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Vroege rassen (Batch 4)\n\n🥕 
+ Oogstperiode: week 32–34 (aug)\n\nVariant: Snelgroeiend voorjaarsras (o.
+ a. Primavoy F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de kro
+ ppen stevig aanvoelen. Laat ze niet te lang staan om barsten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:3c18d25ee85e1f2a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Zomer rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 15 (apr)\n🏡 Uitplanten: week 20–21 (mei)\n🥕
+  Verwachte oogst: week 35–39 (aug–sep)\n\nVariant: Herfst/Bewaartype (
+ o.a. Vertus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op een wachtbed 
+ of in trays. Deze rassen groeien trager maar worden groter\; geef ze de ru
+ imte.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:e7370016fa8595ad@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Zomer rassen (Batch 6)\n\n
+ 📅 Zaaiperiode: week 17 (apr)\n🏡 Uitplanten: week 22–23 (mei–jun)
+ \n🥕 Verwachte oogst: week 39–43 (sep–okt)\n\nVariant: Herfst/Bewaar
+ type (o.a. Vertus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op een wac
+ htbed of in trays. Deze rassen groeien trager maar worden groter\; geef ze
+  de ruimte.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:3b88a5b64cdf5bbf@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Zomer rassen (Batch 5)\n\n
+ 🏡 Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 15 (apr)\n
+ 🥕 Verwachte oogst: week 35–39 (aug–sep)\n\nVariant: Herfst/Bewaarty
+ pe (o.a. Vertus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op 60x6
+ 0cm. Geef extra water tijdens droge periodes in de zomer voor goede kopvor
+ ming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:4c400ed40a1def65@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Zomer rassen (Batch 6)\n\n
+ 🏡 Uitplantperiode: week 22–23 (mei–jun)\n🌱 Gezaaid in: week 17 (
+ apr)\n🥕 Verwachte oogst: week 39–43 (sep–okt)\n\nVariant: Herfst/Be
+ waartype (o.a. Vertus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit o
+ p 60x60cm. Geef extra water tijdens droge periodes in de zomer voor goede 
+ kopvorming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:74323fe6e4fd289c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Zomer rassen (Batch 5)\n\n🥕 O
+ ogstperiode: week 35–39 (aug–sep)\n\nVariant: Herfst/Bewaartype (o.a. 
+ Vertus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze kolen kunnen lichte n
+ achtvorst verdragen\, maar oogst ze voor strenge vorst (-4°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185339Z
+UID:da21bc17d6535248@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Zomer rassen (Batch 6)\n\n🥕 O
+ ogstperiode: week 39–43 (sep–okt)\n\nVariant: Herfst/Bewaartype (o.a. 
+ Vertus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze kolen kunnen lichte n
+ achtvorst verdragen\, maar oogst ze voor strenge vorst (-4°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:3db10895f1b4e104@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Late rassen (Batch 7)\n\n📅
+  Zaaiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 23–24 (jun)\n
+ 🥕 Verwachte oogst: week 1–52 (dec)\n\nVariant: Winterharde bewaarkool
+  (o.a. Winterkoning)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start tijdig 
+ voor winterteelt. Batch 8 is aan de late kant\, maar zorgt voor verse oogs
+ t tot in maart.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:ff9d5da7f28f148b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Savooiekool — Late rassen (Batch 8)\n\n📅
+  Zaaiperiode: week 20 (mei)\n🏡 Uitplanten: week 25–26 (jun)\n🥕 Ver
+ wachte oogst: week 1–52 (dec)\n\nVariant: Winterharde bewaarkool (o.a. W
+ interkoning)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip:
+  Start tijdig voor winterteelt. Batch 8 is aan de late kant\, maar zorgt v
+ oor verse oogst tot in maart.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:199319699a9edfac@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Late rassen (Batch 7)\n\n🏡
+  Uitplantperiode: week 23–24 (jun)\n🌱 Gezaaid in: week 18 (apr–mei)
+ \n🥕 Verwachte oogst: week 1–52 (dec)\n\nVariant: Winterharde bewaarko
+ ol (o.a. Winterkoning)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant diep 
+ en druk de grond stevig aan. Bescherm jonge planten tegen duiven en rupsen
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:46a6fc3a39896937@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Savooiekool — Late rassen (Batch 8)\n\n🏡
+  Uitplantperiode: week 25–26 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕
+  Verwachte oogst: week 1–52 (dec)\n\nVariant: Winterharde bewaarkool (o.
+ a. Winterkoning)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 
+ Tip: Plant diep en druk de grond stevig aan. Bescherm jonge planten tegen 
+ duiven en rupsen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:90941b104a3194ea@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Late rassen (Batch 7)\n\n🥕 Oo
+ gstperiode: week 44–52 (okt–dec)\n\nVariant: Winterharde bewaarkool (o
+ .a. Winterkoning)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Savooiekool kan 
+ op het veld blijven staan. Oogst naar behoefte\, zelfs als er sneeuw ligt.
+  Verwijder geel blad.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185339Z
+UID:04afb0232fc85b80@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Late rassen (Batch 7)\n\n🥕 Oo
+ gstperiode: week 1–6 (dec–feb)\n\nVariant: Winterharde bewaarkool (o.a
+ . Winterkoning)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Savooiekool kan op
+  het veld blijven staan. Oogst naar behoefte\, zelfs als er sneeuw ligt. V
+ erwijder geel blad.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:16f1a847f3c8ee2b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Late rassen (Batch 8)\n\n🥕 Oo
+ gstperiode: week 48–52 (nov–dec)\n\nVariant: Winterharde bewaarkool (o
+ .a. Winterkoning)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡
+  Tip: Savooiekool kan op het veld blijven staan. Oogst naar behoefte\, zel
+ fs als er sneeuw ligt. Verwijder geel blad.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Savooiekool — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:ea0516805abbc8b7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Savooiekool — Late rassen (Batch 8)\n\n🥕 Oo
+ gstperiode: week 1–10 (dec–mrt)\n\nVariant: Winterharde bewaarkool (o.
+ a. Winterkoning)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 
+ Tip: Savooiekool kan op het veld blijven staan. Oogst naar behoefte\, zelf
+ s als er sneeuw ligt. Verwijder geel blad.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

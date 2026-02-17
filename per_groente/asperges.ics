@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Asperges (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Asperges
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Asperges — Doorlevende rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:2902c1dcb5089d5d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Asperges — Doorlevende rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 13–15 (mrt–apr)\n\nVariant: Meerjarige hybr
+ ide (plantklauwen)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Plant klauwen in een geul van 20-25cm diep op een zandrug. Sprei
+ d de wortels breed uit. Oogst pas vanaf het 3e jaar om de plantsterkte op 
+ te bouwen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Asperges — Doorlevende rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:4d085b182f083de9@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Asperges — Doorlevende rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 16–17 (apr)\n\nVariant: Meerjarige hybride (p
+ lantklauwen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant klauwen in een 
+ geul van 20-25cm diep op een zandrug. Spreid de wortels breed uit. Oogst p
+ as vanaf het 3e jaar om de plantsterkte op te bouwen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Asperges — Doorlevende rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:0c8658fcb9d6252f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Asperges — Doorlevende rassen (Batch 3)\n\n
+ 🥕 Oogstperiode: week 19–21 (mei)\n\nVariant: Meerjarige hybride (best
+ aand bed)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Do
+ or de koude grond start de groei traag. Oogst dagelijks\, maar stop strikt
+  op 24 juni (St. Jan). Hierna moet het loof uitgroeien om energie op te sl
+ aan voor volgend jaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Asperges — Doorlevende rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:80487dda46625be9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Asperges — Doorlevende rassen (Batch 4)\n\n
+ 🥕 Oogstperiode: week 22–25 (mei–jun)\n\nVariant: Meerjarige hybride
+  (bestaand bed)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Door de koude gron
+ d start de groei traag. Oogst dagelijks\, maar stop strikt op 24 juni (St.
+  Jan). Hierna moet het loof uitgroeien om energie op te slaan voor volgend
+  jaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

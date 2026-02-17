@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Groenlof (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Groenlof
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:3db08172cdf456ed@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Groenlof — Late rassen (Batch 1)\n\n📅 Za
+ aiperiode: week 24 (jun)\n🏡 Uitplanten: week 28 (jul)\n🥕 Verwachte o
+ ogst: week 37–40 (sep–okt)\n\nVariant: Herfst- en wintergroente (type 
+ Suikerbrood)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen of in een
+  kweekbak. Dit voorkomt voortijdig doorschieten en geeft sterke planten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:06328cd9f209fa53@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Groenlof — Late rassen (Batch 1)\n\n🏡 Ui
+ tplantperiode: week 28 (jul)\n🌱 Gezaaid in: week 24 (jun)\n🥕 Verwach
+ te oogst: week 37–40 (sep–okt)\n\nVariant: Herfst- en wintergroente (t
+ ype Suikerbrood)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op 30-4
+ 0 cm afstand. Zorg dat de planten goed afgehard zijn voor ze de volle gron
+ d in gaan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:cb0134fa1271b167@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Groenlof — Late rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 39–43 (sep–okt
+ )\n\nVariant: Herfst- en wintergroente (type Suikerbrood)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Houd de grond goed vochtig tijdens de kieming (zom
+ erhitte). Dun later uit op 30 cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:682bf29797e5fc62@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Groenlof — Late rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 28 (jul)\n🥕 Verwachte oogst: week 41–45 (okt–nov
+ )\n\nVariant: Herfst- en wintergroente (type Suikerbrood)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Houd de grond goed vochtig tijdens de kieming (zom
+ erhitte). Dun later uit op 30 cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:d5f15f08b1e16641@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Groenlof — Late rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 30 (jul)\n🥕 Verwachte oogst: week 43–47 (okt–nov
+ )\n\nVariant: Herfst- en wintergroente (type Suikerbrood)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Houd de grond goed vochtig tijdens de kieming (zom
+ erhitte). Dun later uit op 30 cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:a07c9fc038f3a106@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Groenlof — Late rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 37–40 (sep–okt)\n\nVariant: Herfst- en wintergroente (ty
+ pe Suikerbrood)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Groenlof verdraagt
+  lichte vorst (tot -5°C). Oogst voor strenge vorst of dek af met vliesdoe
+ k om het seizoen te verlengen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185338Z
+UID:84712c51c9dd4daa@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Groenlof — Late rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 39–43 (sep–okt)\n\nVariant: Herfst- en wintergroente (ty
+ pe Suikerbrood)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Groenlof verdraagt
+  lichte vorst (tot -5°C). Oogst voor strenge vorst of dek af met vliesdoe
+ k om het seizoen te verlengen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:80861af980e101f7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Groenlof — Late rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 41–45 (okt–nov)\n\nVariant: Herfst- en wintergroente (ty
+ pe Suikerbrood)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Groenlof verdraagt
+  lichte vorst (tot -5°C). Oogst voor strenge vorst of dek af met vliesdoe
+ k om het seizoen te verlengen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Groenlof — Late rassen
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20260216T185338Z
+UID:72e50586c3d1bb0b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Groenlof — Late rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 43–47 (okt–nov)\n\nVariant: Herfst- en wintergroente (ty
+ pe Suikerbrood)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Groenlof verdraagt
+  lichte vorst (tot -5°C). Oogst voor strenge vorst of dek af met vliesdoe
+ k om het seizoen te verlengen.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

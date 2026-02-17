@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Witte kool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Witte kool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:30952d89cad050d7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Witte kool — Zomer rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 15 (apr)\n🥕 Verwacht
+ e oogst: week 30–34 (jul–aug)\n\nVariant: Zware zomerkool (voor direct
+ e consumptie)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen of in e
+ en warme kas. Batch 4 is laat gezaaid om het gat naar de herfst te vullen\
+ ; groei kan trager zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:de0510e635f4e7b7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Witte kool — Zomer rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 15 (apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Verwacht
+ e oogst: week 35–39 (aug–sep)\n\nVariant: Zware zomerkool (voor direct
+ e consumptie)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen of in e
+ en warme kas. Batch 4 is laat gezaaid om het gat naar de herfst te vullen\
+ ; groei kan trager zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:d6a36e3799edfffe@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Witte kool — Zomer rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 19 (mei)\n🏡 Uitplanten: week 23 (jun)\n🥕 Verwacht
+ e oogst: week 40–44 (sep–nov)\n\nVariant: Zware zomerkool (voor direct
+ e consumptie)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip
+ : Start binnen of in een warme kas. Batch 4 is laat gezaaid om het gat naa
+ r de herfst te vullen\; groei kan trager zijn.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Witte kool — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185339Z
+UID:442e8166e9412344@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Witte kool — Vroege rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 13 (mrt)\n🏡 Uitplanten: week 17 (apr)\n🥕 Verw
+ achte oogst: week 31–34 (jul–aug)\n\nVariant: Snelgroeiende ronde of s
+ pitskool\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kies voor spitskool-rasse
+ n voor de snelste resultaten in deze vroege batch.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Witte kool — Late rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:78fc57e727cbb7e5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Witte kool — Late rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 21 (mei)\n🏡 Uitplanten: week 26 (jun)\n🥕 Verwachte
+  oogst: week 45–49 (nov–dec)\n\nVariant: Houdbare bewaarkool (sluitkoo
+ l)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Essentieel voor wintervoorraad.
+  Zaai op een koel zaaibed\, te veel hitte remt kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Witte kool — Late rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:132e35104fff7b1f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Witte kool — Late rassen (Batch 6)\n\n📅 
+ Zaaiperiode: week 24 (jun)\n🏡 Uitplanten: week 29 (jul)\n🥕 Verwachte
+  oogst: week 48–52 (nov–dec)\n\nVariant: Houdbare bewaarkool (sluitkoo
+ l)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Essentieel voor wintervoorraad.
+  Zaai op een koel zaaibed\, te veel hitte remt kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:bcf79c31dfef3130@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Witte kool — Zomer rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 15 (apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕 Verw
+ achte oogst: week 30–34 (jul–aug)\n\nVariant: Zware zomerkool (voor di
+ recte consumptie)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant diep en st
+ evig aan. Gebruik direct insectengaas tegen de koolvlieg en koolwitjes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:bbdefdf645ecac3b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Witte kool — Zomer rassen (Batch 3)\n\n🏡
+  Uitplantperiode: week 19 (mei)\n🌱 Gezaaid in: week 15 (apr)\n🥕 Verw
+ achte oogst: week 35–39 (aug–sep)\n\nVariant: Zware zomerkool (voor di
+ recte consumptie)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant diep en st
+ evig aan. Gebruik direct insectengaas tegen de koolvlieg en koolwitjes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:207a6cca4ac7433d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Witte kool — Zomer rassen (Batch 4)\n\n🏡
+  Uitplantperiode: week 23 (jun)\n🌱 Gezaaid in: week 19 (mei)\n🥕 Verw
+ achte oogst: week 40–44 (sep–nov)\n\nVariant: Zware zomerkool (voor di
+ recte consumptie)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡
+  Tip: Plant diep en stevig aan. Gebruik direct insectengaas tegen de koolv
+ lieg en koolwitjes.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Witte kool — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:e0bbf8384a72a807@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Witte kool — Vroege rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 17 (apr)\n🌱 Gezaaid in: week 13 (mrt)\n🥕 
+ Verwachte oogst: week 31–34 (jul–aug)\n\nVariant: Snelgroeiende ronde 
+ of spitskool\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Wacht niet te lang me
+ t uitplanten\; groeistilstand leidt tot vroege bloei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Witte kool — Late rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:6caee16bb2c3fb35@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Witte kool — Late rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 26 (jun)\n🌱 Gezaaid in: week 21 (mei)\n🥕 Verwa
+ chte oogst: week 45–49 (nov–dec)\n\nVariant: Houdbare bewaarkool (slui
+ tkool)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef ruim water bij het pla
+ nten. Deze kolen worden groot en hebben 50x50cm nodig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Witte kool — Late rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185339Z
+UID:a0004b9a1bbfeb39@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Witte kool — Late rassen (Batch 6)\n\n🏡 
+ Uitplantperiode: week 29 (jul)\n🌱 Gezaaid in: week 24 (jun)\n🥕 Verwa
+ chte oogst: week 48–52 (nov–dec)\n\nVariant: Houdbare bewaarkool (slui
+ tkool)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef ruim water bij het pla
+ nten. Deze kolen worden groot en hebben 50x50cm nodig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:bb3b5c9cce74813b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witte kool — Zomer rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 30–34 (jul–aug)\n\nVariant: Zware zomerkool (voor dir
+ ecte consumptie)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de ko
+ p hard aanvoelt. Laat niet te lang staan om barsten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:8854fe56aea18f23@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witte kool — Zomer rassen (Batch 3)\n\n🥕 Oo
+ gstperiode: week 35–39 (aug–sep)\n\nVariant: Zware zomerkool (voor dir
+ ecte consumptie)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de ko
+ p hard aanvoelt. Laat niet te lang staan om barsten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witte kool — Zomer rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185339Z
+UID:eaf8bd4103810bd9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witte kool — Zomer rassen (Batch 4)\n\n🥕 Oo
+ gstperiode: week 40–44 (sep–nov)\n\nVariant: Zware zomerkool (voor dir
+ ecte consumptie)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 
+ Tip: Oogst zodra de kop hard aanvoelt. Laat niet te lang staan om barsten 
+ te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witte kool — Vroege rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:4f9c667254e9895b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witte kool — Vroege rassen (Batch 2)\n\n🥕 O
+ ogstperiode: week 31–34 (jul–aug)\n\nVariant: Snelgroeiende ronde of s
+ pitskool\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong voor de malse 
+ smaak. Deze rassen zijn niet geschikt voor lang bewaren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witte kool — Late rassen
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20260216T185339Z
+UID:4f80623a0d0d9731@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witte kool — Late rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 45–49 (nov–dec)\n\nVariant: Houdbare bewaarkool (sluit
+ kool)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór strenge vorst (
+ kouder dan -5°C). Bewaar koel en vorstvrij (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witte kool — Late rassen
+DTSTART;VALUE=DATE:20251124
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:58c4de5408e51b4c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witte kool — Late rassen (Batch 6)\n\n🥕 Oog
+ stperiode: week 48–52 (nov–dec)\n\nVariant: Houdbare bewaarkool (sluit
+ kool)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór strenge vorst (
+ kouder dan -5°C). Bewaar koel en vorstvrij (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

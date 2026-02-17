@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Courgette (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Courgette
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Courgette — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:d01a0e3bee953140@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Courgette — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 17 (apr)\n🏡 Uitplanten: week 22 (mei–jun)\n🥕 Ve
+ rwachte oogst: week 26–34 (jun–aug)\n\nVariant: Snelgroeiend struiktyp
+ e\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Courgettes groeien razendsnel. Z
+ aai in grote potten (P9) op een warme plek\; ze moeten na 4-5 weken al naa
+ r buiten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Courgette — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:f88d456ea3d60baf@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Courgette — Zomer rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 19 (mei)\n🏡 Uitplanten: week 24 (jun)\n🥕 Verwachte
+  oogst: week 28–36 (jul–sep)\n\nVariant: Productief rankend ras\nBetro
+ uwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 3 dient als opvolging\; courgettep
+ lanten raken na 2-3 maanden vaak uitgeput of krijgen meeldauw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Courgette — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:ab4d9e7a27ff6638@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Courgette — Zomer rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 23 (jun)\n🏡 Uitplanten: week 27 (jun–jul)\n🥕 Ver
+ wachte oogst: week 32–40 (aug–okt)\n\nVariant: Productief rankend ras\
+ nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Batch 3 dient als opvolging\; cour
+ getteplanten raken na 2-3 maanden vaak uitgeput of krijgen meeldauw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Courgette — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:309672c99c40f40a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Courgette — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 17 (apr)\n
+ 🥕 Verwachte oogst: week 26–34 (jun–aug)\n\nVariant: Snelgroeiend st
+ ruiktype\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Wacht strikt tot na de la
+ atste nachtvorst (Ijsheiligen). De bodem is nu net warm genoeg om te start
+ en.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Courgette — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:b2b7a339e73ee667@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Courgette — Zomer rassen (Batch 2)\n\n🏡 
+ Uitplantperiode: week 24 (jun)\n🌱 Gezaaid in: week 19 (mei)\n🥕 Verwa
+ chte oogst: week 28–36 (jul–sep)\n\nVariant: Productief rankend ras\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op een composthoop of zeer
+  rijke grond. Geef direct veel water. Houd 1m² per plant aan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Courgette — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:9ea337865227d54c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Courgette — Zomer rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 27 (jun–jul)\n🌱 Gezaaid in: week 23 (jun)\n🥕
+  Verwachte oogst: week 32–40 (aug–okt)\n\nVariant: Productief rankend 
+ ras\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op een composthoop o
+ f zeer rijke grond. Geef direct veel water. Houd 1m² per plant aan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Courgette — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:cf2ed273498ef286@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Courgette — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 26–34 (jun–aug)\n\nVariant: Snelgroeiend struiktype\n
+ Betrouwbaarheid: ✅ Hoog\n\n💡 Tip: De eerste vruchten verschijnen snel
+ . Oogst ze jong (15cm) om de plant te dwingen meer bloemen te maken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Courgette — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:bd6ce8cf49e2ad29@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Courgette — Zomer rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 28–36 (jul–sep)\n\nVariant: Productief rankend ras\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: In het hoogseizoen moet je om de dag 
+ oogsten\, anders krijg je smaakloze 'knuppels'. Vanaf week 41 stopt de oog
+ st door kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Courgette — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:ee6d2f58d301b5dc@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Courgette — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 32–40 (aug–okt)\n\nVariant: Productief rankend ras\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: In het hoogseizoen moet je om de dag 
+ oogsten\, anders krijg je smaakloze 'knuppels'. Vanaf week 41 stopt de oog
+ st door kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

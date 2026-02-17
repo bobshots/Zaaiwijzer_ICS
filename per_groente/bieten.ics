@@ -1,0 +1,269 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Bieten (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Bieten
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:43e455f51873522a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 27–28 (jun
+ –jul)\n\nVariant: Snelgroeiende ronde biet (o.a. Kogel 2)\nBetrouwbaarhe
+ id: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Bietenkiemen houden niet v
+ an kou (<7°C). Zaai iets dikker omdat kieming trager is. Pas op: kou kan 
+ leiden tot 'schieters' (bloei).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:a4b5ef77cda60b9f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 16 (apr)\n🥕 Verwachte oogst: week 29–30 (jul)\n\nV
+ ariant: Snelgroeiende ronde biet (o.a. Kogel 2)\nBetrouwbaarheid: ⚠️ L
+ aag (weersafhankelijk)\n\n💡 Tip: Bietenkiemen houden niet van kou (<7°
+ C). Zaai iets dikker omdat kieming trager is. Pas op: kou kan leiden tot '
+ schieters' (bloei).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:dda8772a7bf551d6@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Vroege rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 31–32 (jul
+ –aug)\n\nVariant: Snelgroeiende ronde biet (o.a. Kogel 2)\nBetrouwbaarhe
+ id: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Bietenkiemen houden niet v
+ an kou (<7°C). Zaai iets dikker omdat kieming trager is. Pas op: kou kan 
+ leiden tot 'schieters' (bloei).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Vroege rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:6970626908aee68f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 27–28 (jun–jul)\n\nVariant: Snelgroeiende ronde biet (o.
+ a. Kogel 2)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: 
+ Oogst jong (golfbal-formaat) voor de beste\, zoete smaak. Oogst op tijd om
+  vezelige bieten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Vroege rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:592e26bb06683d88@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 29–30 (jul)\n\nVariant: Snelgroeiende ronde biet (o.a. Kog
+ el 2)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst 
+ jong (golfbal-formaat) voor de beste\, zoete smaak. Oogst op tijd om vezel
+ ige bieten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Vroege rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:f0bf71cfc36b0259@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Vroege rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 31–32 (jul–aug)\n\nVariant: Snelgroeiende ronde biet (o.
+ a. Kogel 2)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: 
+ Oogst jong (golfbal-formaat) voor de beste\, zoete smaak. Oogst op tijd om
+  vezelige bieten te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:eac1ced5f05cdfe1@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Zomer rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 31–33 (jul–aug)
+ \n\nVariant: Kleurrijke of langwerpige types (o.a. Chioggia\, Cylindra)\nB
+ etrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Bietenzaad is 
+ een vruchtje met meerdere zaden ('kluwen'). Dun de zaailingen uit tot 1 pl
+ ant per plek voor mooie ronde knollen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:9e80994d1b95ebce@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Zomer rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 33–35 (aug)
+ \n\nVariant: Kleurrijke of langwerpige types (o.a. Chioggia\, Cylindra)\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bietenzaad is een vruchtje met meerd
+ ere zaden ('kluwen'). Dun de zaailingen uit tot 1 plant per plek voor mooi
+ e ronde knollen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:262fd07a5156a988@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Zomer rassen (Batch 6)\n\n📅 
+ Zaaiperiode: week 24 (jun)\n🥕 Verwachte oogst: week 35–37 (aug–sep)
+ \n\nVariant: Kleurrijke of langwerpige types (o.a. Chioggia\, Cylindra)\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bietenzaad is een vruchtje met meerd
+ ere zaden ('kluwen'). Dun de zaailingen uit tot 1 plant per plek voor mooi
+ e ronde knollen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:c3d3b88784ff50c6@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 37–41 (sep–okt)
+ \n\nVariant: Kleurrijke of langwerpige types (o.a. Chioggia\, Cylindra)\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bietenzaad is een vruchtje met meerd
+ ere zaden ('kluwen'). Dun de zaailingen uit tot 1 plant per plek voor mooi
+ e ronde knollen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:11082bdb3fd3aa49@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Zomer rassen (Batch 4)\n\n🥕 Oogstp
+ eriode: week 31–33 (jul–aug)\n\nVariant: Kleurrijke of langwerpige typ
+ es (o.a. Chioggia\, Cylindra)\nBetrouwbaarheid: ⚠️ Laag (weersafhankel
+ ijk)\n\n💡 Tip: Draai het loof er met de hand af in plaats van te snijde
+ n\; dit voorkomt dat de biet gaat 'bloeden' en smaak verliest.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:973ee12c4bea14c6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Zomer rassen (Batch 5)\n\n🥕 Oogstp
+ eriode: week 33–35 (aug)\n\nVariant: Kleurrijke of langwerpige types (o.
+ a. Chioggia\, Cylindra)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Draai het 
+ loof er met de hand af in plaats van te snijden\; dit voorkomt dat de biet
+  gaat 'bloeden' en smaak verliest.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:d0bcdbe8b2cb948b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Zomer rassen (Batch 6)\n\n🥕 Oogstp
+ eriode: week 35–37 (aug–sep)\n\nVariant: Kleurrijke of langwerpige typ
+ es (o.a. Chioggia\, Cylindra)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Draa
+ i het loof er met de hand af in plaats van te snijden\; dit voorkomt dat d
+ e biet gaat 'bloeden' en smaak verliest.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:fc66a5f74c399963@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Zomer rassen (Batch 7)\n\n🥕 Oogstp
+ eriode: week 37–41 (sep–okt)\n\nVariant: Kleurrijke of langwerpige typ
+ es (o.a. Chioggia\, Cylindra)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Draa
+ i het loof er met de hand af in plaats van te snijden\; dit voorkomt dat d
+ e biet gaat 'bloeden' en smaak verliest.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Late rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:351fec5eed5a3967@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Late rassen (Batch 8)\n\n📅 Z
+ aaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 42–45 (okt–nov)\
+ n\nVariant: Bewaar- en winterbieten (o.a. Winterkeeper)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Deze rassen groeien trager maar blijven lang goed. Z
+ aai in mei voor oogst in de late herfst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Bieten — Late rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:308f351b17453e67@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Bieten — Late rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 44–48 (okt
+ –nov)\n\nVariant: Bewaar- en winterbieten (o.a. Winterkeeper)\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Deze rassen groeien trager maar blijven lang
+  goed. Zaai in mei voor oogst in de late herfst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:749768bc3a0ad0b6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Late rassen (Batch 8)\n\n🥕 Oogstpe
+ riode: week 42–45 (okt–nov)\n\nVariant: Bewaar- en winterbieten (o.a. 
+ Winterkeeper)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór zware v
+ orst (-3°C). Bewaar in een kist met vochtig zand op een vorstvrije\, koel
+ e plek (2-5°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bieten — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185338Z
+UID:2afddf6795585e69@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bieten — Late rassen (Batch 9)\n\n🥕 Oogstpe
+ riode: week 44–48 (okt–nov)\n\nVariant: Bewaar- en winterbieten (o.a. 
+ Winterkeeper)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór zware v
+ orst (-3°C). Bewaar in een kist met vochtig zand op een vorstvrije\, koel
+ e plek (2-5°C).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

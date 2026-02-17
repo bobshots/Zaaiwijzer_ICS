@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Stambonen (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Stambonen
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stambonen — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:53662c6feb340332@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stambonen — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 19 (mei)\n🏡 Uitplanten: week 21 (mei)\n🥕 Verwacht
+ e oogst: week 29–31 (jul–aug)\n\nVariant: Snelgroeiend vroeg ras (bijv
+ . Saxa of dubbele witte)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start bin
+ nen in potjes\, maar niet te vroeg! Bonen groeien snel\; 2 tot 3 weken bin
+ nen is maximaal om wortelstress te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stambonen — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:8bd06d452586c219@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stambonen — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 21 (mei)\n🏡 Uitplanten: week 23 (jun)\n🥕 Verwacht
+ e oogst: week 31–33 (jul–aug)\n\nVariant: Snelgroeiend vroeg ras (bijv
+ . Saxa of dubbele witte)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start bin
+ nen in potjes\, maar niet te vroeg! Bonen groeien snel\; 2 tot 3 weken bin
+ nen is maximaal om wortelstress te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:d708bc8811de1f51@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stambonen — Zomer rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 23 (jun)\n🏡 Uitplanten: week 25 (jun)\n🥕 Verwachte
+  oogst: week 33–36 (aug–sep)\n\nVariant: Productief ras zonder draad (
+ bijv. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai voor in diepe 
+ potjes of root-trainers. Door de koude grond buiten is voorzaaien dit seiz
+ oen veiliger dan direct zaaien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:4ef8fa4a2a5a0a89@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stambonen — Zomer rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 26 (jun)\n🏡 Uitplanten: week 28 (jul)\n🥕 Verwachte
+  oogst: week 36–39 (sep)\n\nVariant: Productief ras zonder draad (bijv. 
+ Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai voor in diepe potjes
+  of root-trainers. Door de koude grond buiten is voorzaaien dit seizoen ve
+ iliger dan direct zaaien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:6872c32132456778@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stambonen — Zomer rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 28 (jul)\n🏡 Uitplanten: week 30 (jul)\n🥕 Verwachte
+  oogst: week 39–41 (sep–okt)\n\nVariant: Productief ras zonder draad (
+ bijv. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai voor in diepe 
+ potjes of root-trainers. Door de koude grond buiten is voorzaaien dit seiz
+ oen veiliger dan direct zaaien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stambonen — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:9df8c7f942114b35@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stambonen — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 21 (mei)\n🌱 Gezaaid in: week 19 (mei)\n🥕 Verw
+ achte oogst: week 29–31 (jul–aug)\n\nVariant: Snelgroeiend vroeg ras (
+ bijv. Saxa of dubbele witte)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant
+  jonge zaailingen uit na IJsheiligen. Doe dit voorzichtig\; beschadig de w
+ ortels niet.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stambonen — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:7e6b88da04a51212@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stambonen — Vroege rassen (Batch 2)\n\n🏡
+  Uitplantperiode: week 23 (jun)\n🌱 Gezaaid in: week 21 (mei)\n🥕 Verw
+ achte oogst: week 31–33 (jul–aug)\n\nVariant: Snelgroeiend vroeg ras (
+ bijv. Saxa of dubbele witte)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant
+  jonge zaailingen uit na IJsheiligen. Doe dit voorzichtig\; beschadig de w
+ ortels niet.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:edd3a0c511019ea5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stambonen — Zomer rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 25 (jun)\n🌱 Gezaaid in: week 23 (jun)\n🥕 Verwa
+ chte oogst: week 33–36 (aug–sep)\n\nVariant: Productief ras zonder dra
+ ad (bijv. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op ee
+ n warme\, beschutte plek. De planten zijn nu sterk genoeg om de tragere bo
+ demopwarming te weerstaan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:021b3c9ae14cbe1f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stambonen — Zomer rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 28 (jul)\n🌱 Gezaaid in: week 26 (jun)\n🥕 Verwa
+ chte oogst: week 36–39 (sep)\n\nVariant: Productief ras zonder draad (bi
+ jv. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op een warm
+ e\, beschutte plek. De planten zijn nu sterk genoeg om de tragere bodemopw
+ arming te weerstaan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:9305109c7a3937cd@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stambonen — Zomer rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 30 (jul)\n🌱 Gezaaid in: week 28 (jul)\n🥕 Verwa
+ chte oogst: week 39–41 (sep–okt)\n\nVariant: Productief ras zonder dra
+ ad (bijv. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op ee
+ n warme\, beschutte plek. De planten zijn nu sterk genoeg om de tragere bo
+ demopwarming te weerstaan.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stambonen — Vroege rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:f372aa73c1d05640@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stambonen — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 29–31 (jul–aug)\n\nVariant: Snelgroeiend vroeg ras (b
+ ijv. Saxa of dubbele witte)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk r
+ egelmatig (2x per week) om de aanmaak van nieuwe peulen te stimuleren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stambonen — Vroege rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185339Z
+UID:f36da0dc90460bc6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stambonen — Vroege rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 31–33 (jul–aug)\n\nVariant: Snelgroeiend vroeg ras (b
+ ijv. Saxa of dubbele witte)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk r
+ egelmatig (2x per week) om de aanmaak van nieuwe peulen te stimuleren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185339Z
+UID:03677acc882dd7da@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stambonen — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 33–36 (aug–sep)\n\nVariant: Productief ras zonder draa
+ d (bijv. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong voor 
+ de lekkerste smaak. Laatste batch oogsten voor de eerste nachtvorst in wee
+ k 41/42.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:03af47dc1142157c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stambonen — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 36–39 (sep)\n\nVariant: Productief ras zonder draad (bij
+ v. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong voor de lek
+ kerste smaak. Laatste batch oogsten voor de eerste nachtvorst in week 41/4
+ 2.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stambonen — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185339Z
+UID:24a3ebe81ad9f02b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stambonen — Zomer rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 39–41 (sep–okt)\n\nVariant: Productief ras zonder draa
+ d (bijv. Prelude)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong voor 
+ de lekkerste smaak. Laatste batch oogsten voor de eerste nachtvorst in wee
+ k 41/42.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

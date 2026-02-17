@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Ui (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Ui
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:621faa9d32e71cd9@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Vroege rassen (Batch 1)\n\n🏡 Uitpla
+ ntperiode: week 10 (mrt)\n🥕 Verwachte oogst: week 24–25 (jun)\n\nVari
+ ant: Ronde plantui (o.a. Stuttgarter)\nBetrouwbaarheid: ⚠️ Laag (weers
+ afhankelijk)\n\n💡 Tip: Plant de uitjes met het puntje net boven de gron
+ d. Week 10-12 is riskant (kans op schieten)\, dek eventueel af met vliesdo
+ ek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:c966486783c344c7@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Vroege rassen (Batch 2)\n\n🏡 Uitpla
+ ntperiode: week 12 (mrt)\n🥕 Verwachte oogst: week 26–27 (jun–jul)\n
+ \nVariant: Ronde plantui (o.a. Stuttgarter)\nBetrouwbaarheid: ⚠️ Laag 
+ (weersafhankelijk)\n\n💡 Tip: Plant de uitjes met het puntje net boven d
+ e grond. Week 10-12 is riskant (kans op schieten)\, dek eventueel af met v
+ liesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:8a3bc3a52f195e9e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Vroege rassen (Batch 3)\n\n🏡 Uitpla
+ ntperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 28–29 (jul)\n
+ \nVariant: Ronde plantui (o.a. Stuttgarter)\nBetrouwbaarheid: ✅ Hoog\n\n
+ 💡 Tip: Plant de uitjes met het puntje net boven de grond. Week 10-12 is
+  riskant (kans op schieten)\, dek eventueel af met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:ad017fc3e82a36b8@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Vroege rassen (Batch 1)\n\n🥕 Oogstperi
+ ode: week 24–25 (jun)\n\nVariant: Ronde plantui (o.a. Stuttgarter)\nBetr
+ ouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst als het loo
+ f begint te strijken. Laat vroege uien niet te lang staan\, ze bewaren kor
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:9c973757ea3e5ec4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Vroege rassen (Batch 2)\n\n🥕 Oogstperi
+ ode: week 26–27 (jun–jul)\n\nVariant: Ronde plantui (o.a. Stuttgarter)
+ \nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst als h
+ et loof begint te strijken. Laat vroege uien niet te lang staan\, ze bewar
+ en kort.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185339Z
+UID:40b27df4fd71eae7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Vroege rassen (Batch 3)\n\n🥕 Oogstperi
+ ode: week 28–29 (jul)\n\nVariant: Ronde plantui (o.a. Stuttgarter)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als het loof begint te strijken. 
+ Laat vroege uien niet te lang staan\, ze bewaren kort.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:73f14ff8b2c6d85f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Zomer rassen (Batch 4)\n\n🏡 Uitplan
+ tperiode: week 16 (apr)\n🥕 Verwachte oogst: week 30–31 (jul–aug)\n\
+ nVariant: Rode of Gele plantui (o.a. Red Baron)\nBetrouwbaarheid: ✅ Hoog
+ \n\n💡 Tip: Plantui in april geeft snelle bolvorming. Zorg dat de grond 
+ goed los is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:839ed2f2491affd1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Zomer rassen (Batch 4)\n\n🥕 Oogstperio
+ de: week 30–31 (jul–aug)\n\nVariant: Rode of Gele plantui (o.a. Red Ba
+ ron)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laat de uien na de oogst 2 we
+ ken goed drogen in de wind (niet in de volle zon) voor betere bewaring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185339Z
+UID:a5ae27298475a2ff@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Ui — Zomer rassen (Batch 5)\n\n📅 Zaaiper
+ iode: week 8 (feb)\n🏡 Uitplanten: week 15 (apr)\n🥕 Verwachte oogst: 
+ week 32–33 (aug)\n\nVariant: Zaaiui (o.a. Rijnsburger)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: Zaai binnen in trays. Zaaiuien geven hardere bollen
+  die langer bewaren dan plantuien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:b7e220fd7cd1efc3@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Ui — Zomer rassen (Batch 6)\n\n📅 Zaaiper
+ iode: week 10 (mrt)\n🏡 Uitplanten: week 17 (apr)\n🥕 Verwachte oogst:
+  week 34–35 (aug)\n\nVariant: Zaaiui (o.a. Rijnsburger)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Zaai binnen in trays. Zaaiuien geven hardere bolle
+ n die langer bewaren dan plantuien.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:f21855fdb52df158@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Zomer rassen (Batch 5)\n\n🏡 Uitplan
+ tperiode: week 15 (apr)\n🌱 Gezaaid in: week 8 (feb)\n🥕 Verwachte oog
+ st: week 32–33 (aug)\n\nVariant: Zaaiui (o.a. Rijnsburger)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Plant uit zodra de sprietjes rechtop staan. Kni
+ p lange wortels iets bij voor het planten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:a79539f0061a050c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Zomer rassen (Batch 6)\n\n🏡 Uitplan
+ tperiode: week 17 (apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕 Verwachte oo
+ gst: week 34–35 (aug)\n\nVariant: Zaaiui (o.a. Rijnsburger)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Plant uit zodra de sprietjes rechtop staan. Kn
+ ip lange wortels iets bij voor het planten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185339Z
+UID:9aa9a1d8f7c64f79@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Zomer rassen (Batch 5)\n\n🥕 Oogstperio
+ de: week 32–33 (aug)\n\nVariant: Zaaiui (o.a. Rijnsburger)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Stop 3 weken voor de oogst met water geven om b
+ olrot te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185339Z
+UID:e6267a9819610a46@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Zomer rassen (Batch 6)\n\n🥕 Oogstperio
+ de: week 34–35 (aug)\n\nVariant: Zaaiui (o.a. Rijnsburger)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Stop 3 weken voor de oogst met water geven om b
+ olrot te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Ui — Late rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:42633da8e7674b7d@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Ui — Late rassen (Batch 7)\n\n📅 Zaaiperi
+ ode: week 12 (mrt)\n🏡 Uitplanten: week 19 (mei)\n🥕 Verwachte oogst: 
+ week 36–37 (sep)\n\nVariant: Bewaarui (o.a. Sturon zaad)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Late zaai geeft kleinere bollen\, maar deze zijn 
+ perfect voor langdurige winteropslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Ui — Late rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:b2e9e51d8170a7dd@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Ui — Late rassen (Batch 8)\n\n📅 Zaaiperi
+ ode: week 14 (mrt–apr)\n🏡 Uitplanten: week 21 (mei)\n🥕 Verwachte o
+ ogst: week 38–40 (sep–okt)\n\nVariant: Bewaarui (o.a. Sturon zaad)\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: Late zaai geeft kleinere bollen\, maa
+ r deze zijn perfect voor langdurige winteropslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Late rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:51bf2d6bc00f803a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Late rassen (Batch 7)\n\n🏡 Uitplant
+ periode: week 19 (mei)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwachte oog
+ st: week 36–37 (sep)\n\nVariant: Bewaarui (o.a. Sturon zaad)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Plant uit op een zonnige plek. Houd onkruid g
+ oed weg\, uien concurreren slecht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Ui — Late rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:4b91d6e84e15d459@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Ui — Late rassen (Batch 8)\n\n🏡 Uitplant
+ periode: week 21 (mei)\n🌱 Gezaaid in: week 14 (mrt–apr)\n🥕 Verwach
+ te oogst: week 38–40 (sep–okt)\n\nVariant: Bewaarui (o.a. Sturon zaad)
+ \nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit op een zonnige plek. Ho
+ ud onkruid goed weg\, uien concurreren slecht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Late rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185339Z
+UID:f4dfd6e19c30eeed@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Late rassen (Batch 7)\n\n🥕 Oogstperiod
+ e: week 36–37 (sep)\n\nVariant: Bewaarui (o.a. Sturon zaad)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Wacht tot minstens 60% van het loof is gestrek
+ en. Droog ze vorstvrij na.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Ui — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185339Z
+UID:57207c735dfee332@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Ui — Late rassen (Batch 8)\n\n🥕 Oogstperiod
+ e: week 38–40 (sep–okt)\n\nVariant: Bewaarui (o.a. Sturon zaad)\nBetro
+ uwbaarheid: ✅ Hoog\n\n💡 Tip: Wacht tot minstens 60% van het loof is g
+ estreken. Droog ze vorstvrij na.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

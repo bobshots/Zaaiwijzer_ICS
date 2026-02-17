@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Witlof (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Witlof
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Witlof — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:647a1a0fa0875fa9@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Witlof — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 35–38 (aug–sep
+ )\n\nVariant: Snelgroeiend voor vroege trek (o.a. Zoom types)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Zaai direct ter plaatse op 30cm rijafstand. Du
+ n later uit op 10-15cm. Dit ras is bedoeld voor vroege worteloogst en dire
+ cte forcering.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Witlof — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:d4e4b3e527cb6c2b@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Witlof — Zomer rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 39–42 (sep–okt)
+ \n\nVariant: Standaard productieras (o.a. Vintor\, Focus)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Zaai in mei voor de beste wortelontwikkeling. De g
+ rond is nog fris\, dus kieming kan 2-3 weken duren. Houd onkruidvrij.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Witlof — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:37a3a5a69bf28ef5@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Witlof — Zomer rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 40–43 (sep–okt)
+ \n\nVariant: Standaard productieras (o.a. Vintor\, Focus)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Zaai in mei voor de beste wortelontwikkeling. De g
+ rond is nog fris\, dus kieming kan 2-3 weken duren. Houd onkruidvrij.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Witlof — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:67dbe2a5e83943fb@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Witlof — Zomer rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 41–44 (okt
+ –nov)\n\nVariant: Standaard productieras (o.a. Vintor\, Focus)\nBetrouwb
+ aarheid: ✅ Hoog\n\n💡 Tip: Zaai in mei voor de beste wortelontwikkelin
+ g. De grond is nog fris\, dus kieming kan 2-3 weken duren. Houd onkruidvri
+ j.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Witlof — Late rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:ad95c9c984b1ece7@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Witlof — Late rassen (Batch 5)\n\n📅 Z
+ aaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 44–51 (okt–dec)\
+ n\nVariant: Bewaarwortel voor late trek (o.a. Mechelse)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Late zaai geeft minder kans op
+  'schieters' maar vereist geduld bij kieming (bodem <10°C). Ideaal voor w
+ ortels die je pas na nieuwjaar wilt forceren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Witlof — Late rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:1dc9a480d57acc9e@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Witlof — Late rassen (Batch 6)\n\n📅 Z
+ aaiperiode: week 24 (jun)\n🥕 Verwachte oogst: week 45–52 (nov–dec)\
+ n\nVariant: Bewaarwortel voor late trek (o.a. Mechelse)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Late zaai geeft minder kans op
+  'schieters' maar vereist geduld bij kieming (bodem <10°C). Ideaal voor w
+ ortels die je pas na nieuwjaar wilt forceren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Witlof — Late rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:8eefe463cf7fb321@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Witlof — Late rassen (Batch 7)\n\n📅 Z
+ aaiperiode: week 25 (jun)\n🥕 Verwachte oogst: week 46–52 (nov–dec)\
+ n\nVariant: Bewaarwortel voor late trek (o.a. Mechelse)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Late zaai geeft minder kans op
+  'schieters' maar vereist geduld bij kieming (bodem <10°C). Ideaal voor w
+ ortels die je pas na nieuwjaar wilt forceren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witlof — Vroege rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185339Z
+UID:94e68fdec52711a5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witlof — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 35–38 (aug–sep)\n\nVariant: Snelgroeiend voor vroege tre
+ k (o.a. Zoom types)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: ROOIEN: Haal d
+ e wortels uit de grond. Snijd het loof af op 2cm boven de kop. Laat wortel
+ s 1-2 weken drogen/rusten voor je ze intafelt (forceert).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witlof — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:9e590db41160b86e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witlof — Zomer rassen (Batch 2)\n\n🥕 Oogstp
+ eriode: week 39–42 (sep–okt)\n\nVariant: Standaard productieras (o.a. 
+ Vintor\, Focus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: ROOIEN: Oogst de p
+ ennen nu. Sorteer op dikte (ideaal 3-5cm diameter). Te dunne wortels geven
+  geen goede krop. Bewaar koel tot intafelen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witlof — Zomer rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185339Z
+UID:b48c125df1fbc8a3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witlof — Zomer rassen (Batch 3)\n\n🥕 Oogstp
+ eriode: week 40–43 (sep–okt)\n\nVariant: Standaard productieras (o.a. 
+ Vintor\, Focus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: ROOIEN: Oogst de p
+ ennen nu. Sorteer op dikte (ideaal 3-5cm diameter). Te dunne wortels geven
+  geen goede krop. Bewaar koel tot intafelen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witlof — Zomer rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185339Z
+UID:6b64425b45449e87@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witlof — Zomer rassen (Batch 4)\n\n🥕 Oogstp
+ eriode: week 41–44 (okt–nov)\n\nVariant: Standaard productieras (o.a. 
+ Vintor\, Focus)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: ROOIEN: Oogst de p
+ ennen nu. Sorteer op dikte (ideaal 3-5cm diameter). Te dunne wortels geven
+  geen goede krop. Bewaar koel tot intafelen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witlof — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251222
+DTSTAMP:20260216T185339Z
+UID:0451c39da3f3c0d6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witlof — Late rassen (Batch 5)\n\n🥕 Oogstpe
+ riode: week 44–51 (okt–dec)\n\nVariant: Bewaarwortel voor late trek (o
+ .a. Mechelse)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip
+ : ROOIEN: Haal wortels eruit vóór zware vorst (< -5°C). Deze rassen heb
+ ben een lange rustperiode nodig en zijn geschikt om pas in jan/feb te forc
+ eren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witlof — Late rassen
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:184b9592ee8ddda3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witlof — Late rassen (Batch 6)\n\n🥕 Oogstpe
+ riode: week 45–52 (nov–dec)\n\nVariant: Bewaarwortel voor late trek (o
+ .a. Mechelse)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip
+ : ROOIEN: Haal wortels eruit vóór zware vorst (< -5°C). Deze rassen heb
+ ben een lange rustperiode nodig en zijn geschikt om pas in jan/feb te forc
+ eren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Witlof — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:97effc8a7db14d1f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Witlof — Late rassen (Batch 7)\n\n🥕 Oogstpe
+ riode: week 46–52 (nov–dec)\n\nVariant: Bewaarwortel voor late trek (o
+ .a. Mechelse)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip
+ : ROOIEN: Haal wortels eruit vóór zware vorst (< -5°C). Deze rassen heb
+ ben een lange rustperiode nodig en zijn geschikt om pas in jan/feb te forc
+ eren.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

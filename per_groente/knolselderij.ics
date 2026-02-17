@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Knolselderij (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Knolselderij
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Knolselderij — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:7f608d105cbcf823@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Knolselderij — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 8–9 (feb–mrt)\n🏡 Uitplanten: week 21 (mei)\n
+ 🥕 Verwachte oogst: week 38–40 (sep–okt)\n\nVariant: Snelgroeiend vo
+ or vroege herfst (o.a. Prinz)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai
+  binnen warm (20-25°C) in trays. Kieming duurt lang (2-3 weken). Houd de 
+ grond constant vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Knolselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:8e1c258588c54774@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Knolselderij — Zomer rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 10–11 (mrt)\n🏡 Uitplanten: week 22 (mei–jun)
+ \n🥕 Verwachte oogst: week 41–43 (okt)\n\nVariant: Hoofdteelt robuuste
+  rassen (o.a. Ibis)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Verspeen de za
+ ailingen naar potjes zodra het eerste echte blaadje verschijnt. Zet ze iet
+ s koeler (15-18°C) maar licht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Knolselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:16ca089e52130f79@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Knolselderij — Zomer rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 12–13 (mrt)\n🏡 Uitplanten: week 23–24 (jun)\
+ n🥕 Verwachte oogst: week 44–46 (okt–nov)\n\nVariant: Hoofdteelt rob
+ uuste rassen (o.a. Ibis)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Verspeen 
+ de zaailingen naar potjes zodra het eerste echte blaadje verschijnt. Zet z
+ e iets koeler (15-18°C) maar licht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Knolselderij — Late rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:e1d9fc7937d51719@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Knolselderij — Late rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 14–15 (mrt–apr)\n🏡 Uitplanten: week 25–26 
+ (jun)\n🥕 Verwachte oogst: week 46–47 (nov)\n\nVariant: Bewaarrassen v
+ oor winter (o.a. Monarch)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laatste 
+ kans om te zaaien voor volwaardige knollen. Deze batch is ideaal voor lang
+ e bewaring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knolselderij — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:4c9abd7b0e132f0b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knolselderij — Vroege rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 21 (mei)\n🌱 Gezaaid in: week 8–9 (feb–mr
+ t)\n🥕 Verwachte oogst: week 38–40 (sep–okt)\n\nVariant: Snelgroeien
+ d voor vroege herfst (o.a. Prinz)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Wacht tot eind mei (week 21) met uitplanten om 'schieten' door koude nacht
+ en te voorkomen. Plant het hart boven de grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knolselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:9883f1a1d227eaca@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knolselderij — Zomer rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 10–11 (
+ mrt)\n🥕 Verwachte oogst: week 41–43 (okt)\n\nVariant: Hoofdteelt robu
+ uste rassen (o.a. Ibis)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd 40-50
+ cm plantafstand aan. Geef direct na het planten ruim water om de groei te 
+ starten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knolselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:9c9b05e15a59bd88@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knolselderij — Zomer rassen (Batch 3)\n\n
+ 🏡 Uitplantperiode: week 23–24 (jun)\n🌱 Gezaaid in: week 12–13 (m
+ rt)\n🥕 Verwachte oogst: week 44–46 (okt–nov)\n\nVariant: Hoofdteelt
+  robuuste rassen (o.a. Ibis)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd 
+ 40-50cm plantafstand aan. Geef direct na het planten ruim water om de groe
+ i te starten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knolselderij — Late rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:0092d5c8d5d6f051@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knolselderij — Late rassen (Batch 4)\n\n
+ 🏡 Uitplantperiode: week 25–26 (jun)\n🌱 Gezaaid in: week 14–15 (m
+ rt–apr)\n🥕 Verwachte oogst: week 46–47 (nov)\n\nVariant: Bewaarrass
+ en voor winter (o.a. Monarch)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Verw
+ ijder tijdens de groei regelmatig de onderste\, gele bladeren om een mooie
+  gladde knol te krijgen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knolselderij — Vroege rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:eeac436c47abfbe3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knolselderij — Vroege rassen (Batch 1)\n\n🥕
+  Oogstperiode: week 38–40 (sep–okt)\n\nVariant: Snelgroeiend voor vroe
+ ge herfst (o.a. Prinz)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogstbaar z
+ odra de knol 8-10 cm doorsnee is. Gebruik deze vers\; ze bewaren minder la
+ ng.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knolselderij — Zomer rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185338Z
+UID:897108c6ecd4a0d1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knolselderij — Zomer rassen (Batch 2)\n\n🥕 
+ Oogstperiode: week 41–43 (okt)\n\nVariant: Hoofdteelt robuuste rassen (o
+ .a. Ibis)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Draai het loof van de kn
+ ol af (niet snijden) om rotting tijdens bewaren te voorkomen. Kan in kist 
+ met zand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knolselderij — Zomer rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20260216T185338Z
+UID:0155d588083c5a48@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knolselderij — Zomer rassen (Batch 3)\n\n🥕 
+ Oogstperiode: week 44–46 (okt–nov)\n\nVariant: Hoofdteelt robuuste ras
+ sen (o.a. Ibis)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Draai het loof van
+  de knol af (niet snijden) om rotting tijdens bewaren te voorkomen. Kan in
+  kist met zand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knolselderij — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20260216T185338Z
+UID:89bd11b50d2ab679@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knolselderij — Late rassen (Batch 4)\n\n🥕 O
+ ogstperiode: week 46–47 (nov)\n\nVariant: Bewaarrassen voor winter (o.a.
+  Monarch)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst uiterlijk week 47 
+ vanwege naderende strenge vorst. Knolselderij verdraagt tot -4/-5°C\, maa
+ r week 48 wordt te koud.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

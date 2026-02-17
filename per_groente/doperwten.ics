@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Doperwten (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Doperwten
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Doperwten — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:892d10377605523f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Doperwten — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 10 (mrt)\n🥕 Verwachte oogst: week 23–24 (jun)\
+ n\nVariant: Scherpzaad (koude-tolerant\, o.a. Kelvedon Wonder)\nBetrouwbaa
+ rheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Start pas als de ergste
+  vorst uit de grond is. Scherpzaad kiemt beter in koude grond dan kreukzaa
+ d\, maar bescherm goed tegen vogels en muizen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Doperwten — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:99cf22403ef63273@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Doperwten — Vroege rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 12 (mrt)\n🥕 Verwachte oogst: week 25–26 (jun)\
+ n\nVariant: Scherpzaad (koude-tolerant\, o.a. Kelvedon Wonder)\nBetrouwbaa
+ rheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Start pas als de ergste
+  vorst uit de grond is. Scherpzaad kiemt beter in koude grond dan kreukzaa
+ d\, maar bescherm goed tegen vogels en muizen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:1254a4c862dde226@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Doperwten — Zomer rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 27–28 
+ (jun–jul)\n\nVariant: Kreukzaad (zoetere hoofdteelt\, o.a. Hurst Greensh
+ aft)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De hoof
+ dteelt. De grond warmt nu op\, maar blijft riskant tot eind mei. Plaats di
+ rect gaaswerk\; deze rassen worden hoger.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:75ea0472e7acd4c5@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Doperwten — Zomer rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 16 (apr)\n🥕 Verwachte oogst: week 29–30 (jul)\
+ n\nVariant: Kreukzaad (zoetere hoofdteelt\, o.a. Hurst Greenshaft)\nBetrou
+ wbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De hoofdteelt. De g
+ rond warmt nu op\, maar blijft riskant tot eind mei. Plaats direct gaaswer
+ k\; deze rassen worden hoger.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:40368b5ea9f3cc2b@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Doperwten — Zomer rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 30–31 
+ (jul–aug)\n\nVariant: Kreukzaad (zoetere hoofdteelt\, o.a. Hurst Greensh
+ aft)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: De hoof
+ dteelt. De grond warmt nu op\, maar blijft riskant tot eind mei. Plaats di
+ rect gaaswerk\; deze rassen worden hoger.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:ad9d5eee7103c3a5@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Doperwten — Zomer rassen (Batch 6)\n\n
+ 📅 Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 32–33 (aug)\
+ n\nVariant: Kreukzaad (zoetere hoofdteelt\, o.a. Hurst Greenshaft)\nBetrou
+ wbaarheid: ✅ Hoog\n\n💡 Tip: De hoofdteelt. De grond warmt nu op\, maa
+ r blijft riskant tot eind mei. Plaats direct gaaswerk\; deze rassen worden
+  hoger.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Doperwten — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:857b43d8b61e7e5a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Doperwten — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 23–24 (jun)\n\nVariant: Scherpzaad (koude-tolerant)\nBe
+ trouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst regelmati
+ g. Als je de erwten door de peul heen voelt\, zijn ze klaar. Wacht niet to
+ t de peul rimpelt (dan worden ze melig).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Doperwten — Vroege rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:ec3564be5ee13574@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Doperwten — Vroege rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 25–26 (jun)\n\nVariant: Scherpzaad (koude-tolerant)\nBe
+ trouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst regelmati
+ g. Als je de erwten door de peul heen voelt\, zijn ze klaar. Wacht niet to
+ t de peul rimpelt (dan worden ze melig).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:efa7d27310415752@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Doperwten — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 27–28 (jun–jul)\n\nVariant: Kreukzaad (zoetere hoofdte
+ elt)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Kreuker
+ wten zijn zoeter dan scherpzaad. Proef direct tijdens het plukken om het i
+ deale oogstmoment te bepalen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:d395cb59b16b66fe@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Doperwten — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 29–30 (jul)\n\nVariant: Kreukzaad (zoetere hoofdteelt)\n
+ Betrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Kreukerwten z
+ ijn zoeter dan scherpzaad. Proef direct tijdens het plukken om het ideale 
+ oogstmoment te bepalen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:503d3c0b9c6c5206@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Doperwten — Zomer rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 30–31 (jul–aug)\n\nVariant: Kreukzaad (zoetere hoofdte
+ elt)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Kreuker
+ wten zijn zoeter dan scherpzaad. Proef direct tijdens het plukken om het i
+ deale oogstmoment te bepalen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Doperwten — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:e99886a26736dd06@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Doperwten — Zomer rassen (Batch 6)\n\n🥕 Oog
+ stperiode: week 32–33 (aug)\n\nVariant: Kreukzaad (zoetere hoofdteelt)\n
+ Betrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kreukerwten zijn zoeter dan scherpz
+ aad. Proef direct tijdens het plukken om het ideale oogstmoment te bepalen
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

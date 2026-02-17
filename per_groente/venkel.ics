@@ -1,0 +1,376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Venkel (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Venkel
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:5def6f0c4a90e1a2@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Venkel — Vroege rassen (Batch 1)\n\n📅 Za
+ aiperiode: week 10 (mrt)\n🏡 Uitplanten: week 14 (mrt–apr)\n🥕 Verwa
+ chte oogst: week 24–25 (jun)\n\nVariant: Snelgroeiende hybride (o.a. Zef
+ a Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Zaai
+  warm (20°C) voor in modules. Batches 1-4 hebben een 'LOW' confidence omd
+ at kou na het uitplanten direct voor doorschieten zorgt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:cd8fee58ff14ed9a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Venkel — Vroege rassen (Batch 2)\n\n📅 Za
+ aiperiode: week 12 (mrt)\n🏡 Uitplanten: week 16 (apr)\n🥕 Verwachte o
+ ogst: week 26–27 (jun–jul)\n\nVariant: Snelgroeiende hybride (o.a. Zef
+ a Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Zaai
+  warm (20°C) voor in modules. Batches 1-4 hebben een 'LOW' confidence omd
+ at kou na het uitplanten direct voor doorschieten zorgt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:7d17f1e74899a9a5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Venkel — Vroege rassen (Batch 3)\n\n📅 Za
+ aiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18 (apr–mei)\n🥕
+  Verwachte oogst: week 28–29 (jul)\n\nVariant: Snelgroeiende hybride (o.
+ a. Zefa Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip
+ : Zaai warm (20°C) voor in modules. Batches 1-4 hebben een 'LOW' confiden
+ ce omdat kou na het uitplanten direct voor doorschieten zorgt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:53919f6223911cb1@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Venkel — Vroege rassen (Batch 4)\n\n📅 Za
+ aiperiode: week 16 (apr)\n🏡 Uitplanten: week 20 (mei)\n🥕 Verwachte o
+ ogst: week 30–31 (jul–aug)\n\nVariant: Snelgroeiende hybride (o.a. Zef
+ a Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Zaai
+  warm (20°C) voor in modules. Batches 1-4 hebben een 'LOW' confidence omd
+ at kou na het uitplanten direct voor doorschieten zorgt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:e2ff6c88537bde0f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Venkel — Vroege rassen (Batch 5)\n\n📅 Za
+ aiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 22 (mei–jun)\n🥕
+  Verwachte oogst: week 32–33 (aug)\n\nVariant: Snelgroeiende hybride (o.
+ a. Zefa Fino)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai warm (20°C) vo
+ or in modules. Batches 1-4 hebben een 'LOW' confidence omdat kou na het ui
+ tplanten direct voor doorschieten zorgt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:ef7535211e6ff560@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Venkel — Vroege rassen (Batch 1)\n\n🏡 Ui
+ tplantperiode: week 14 (mrt–apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕 V
+ erwachte oogst: week 24–25 (jun)\n\nVariant: Snelgroeiende hybride (o.a.
+  Zefa Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: 
+ Extreem risico op 'schieters' door koude grond (<7°C). Gebruik verplicht 
+ vliesdoek/tunnel voor batch 1-4. Plant niet te diep\; de knolbasis moet bo
+ ven de grond blijven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:0a7d332a26931653@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Venkel — Vroege rassen (Batch 2)\n\n🏡 Ui
+ tplantperiode: week 16 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwach
+ te oogst: week 26–27 (jun–jul)\n\nVariant: Snelgroeiende hybride (o.a.
+  Zefa Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: 
+ Extreem risico op 'schieters' door koude grond (<7°C). Gebruik verplicht 
+ vliesdoek/tunnel voor batch 1-4. Plant niet te diep\; de knolbasis moet bo
+ ven de grond blijven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:969665d81c77e3af@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Venkel — Vroege rassen (Batch 3)\n\n🏡 Ui
+ tplantperiode: week 18 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–apr)\n
+ 🥕 Verwachte oogst: week 28–29 (jul)\n\nVariant: Snelgroeiende hybride
+  (o.a. Zefa Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡
+  Tip: Extreem risico op 'schieters' door koude grond (<7°C). Gebruik verp
+ licht vliesdoek/tunnel voor batch 1-4. Plant niet te diep\; de knolbasis m
+ oet boven de grond blijven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:17f4f313c168a412@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Venkel — Vroege rassen (Batch 4)\n\n🏡 Ui
+ tplantperiode: week 20 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwach
+ te oogst: week 30–31 (jul–aug)\n\nVariant: Snelgroeiende hybride (o.a.
+  Zefa Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: 
+ Extreem risico op 'schieters' door koude grond (<7°C). Gebruik verplicht 
+ vliesdoek/tunnel voor batch 1-4. Plant niet te diep\; de knolbasis moet bo
+ ven de grond blijven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:86413e67d6479d23@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Venkel — Vroege rassen (Batch 5)\n\n🏡 Ui
+ tplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 18 (apr–mei)\n
+ 🥕 Verwachte oogst: week 32–33 (aug)\n\nVariant: Snelgroeiende hybride
+  (o.a. Zefa Fino)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Extreem risico o
+ p 'schieters' door koude grond (<7°C). Gebruik verplicht vliesdoek/tunnel
+  voor batch 1-4. Plant niet te diep\; de knolbasis moet boven de grond bli
+ jven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:4644c57e579b7e95@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 24–25 (jun)\n\nVariant: Snelgroeiende hybride (o.a. Zefa F
+ ino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst j
+ ong voor de malste smaak. Als de plant een bloemstengel begint te vormen (
+ doorschieten)\, oogst dan direct\, ook als de knol nog klein is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:cd9fa130fb61bd1e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 26–27 (jun–jul)\n\nVariant: Snelgroeiende hybride (o.a. 
+ Zefa Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: O
+ ogst jong voor de malste smaak. Als de plant een bloemstengel begint te vo
+ rmen (doorschieten)\, oogst dan direct\, ook als de knol nog klein is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185339Z
+UID:9a1128ecfa135252@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Vroege rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 28–29 (jul)\n\nVariant: Snelgroeiende hybride (o.a. Zefa F
+ ino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst j
+ ong voor de malste smaak. Als de plant een bloemstengel begint te vormen (
+ doorschieten)\, oogst dan direct\, ook als de knol nog klein is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:f1b79dfa2377afc8@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Vroege rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 30–31 (jul–aug)\n\nVariant: Snelgroeiende hybride (o.a. 
+ Zefa Fino)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: O
+ ogst jong voor de malste smaak. Als de plant een bloemstengel begint te vo
+ rmen (doorschieten)\, oogst dan direct\, ook als de knol nog klein is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Vroege rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185339Z
+UID:811a88949a46af13@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Vroege rassen (Batch 5)\n\n🥕 Oogst
+ periode: week 32–33 (aug)\n\nVariant: Snelgroeiende hybride (o.a. Zefa F
+ ino)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong voor de malste sma
+ ak. Als de plant een bloemstengel begint te vormen (doorschieten)\, oogst 
+ dan direct\, ook als de knol nog klein is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Venkel — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:5e9c684942a89206@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Venkel — Zomer rassen (Batch 6)\n\n📅 
+ Zaaiperiode: week 24 (jun)\n🥕 Verwachte oogst: week 34–35 (aug)\n\nVa
+ riant: Schietresistente zomerfennel (o.a. Finale\, Perfection)\nBetrouwbaa
+ rheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Direct zaaien geeft moo
+ iere knollen (penwortel blijft intact). Batch 6 is 'LOW' omdat de bodem no
+ g nét onder de ideale 10°C kan zijn\; dek af met vlies.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Venkel — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:16b446ec65114362@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Venkel — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 36–37 (sep)\n\nVa
+ riant: Schietresistente zomerfennel (o.a. Finale\, Perfection)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Direct zaaien geeft mooiere knollen (penworte
+ l blijft intact). Batch 6 is 'LOW' omdat de bodem nog nét onder de ideale
+  10°C kan zijn\; dek af met vlies.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Venkel — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:a415cb96753686e4@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Venkel — Zomer rassen (Batch 8)\n\n📅 
+ Zaaiperiode: week 28 (jul)\n🥕 Verwachte oogst: week 38–40 (sep–okt)
+ \n\nVariant: Schietresistente zomerfennel (o.a. Finale\, Perfection)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Direct zaaien geeft mooiere knollen (pe
+ nwortel blijft intact). Batch 6 is 'LOW' omdat de bodem nog nét onder de 
+ ideale 10°C kan zijn\; dek af met vlies.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185339Z
+UID:76fcf0a1a6d50af0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Zomer rassen (Batch 6)\n\n🥕 Oogstp
+ eriode: week 34–35 (aug)\n\nVariant: Schietresistente zomerfennel (o.a. 
+ Finale\, Perfection)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Houd de grond constant vochtig. Droogtestress zorgt voor vezelig
+ e knollen en vroegtijdige bloei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185339Z
+UID:14a78b5a3b7d9852@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Zomer rassen (Batch 7)\n\n🥕 Oogstp
+ eriode: week 36–37 (sep)\n\nVariant: Schietresistente zomerfennel (o.a. 
+ Finale\, Perfection)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd de grond
+  constant vochtig. Droogtestress zorgt voor vezelige knollen en vroegtijdi
+ ge bloei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185339Z
+UID:f9249018203ee24e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Zomer rassen (Batch 8)\n\n🥕 Oogstp
+ eriode: week 38–40 (sep–okt)\n\nVariant: Schietresistente zomerfennel 
+ (o.a. Finale\, Perfection)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd de
+  grond constant vochtig. Droogtestress zorgt voor vezelige knollen en vroe
+ gtijdige bloei.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Venkel — Late rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185339Z
+UID:6148914c0227e639@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Venkel — Late rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 29 (jul)\n🥕 Verwachte oogst: week 41–43 (okt)\n\nVar
+ iant: Herfstvenkel (o.a. Solaris F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Ti
+ p: Late rassen groeien trager (90 dagen) maar kunnen beter tegen de afkoel
+ ende herfst. Dun tijdig uit op 30-35cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Venkel — Late rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:0cd6074713de24a1@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Venkel — Late rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 31 (jul–aug)\n🥕 Verwachte oogst: week 44–47 (okt
+ –nov)\n\nVariant: Herfstvenkel (o.a. Solaris F1)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: Late rassen groeien trager (90 dagen) maar kunnen beter t
+ egen de afkoelende herfst. Dun tijdig uit op 30-35cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Late rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185339Z
+UID:50eda59adccf742b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Late rassen (Batch 9)\n\n🥕 Oogstpe
+ riode: week 41–43 (okt)\n\nVariant: Herfstvenkel (o.a. Solaris F1)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór zware vorst (-4°C). Aanaa
+ rden in de herfst beschermt de knol en maakt hem witter (bleken).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Venkel — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20260216T185339Z
+UID:a8d5c0215734774f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Venkel — Late rassen (Batch 10)\n\n🥕 Oogstp
+ eriode: week 44–47 (okt–nov)\n\nVariant: Herfstvenkel (o.a. Solaris F1
+ )\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst vóór zware vorst (-4°C)
+ . Aanaarden in de herfst beschermt de knol en maakt hem witter (bleken).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

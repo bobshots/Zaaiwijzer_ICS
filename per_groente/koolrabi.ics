@@ -1,0 +1,488 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Koolrabi (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Koolrabi
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:02efba595bef53fe@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Koolrabi — Vroege rassen (Batch 1)\n\n📅 
+ Zaaiperiode: week 8 (feb)\n🏡 Uitplanten: week 12 (mrt)\n🥕 Verwachte 
+ oogst: week 18–20 (apr–mei)\n\nVariant: Snelgroeiende hybride (o.a. Ko
+ nan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen warm op (min.
+  15°C). Te koude start zorgt later voor 'doorschieten' (bloei) in plaats 
+ van knolvorming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:c3bc7c5d7dfdf057@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Koolrabi — Vroege rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 14 (mrt–apr)\n🥕 Ver
+ wachte oogst: week 20–22 (mei–jun)\n\nVariant: Snelgroeiende hybride (
+ o.a. Konan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen warm o
+ p (min. 15°C). Te koude start zorgt later voor 'doorschieten' (bloei) in 
+ plaats van knolvorming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:ec0a34cf795ac6b8@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Koolrabi — Vroege rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 16 (apr)\n🥕 Verwachte
+  oogst: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende hybride (o.a. K
+ onan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start binnen warm op (min
+ . 15°C). Te koude start zorgt later voor 'doorschieten' (bloei) in plaats
+  van knolvorming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:8e0dc9ac24af0cc0@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Koolrabi — Vroege rassen (Batch 1)\n\n🏡 
+ Uitplantperiode: week 12 (mrt)\n🌱 Gezaaid in: week 8 (feb)\n🥕 Verwac
+ hte oogst: week 18–20 (apr–mei)\n\nVariant: Snelgroeiende hybride (o.a
+ . Konan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hard de plantjes eerst
+  af. Plant niet dieper dan ze in het potje stonden om knolvorming niet te 
+ belemmeren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:c157a05c744cc349@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Koolrabi — Vroege rassen (Batch 2)\n\n🏡 
+ Uitplantperiode: week 14 (mrt–apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕
+  Verwachte oogst: week 20–22 (mei–jun)\n\nVariant: Snelgroeiende hybri
+ de (o.a. Konan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hard de plantje
+ s eerst af. Plant niet dieper dan ze in het potje stonden om knolvorming n
+ iet te belemmeren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:9d0c846254948d77@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Koolrabi — Vroege rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 16 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwa
+ chte oogst: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende hybride (o.
+ a. Konan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Hard de plantjes eers
+ t af. Plant niet dieper dan ze in het potje stonden om knolvorming niet te
+  belemmeren.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:ff4c237f8da0f24e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Vroege rassen (Batch 1)\n\n🥕 Oog
+ stperiode: week 18–20 (apr–mei)\n\nVariant: Snelgroeiende hybride (o.a
+ . Konan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong (diameter 5
+ -7 cm) voor de malste smaak. Wacht niet te lang\, dan worden ze houtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:ddb7373f0c1b0cb7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Vroege rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 20–22 (mei–jun)\n\nVariant: Snelgroeiende hybride (o.a
+ . Konan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong (diameter 5
+ -7 cm) voor de malste smaak. Wacht niet te lang\, dan worden ze houtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:49f2b5ebaf034d31@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Vroege rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende hybride (o.a
+ . Konan F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong (diameter 5
+ -7 cm) voor de malste smaak. Wacht niet te lang\, dan worden ze houtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:adda1caf79b8a4c1@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Koolrabi — Zomer rassen (Batch 4)\n\n📅 Z
+ aaiperiode: week 11 (mrt)\n🏡 Uitplanten: week 15 (apr)\n🥕 Verwachte 
+ oogst: week 23–25 (jun)\n\nVariant: Kwaliteitsras voor zomerteelt (o.a. 
+ Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: We zaaien deze zomer-ba
+ tches nog binnen voor\, omdat de buitengrond nog te koud is (<5°C) voor d
+ irecte kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:85ff020466613716@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Koolrabi — Zomer rassen (Batch 5)\n\n📅 Z
+ aaiperiode: week 13 (mrt)\n🏡 Uitplanten: week 17 (apr)\n🥕 Verwachte 
+ oogst: week 25–27 (jun–jul)\n\nVariant: Kwaliteitsras voor zomerteelt 
+ (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: We zaaien deze zo
+ mer-batches nog binnen voor\, omdat de buitengrond nog te koud is (<5°C) 
+ voor directe kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:007be4ac4c897d53@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Koolrabi — Zomer rassen (Batch 6)\n\n📅 Z
+ aaiperiode: week 15 (apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Verwachte 
+ oogst: week 27–29 (jun–jul)\n\nVariant: Kwaliteitsras voor zomerteelt 
+ (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: We zaaien deze zo
+ mer-batches nog binnen voor\, omdat de buitengrond nog te koud is (<5°C) 
+ voor directe kieming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:07c091a4762408fd@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Koolrabi — Zomer rassen (Batch 4)\n\n🏡 U
+ itplantperiode: week 15 (apr)\n🌱 Gezaaid in: week 11 (mrt)\n🥕 Verwac
+ hte oogst: week 23–25 (jun)\n\nVariant: Kwaliteitsras voor zomerteelt (o
+ .a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dek direct na het p
+ lanten af met insectengaas. De koolvlieg en koolwitjes zijn nu actief.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:4b8ff9f3d75440fd@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Koolrabi — Zomer rassen (Batch 5)\n\n🏡 U
+ itplantperiode: week 17 (apr)\n🌱 Gezaaid in: week 13 (mrt)\n🥕 Verwac
+ hte oogst: week 25–27 (jun–jul)\n\nVariant: Kwaliteitsras voor zomerte
+ elt (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dek direct na
+  het planten af met insectengaas. De koolvlieg en koolwitjes zijn nu actie
+ f.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:eb90126b70298cd5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Koolrabi — Zomer rassen (Batch 6)\n\n🏡 U
+ itplantperiode: week 19 (mei)\n🌱 Gezaaid in: week 15 (apr)\n🥕 Verwac
+ hte oogst: week 27–29 (jun–jul)\n\nVariant: Kwaliteitsras voor zomerte
+ elt (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dek direct na
+  het planten af met insectengaas. De koolvlieg en koolwitjes zijn nu actie
+ f.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:b40874c4e6fc246a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Zomer rassen (Batch 7)\n\n
+ 📅 Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 28–30 (jul)\
+ n\nVariant: Kwaliteitsras voor zomerteelt (o.a. Noriko F1)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Nu de bodem warm genoeg is (>5°C) kun je direct 
+ buiten zaaien. Dun tijdig uit op 30cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:ac63e2027a37c5ff@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Zomer rassen (Batch 8)\n\n
+ 📅 Zaaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 30–32 (jul
+ –aug)\n\nVariant: Kwaliteitsras voor zomerteelt (o.a. Noriko F1)\nBetrou
+ wbaarheid: ✅ Hoog\n\n💡 Tip: Nu de bodem warm genoeg is (>5°C) kun je
+  direct buiten zaaien. Dun tijdig uit op 30cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:53fc34d6aaa56473@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Zomer rassen (Batch 9)\n\n
+ 📅 Zaaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 32–34 (aug)\
+ n\nVariant: Kwaliteitsras voor zomerteelt (o.a. Noriko F1)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Nu de bodem warm genoeg is (>5°C) kun je direct 
+ buiten zaaien. Dun tijdig uit op 30cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:70684ee8f0329ee2@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Zomer rassen (Batch 10)\n\n
+ 📅 Zaaiperiode: week 25 (jun)\n🥕 Verwachte oogst: week 34–36 (aug
+ –sep)\n\nVariant: Kwaliteitsras voor zomerteelt (o.a. Noriko F1)\nBetrou
+ wbaarheid: ✅ Hoog\n\n💡 Tip: Nu de bodem warm genoeg is (>5°C) kun je
+  direct buiten zaaien. Dun tijdig uit op 30cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:ff726b5a673a7a2c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Zomer rassen (Batch 11)\n\n
+ 📅 Zaaiperiode: week 27 (jun–jul)\n🥕 Verwachte oogst: week 36–38 
+ (sep)\n\nVariant: Kwaliteitsras voor zomerteelt (o.a. Noriko F1)\nBetrouwb
+ aarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Nu de bodem warm geno
+ eg is (>5°C) kun je direct buiten zaaien. Dun tijdig uit op 30cm afstand.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:c830db24ec47fd60@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Zomer rassen (Batch 12)\n\n
+ 📅 Zaaiperiode: week 29 (jul)\n🥕 Verwachte oogst: week 38–40 (sep
+ –okt)\n\nVariant: Kwaliteitsras voor zomerteelt (o.a. Noriko F1)\nBetrou
+ wbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Nu de bodem warm ge
+ noeg is (>5°C) kun je direct buiten zaaien. Dun tijdig uit op 30cm afstan
+ d.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:4604f1fd592c71c6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 4)\n\n🥕 Oogs
+ tperiode: week 23–25 (jun)\n\nVariant: Kwaliteitsras voor zomerteelt (o.
+ a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor constante 
+ watergift in droge weken om barsten en verhouting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:914af0b26b8514be@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 5)\n\n🥕 Oogs
+ tperiode: week 25–27 (jun–jul)\n\nVariant: Kwaliteitsras voor zomertee
+ lt (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor cons
+ tante watergift in droge weken om barsten en verhouting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:c6cd2e38b0dd509a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 6)\n\n🥕 Oogs
+ tperiode: week 27–29 (jun–jul)\n\nVariant: Kwaliteitsras voor zomertee
+ lt (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor cons
+ tante watergift in droge weken om barsten en verhouting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:f5c1fb95c1313d7b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 7)\n\n🥕 Oogs
+ tperiode: week 28–30 (jul)\n\nVariant: Kwaliteitsras voor zomerteelt (o.
+ a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor constante 
+ watergift in droge weken om barsten en verhouting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:e430b1cccdeda42f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 8)\n\n🥕 Oogs
+ tperiode: week 30–32 (jul–aug)\n\nVariant: Kwaliteitsras voor zomertee
+ lt (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor cons
+ tante watergift in droge weken om barsten en verhouting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:26d6f200b18f88f7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 32–34 (aug)\n\nVariant: Kwaliteitsras voor zomerteelt (o.
+ a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor constante 
+ watergift in droge weken om barsten en verhouting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:1b05c747e3e7c423@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 34–36 (aug–sep)\n\nVariant: Kwaliteitsras voor zomerte
+ elt (o.a. Noriko F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor con
+ stante watergift in droge weken om barsten en verhouting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:72d8a2f646a4feae@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 11)\n\n🥕 Oog
+ stperiode: week 36–38 (sep)\n\nVariant: Kwaliteitsras voor zomerteelt (o
+ .a. Noriko F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Ti
+ p: Zorg voor constante watergift in droge weken om barsten en verhouting t
+ e voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:1cee0822fd5afb56@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Zomer rassen (Batch 12)\n\n🥕 Oog
+ stperiode: week 38–40 (sep–okt)\n\nVariant: Kwaliteitsras voor zomerte
+ elt (o.a. Noriko F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Zorg voor constante watergift in droge weken om barsten en verho
+ uting te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Late rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:ee236bba99e24846@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Late rassen (Batch 13)\n\n
+ 📅 Zaaiperiode: week 27 (jun–jul)\n🥕 Verwachte oogst: week 40–44 
+ (sep–nov)\n\nVariant: Grote bewaarrassen (o.a. Superschmelz)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Late rassen groeien veel trager maar kunnen e
+ norm worden zonder houterig te worden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Koolrabi — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:c111e63339968094@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Koolrabi — Late rassen (Batch 14)\n\n
+ 📅 Zaaiperiode: week 30 (jul)\n🥕 Verwachte oogst: week 44–48 (okt
+ –nov)\n\nVariant: Grote bewaarrassen (o.a. Superschmelz)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Late rassen groeien veel trager maar kunnen enorm
+  worden zonder houterig te worden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185338Z
+UID:fa1bf17652d69ab3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Late rassen (Batch 13)\n\n🥕 Oogs
+ tperiode: week 40–44 (sep–nov)\n\nVariant: Grote bewaarrassen (o.a. Su
+ perschmelz)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen verdragen 
+ lichte vorst. Oogst ze vóór strenge vorst (week 48+) en bewaar ze op een
+  koele plek (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Koolrabi — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185338Z
+UID:1fff5f4b0b1da6e1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Koolrabi — Late rassen (Batch 14)\n\n🥕 Oogs
+ tperiode: week 44–48 (okt–nov)\n\nVariant: Grote bewaarrassen (o.a. Su
+ perschmelz)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze rassen verdragen 
+ lichte vorst. Oogst ze vóór strenge vorst (week 48+) en bewaar ze op een
+  koele plek (kelder/kuil).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

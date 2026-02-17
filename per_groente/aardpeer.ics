@@ -1,0 +1,132 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Aardpeer (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Aardpeer
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:eba138984cca673c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardpeer — Doorlevende rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 10 (mrt)\n🥕 Verwachte oogst: week 42–45 (o
+ kt–nov)\n\nVariant: Knolvormende zonnebloem (o.a. Fuseau\, Bianka)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de knollen 10-15 cm diep. Aardpee
+ r is zeer winterhard\, dus vroeg planten (maart) is geen probleem. Gebruik
+  een wortelbegrenzer of plant in een grote speciekuip\, want ze woekeren s
+ terk.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:cbcce2ce07dd5ac5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardpeer — Doorlevende rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 13 (mrt)\n🥕 Verwachte oogst: week 46–49 (n
+ ov–dec)\n\nVariant: Knolvormende zonnebloem (o.a. Fuseau\, Bianka)\nBetr
+ ouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant de knollen 10-15 cm diep. Aardpee
+ r is zeer winterhard\, dus vroeg planten (maart) is geen probleem. Gebruik
+  een wortelbegrenzer of plant in een grote speciekuip\, want ze woekeren s
+ terk.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:970adea015e661b6@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardpeer — Doorlevende rassen (Batch 3)\n\n
+ 🏡 Uitplantperiode: week 16 (apr)\n🥕 Verwachte oogst: week 1–52 (de
+ c)\n\nVariant: Knolvormende zonnebloem (o.a. Fuseau\, Bianka)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Plant de knollen 10-15 cm diep. Aardpeer is ze
+ er winterhard\, dus vroeg planten (maart) is geen probleem. Gebruik een wo
+ rtelbegrenzer of plant in een grote speciekuip\, want ze woekeren sterk.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250127
+DTSTAMP:20260216T185338Z
+UID:a2fbe06f4fb39e3d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardpeer — Doorlevende rassen (Batch 3)\n\n
+ 🥕 Oogstperiode: week 1–4 (dec–jan)\n\nVariant: Knolvormende zonnebl
+ oem (o.a. Fuseau\, Bianka)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst i
+ n de winter (wk 1-9) wat nog in de grond zit voordat ze opnieuw uitlopen i
+ n het voorjaar. De nieuwe oogst start in de herfst (vanaf wk 42)\; wacht o
+ p de eerste kou voor de zoetste smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:5559ed562e25d686@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardpeer — Doorlevende rassen (Batch 3)\n\n
+ 🥕 Oogstperiode: week 5–9 (jan–mrt)\n\nVariant: Knolvormende zonnebl
+ oem (o.a. Fuseau\, Bianka)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst i
+ n de winter (wk 1-9) wat nog in de grond zit voordat ze opnieuw uitlopen i
+ n het voorjaar. De nieuwe oogst start in de herfst (vanaf wk 42)\; wacht o
+ p de eerste kou voor de zoetste smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:1411325407d77c8c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardpeer — Doorlevende rassen (Batch 1)\n\n
+ 🥕 Oogstperiode: week 42–45 (okt–nov)\n\nVariant: Knolvormende zonne
+ bloem (o.a. Fuseau\, Bianka)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst
+  in de winter (wk 1-9) wat nog in de grond zit voordat ze opnieuw uitlopen
+  in het voorjaar. De nieuwe oogst start in de herfst (vanaf wk 42)\; wacht
+  op de eerste kou voor de zoetste smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20260216T185338Z
+UID:18da672b8b3d71ad@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardpeer — Doorlevende rassen (Batch 2)\n\n
+ 🥕 Oogstperiode: week 46–49 (nov–dec)\n\nVariant: Knolvormende zonne
+ bloem (o.a. Fuseau\, Bianka)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst
+  in de winter (wk 1-9) wat nog in de grond zit voordat ze opnieuw uitlopen
+  in het voorjaar. De nieuwe oogst start in de herfst (vanaf wk 42)\; wacht
+  op de eerste kou voor de zoetste smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardpeer — Doorlevende rassen
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:da0fe15196d7f2c4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardpeer — Doorlevende rassen (Batch 3)\n\n
+ 🥕 Oogstperiode: week 50–52 (dec)\n\nVariant: Knolvormende zonnebloem 
+ (o.a. Fuseau\, Bianka)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst in de
+  winter (wk 1-9) wat nog in de grond zit voordat ze opnieuw uitlopen in he
+ t voorjaar. De nieuwe oogst start in de herfst (vanaf wk 42)\; wacht op de
+  eerste kou voor de zoetste smaak.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Schorseneren (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Schorseneren
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Schorseneren — Late rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:9222d074e6d6b34c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Schorseneren — Late rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 13–14 (mrt–apr)\n🥕 Verwachte oogst: week 40
+ –43 (sep–okt)\n\nVariant: Winterharde bewaarwortel (o.a. Hoffmann's Sc
+ hwarze Pfahl)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Spit de grond minste
+ ns 30cm diep los\; schorseneren vertakken direct bij weerstand. Zaai ter p
+ laatse en dun later uit op 5-10 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Schorseneren — Late rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:ee5773dad181d34c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Schorseneren — Late rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 15–16 (apr)\n🥕 Verwachte oogst: week 44–48 (
+ okt–nov)\n\nVariant: Winterharde bewaarwortel (o.a. Hoffmann's Schwarze 
+ Pfahl)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Spit de grond minstens 30cm
+  diep los\; schorseneren vertakken direct bij weerstand. Zaai ter plaatse 
+ en dun later uit op 5-10 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Schorseneren — Late rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:d65db1e729bc16b3@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Schorseneren — Late rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 17–18 (apr–mei)\n🥕 Verwachte oogst: week 1
+ –52 (dec)\n\nVariant: Winterharde bewaarwortel (o.a. Hoffmann's Schwarze
+  Pfahl)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Spit de grond minstens 30c
+ m diep los\; schorseneren vertakken direct bij weerstand. Zaai ter plaatse
+  en dun later uit op 5-10 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Schorseneren — Late rassen
+DTSTART;VALUE=DATE:20241230
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:e45eb07c871ee54d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Schorseneren — Late rassen (Batch 3)\n\n🥕 O
+ ogstperiode: week 1–10 (dec–mrt)\n\nVariant: Winterharde bewaarwortel 
+ (o.a. Hoffmann's Schwarze Pfahl)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: O
+ ogst naar behoefte\; de wortels zijn volledig winterhard en blijven vers i
+ n de grond. Gebruik een spitvork en steek diep\, ze breken snel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Schorseneren — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185339Z
+UID:a1dcc2e1f56404b9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Schorseneren — Late rassen (Batch 1)\n\n🥕 O
+ ogstperiode: week 40–43 (sep–okt)\n\nVariant: Winterharde bewaarwortel
+  (o.a. Hoffmann's Schwarze Pfahl)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Oogst naar behoefte\; de wortels zijn volledig winterhard en blijven vers 
+ in de grond. Gebruik een spitvork en steek diep\, ze breken snel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Schorseneren — Late rassen
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185339Z
+UID:ead9d12c25f330fe@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Schorseneren — Late rassen (Batch 2)\n\n🥕 O
+ ogstperiode: week 44–48 (okt–nov)\n\nVariant: Winterharde bewaarwortel
+  (o.a. Hoffmann's Schwarze Pfahl)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Oogst naar behoefte\; de wortels zijn volledig winterhard en blijven vers 
+ in de grond. Gebruik een spitvork en steek diep\, ze breken snel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Schorseneren — Late rassen
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:e1746d4c9ca7441f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Schorseneren — Late rassen (Batch 3)\n\n🥕 O
+ ogstperiode: week 49–52 (dec)\n\nVariant: Winterharde bewaarwortel (o.a.
+  Hoffmann's Schwarze Pfahl)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 
+ naar behoefte\; de wortels zijn volledig winterhard en blijven vers in de 
+ grond. Gebruik een spitvork en steek diep\, ze breken snel.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

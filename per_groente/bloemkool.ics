@@ -1,0 +1,494 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Bloemkool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Bloemkool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250127
+DTEND;VALUE=DATE:20250203
+DTSTAMP:20260216T185338Z
+UID:e5a8dd8cc1acd791@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 5 (jan–feb)\n🏡 Uitplanten: week 10–11 (mrt)\n
+ 🥕 Verwachte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend we
+ euwenteelt/vroeg type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoog
+ \n\n💡 Tip: Zaai binnen of in een verwarmde kas bij min. 10-15°C. Gebru
+ ik zaai- en stekgrond om dichtslaan te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250210
+DTEND;VALUE=DATE:20250217
+DTSTAMP:20260216T185338Z
+UID:3d86211181742568@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 7 (feb)\n🏡 Uitplanten: week 12–13 (mrt)\n🥕 Verw
+ achte oogst: week 23–24 (jun)\n\nVariant: Snelgroeiend weeuwenteelt/vroe
+ g type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Z
+ aai binnen of in een verwarmde kas bij min. 10-15°C. Gebruik zaai- en ste
+ kgrond om dichtslaan te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:27cd2b0a038553be@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Vroege rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 9 (feb–mrt)\n🏡 Uitplanten: week 14–15 (mrt–apr
+ )\n🥕 Verwachte oogst: week 25–26 (jun)\n\nVariant: Snelgroeiend weeuw
+ enteelt/vroeg type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoog\n\
+ n💡 Tip: Zaai binnen of in een verwarmde kas bij min. 10-15°C. Gebruik 
+ zaai- en stekgrond om dichtslaan te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:5b4d2920c90683f7@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 10–11 (mrt)\n🌱 Gezaaid in: week 5 (jan–feb)\
+ n🥕 Verwachte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend w
+ eeuwenteelt/vroeg type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoo
+ g\n\n💡 Tip: Plant uit onder vliesdoek of in een koude bak. De jonge pla
+ nten moeten beschermd worden tegen nachtvorst en koude wind.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:5d7ba82bfdfc0afa@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Vroege rassen (Batch 2)\n\n🏡
+  Uitplantperiode: week 12–13 (mrt)\n🌱 Gezaaid in: week 7 (feb)\n🥕 
+ Verwachte oogst: week 23–24 (jun)\n\nVariant: Snelgroeiend weeuwenteelt/
+ vroeg type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Ti
+ p: Plant uit onder vliesdoek of in een koude bak. De jonge planten moeten 
+ beschermd worden tegen nachtvorst en koude wind.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:6421c8c2ea893500@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Vroege rassen (Batch 3)\n\n🏡
+  Uitplantperiode: week 14–15 (mrt–apr)\n🌱 Gezaaid in: week 9 (feb
+ –mrt)\n🥕 Verwachte oogst: week 25–26 (jun)\n\nVariant: Snelgroeiend
+  weeuwenteelt/vroeg type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: Plant uit onder vliesdoek of in een koude bak. De jonge p
+ lanten moeten beschermd worden tegen nachtvorst en koude wind.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:4a4493b14c785fd4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend weeuwenteelt
+ /vroeg type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Oogst zodra de bloemkool vast aanvoelt. Dek de kool af met geknakt bla
+ d om verkleuring door de zon (geel worden) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:8da2c6b80e07efc6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Vroege rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 23–24 (jun)\n\nVariant: Snelgroeiend weeuwenteelt/vroeg
+  type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oo
+ gst zodra de bloemkool vast aanvoelt. Dek de kool af met geknakt blad om v
+ erkleuring door de zon (geel worden) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Vroege rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:504aacf0c10bbddf@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Vroege rassen (Batch 3)\n\n🥕 Oo
+ gstperiode: week 25–26 (jun)\n\nVariant: Snelgroeiend weeuwenteelt/vroeg
+  type (o.a. Alpha\, Goodman F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oo
+ gst zodra de bloemkool vast aanvoelt. Dek de kool af met geknakt blad om v
+ erkleuring door de zon (geel worden) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:4b2bcbc5c0fa81af@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Zomer rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 17 (apr)\n🥕 Verwachte
+  oogst: week 26–27 (jun–jul)\n\nVariant: Sterke zomerbloemkool (o.a. F
+ lora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op
+  een wachtbed buiten of in potjes. Zorg voor een constante groei zonder ha
+ peringen om 'boorders' (voortijdige kleine kooltjes) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:65f09b2157b1a543@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Zomer rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Ver
+ wachte oogst: week 28–29 (jul)\n\nVariant: Sterke zomerbloemkool (o.a. F
+ lora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op
+  een wachtbed buiten of in potjes. Zorg voor een constante groei zonder ha
+ peringen om 'boorders' (voortijdige kleine kooltjes) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:37613f5eccdc0bb5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Zomer rassen (Batch 6)\n\n📅 
+ Zaaiperiode: week 16 (apr)\n🏡 Uitplanten: week 21 (mei)\n🥕 Verwachte
+  oogst: week 30–31 (jul–aug)\n\nVariant: Sterke zomerbloemkool (o.a. F
+ lora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op
+  een wachtbed buiten of in potjes. Zorg voor een constante groei zonder ha
+ peringen om 'boorders' (voortijdige kleine kooltjes) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:648672b1474a1067@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 23 (jun)\n🥕 Ver
+ wachte oogst: week 32–33 (aug)\n\nVariant: Sterke zomerbloemkool (o.a. F
+ lora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op
+  een wachtbed buiten of in potjes. Zorg voor een constante groei zonder ha
+ peringen om 'boorders' (voortijdige kleine kooltjes) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:dc92c232085e387f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Zomer rassen (Batch 8)\n\n📅 
+ Zaaiperiode: week 20 (mei)\n🏡 Uitplanten: week 25 (jun)\n🥕 Verwachte
+  oogst: week 34–35 (aug)\n\nVariant: Sterke zomerbloemkool (o.a. Flora B
+ lanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai op een w
+ achtbed buiten of in potjes. Zorg voor een constante groei zonder hapering
+ en om 'boorders' (voortijdige kleine kooltjes) te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:2ceaa370f6f2b588@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Zomer rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 17 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwa
+ chte oogst: week 26–27 (jun–jul)\n\nVariant: Sterke zomerbloemkool (o.
+ a. Flora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt in voedzame grond en geef direct ruim water. Plaats direct insectengaas
+  tegen koolwitjes en koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:a2a6513828b9028a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Zomer rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 19 (mei)\n🌱 Gezaaid in: week 14 (mrt–apr)\n🥕
+  Verwachte oogst: week 28–29 (jul)\n\nVariant: Sterke zomerbloemkool (o.
+ a. Flora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt in voedzame grond en geef direct ruim water. Plaats direct insectengaas
+  tegen koolwitjes en koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:8f69dc98aa2316a8@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Zomer rassen (Batch 6)\n\n🏡 
+ Uitplantperiode: week 21 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwa
+ chte oogst: week 30–31 (jul–aug)\n\nVariant: Sterke zomerbloemkool (o.
+ a. Flora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt in voedzame grond en geef direct ruim water. Plaats direct insectengaas
+  tegen koolwitjes en koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:882254bb83322002@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Zomer rassen (Batch 7)\n\n🏡 
+ Uitplantperiode: week 23 (jun)\n🌱 Gezaaid in: week 18 (apr–mei)\n🥕
+  Verwachte oogst: week 32–33 (aug)\n\nVariant: Sterke zomerbloemkool (o.
+ a. Flora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt in voedzame grond en geef direct ruim water. Plaats direct insectengaas
+  tegen koolwitjes en koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:6a54db5d6614030c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Zomer rassen (Batch 8)\n\n🏡 
+ Uitplantperiode: week 25 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕 Verwa
+ chte oogst: week 34–35 (aug)\n\nVariant: Sterke zomerbloemkool (o.a. Flo
+ ra Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant in 
+ voedzame grond en geef direct ruim water. Plaats direct insectengaas tegen
+  koolwitjes en koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:1144fe7b1bb4a23e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 26–27 (jun–jul)\n\nVariant: Sterke zomerbloemkool (o.a
+ . Flora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Cont
+ roleer dagelijks\; in de zomer groeien de kolen zeer snel en kunnen ze sne
+ l 'los' worden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:42c5a49fe674bf7d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Zomer rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 28–29 (jul)\n\nVariant: Sterke zomerbloemkool (o.a. Flor
+ a Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer
+  dagelijks\; in de zomer groeien de kolen zeer snel en kunnen ze snel 'los
+ ' worden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:93571f8a1a80b08f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Zomer rassen (Batch 6)\n\n🥕 Oog
+ stperiode: week 30–31 (jul–aug)\n\nVariant: Sterke zomerbloemkool (o.a
+ . Flora Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Cont
+ roleer dagelijks\; in de zomer groeien de kolen zeer snel en kunnen ze sne
+ l 'los' worden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:ef3898cb56d19522@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Zomer rassen (Batch 7)\n\n🥕 Oog
+ stperiode: week 32–33 (aug)\n\nVariant: Sterke zomerbloemkool (o.a. Flor
+ a Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer
+  dagelijks\; in de zomer groeien de kolen zeer snel en kunnen ze snel 'los
+ ' worden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:94bed6946a0a2283@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Zomer rassen (Batch 8)\n\n🥕 Oog
+ stperiode: week 34–35 (aug)\n\nVariant: Sterke zomerbloemkool (o.a. Flor
+ a Blanca\, Graffiti F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer
+  dagelijks\; in de zomer groeien de kolen zeer snel en kunnen ze snel 'los
+ ' worden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:35d8e3e75ba29541@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Late rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 22 (mei–jun)\n🏡 Uitplanten: week 28–29 (jul)\n🥕
+  Verwachte oogst: week 11–13 (mrt)\n\nVariant: Winterbloemkool (o.a. Wal
+ cheren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai in
+  de volle zomer. Let op dat de jonge plantjes niet uitdrogen. Kieming lukt
+  het best op een koele\, schaduwrijke plek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:a73c3d17191625a4@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Late rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 27 (jun–jul)\n🏡 Uitplanten: week 33–34 (aug)\n
+ 🥕 Verwachte oogst: week 14–16 (mrt–apr)\n\nVariant: Winterbloemkool
+  (o.a. Walcheren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Ti
+ p: Zaai in de volle zomer. Let op dat de jonge plantjes niet uitdrogen. Ki
+ eming lukt het best op een koele\, schaduwrijke plek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:ecdb82309008e851@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bloemkool — Late rassen (Batch 11)\n\n📅 
+ Zaaiperiode: week 32 (aug)\n🏡 Uitplanten: week 38–39 (sep)\n🥕 Verw
+ achte oogst: week 17–19 (apr–mei)\n\nVariant: Winterbloemkool (o.a. Wa
+ lcheren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai i
+ n de volle zomer. Let op dat de jonge plantjes niet uitdrogen. Kieming luk
+ t het best op een koele\, schaduwrijke plek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:98c3f50f99e0766d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Late rassen (Batch 9)\n\n🏡 U
+ itplantperiode: week 28–29 (jul)\n🌱 Gezaaid in: week 22 (mei–jun)\n
+ 🥕 Verwachte oogst: week 11–13 (mrt)\n\nVariant: Winterbloemkool (o.a.
+  Walcheren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Dez
+ e planten moeten de winter door. Plant ze beschut\, maar niet te warm. Aan
+ aarden helpt tegen omwaaien in herfststormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:ec96ce128b6549ab@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Late rassen (Batch 10)\n\n🏡 
+ Uitplantperiode: week 33–34 (aug)\n🌱 Gezaaid in: week 27 (jun–jul)\
+ n🥕 Verwachte oogst: week 14–16 (mrt–apr)\n\nVariant: Winterbloemkoo
+ l (o.a. Walcheren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Deze planten moeten de winter door. Plant ze beschut\, maar niet te wa
+ rm. Aanaarden helpt tegen omwaaien in herfststormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:81dff82669ec840e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bloemkool — Late rassen (Batch 11)\n\n🏡 
+ Uitplantperiode: week 38–39 (sep)\n🌱 Gezaaid in: week 32 (aug)\n🥕 
+ Verwachte oogst: week 17–19 (apr–mei)\n\nVariant: Winterbloemkool (o.a
+ . Walcheren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: De
+ ze planten moeten de winter door. Plant ze beschut\, maar niet te warm. Aa
+ naarden helpt tegen omwaaien in herfststormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:a201a98764f9ae93@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Late rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 11–13 (mrt)\n\nVariant: Winterbloemkool (o.a. Walcheren W
+ inter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst in het vr
+ oege voorjaar (let op: dit is de oogst van planten die het jaar ervoor gez
+ aaid zijn). Bescherm de kolen bij strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:1a5978ca982b4740@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Late rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 14–16 (mrt–apr)\n\nVariant: Winterbloemkool (o.a. Walc
+ heren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst in
+  het vroege voorjaar (let op: dit is de oogst van planten die het jaar erv
+ oor gezaaid zijn). Bescherm de kolen bij strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bloemkool — Late rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:5e9c7130a10d9d40@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bloemkool — Late rassen (Batch 11)\n\n🥕 Oog
+ stperiode: week 17–19 (apr–mei)\n\nVariant: Winterbloemkool (o.a. Walc
+ heren Winter\, Romanesco)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst in
+  het vroege voorjaar (let op: dit is de oogst van planten die het jaar erv
+ oor gezaaid zijn). Bescherm de kolen bij strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

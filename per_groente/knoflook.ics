@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Knoflook (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Knoflook
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:00b8e84fc41592ec@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knoflook — Zomer rassen (Batch 1)\n\n🏡 U
+ itplantperiode: week 9 (feb–mrt)\n🥕 Verwachte oogst: week 29–30 (ju
+ l)\n\nVariant: Bewaarbare voorjaarsknoflook (softneck)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Duw de tenen 3-5 cm diep met d
+ e punt omhoog. Kies bij koude grond (<5°C) voor een warmere start later i
+ n maart (Batch 3-4) voor meer zekerheid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:165a6106dfecd971@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knoflook — Zomer rassen (Batch 2)\n\n🏡 U
+ itplantperiode: week 11 (mrt)\n🥕 Verwachte oogst: week 30–31 (jul–a
+ ug)\n\nVariant: Bewaarbare voorjaarsknoflook (softneck)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Duw de tenen 3-5 cm diep met d
+ e punt omhoog. Kies bij koude grond (<5°C) voor een warmere start later i
+ n maart (Batch 3-4) voor meer zekerheid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:b7b1b317aaf79bad@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knoflook — Zomer rassen (Batch 3)\n\n🏡 U
+ itplantperiode: week 13 (mrt)\n🥕 Verwachte oogst: week 31–32 (jul–a
+ ug)\n\nVariant: Bewaarbare voorjaarsknoflook (softneck)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Duw de tenen 3-5 cm diep met de punt omhoog. Kies bi
+ j koude grond (<5°C) voor een warmere start later in maart (Batch 3-4) vo
+ or meer zekerheid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:5b52099b1b376e82@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knoflook — Zomer rassen (Batch 4)\n\n🏡 U
+ itplantperiode: week 15 (apr)\n🥕 Verwachte oogst: week 32–33 (aug)\n\
+ nVariant: Bewaarbare voorjaarsknoflook (softneck)\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Duw de tenen 3-5 cm diep met de punt omhoog. Kies bij koud
+ e grond (<5°C) voor een warmere start later in maart (Batch 3-4) voor mee
+ r zekerheid.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knoflook — Vroege rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:26862df5660497b2@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knoflook — Vroege rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 40–41 (sep–okt)\n🥕 Verwachte oogst: week 24
+ –25 (jun)\n\nVariant: Winterharde herfstknoflook (hardneck)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Plant in het najaar voor de grootste bollen. D
+ e kou in de winter is nodig (vernalisatie) om de bol te splitsen in tenen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knoflook — Vroege rassen
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185338Z
+UID:5636553a5cd11ac4@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knoflook — Vroege rassen (Batch 6)\n\n🏡 
+ Uitplantperiode: week 43–44 (okt–nov)\n🥕 Verwachte oogst: week 26
+ –27 (jun–jul)\n\nVariant: Winterharde herfstknoflook (hardneck)\nBetro
+ uwbaarheid: ✅ Hoog\n\n💡 Tip: Plant in het najaar voor de grootste bol
+ len. De kou in de winter is nodig (vernalisatie) om de bol te splitsen in 
+ tenen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Knoflook — Vroege rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20260216T185338Z
+UID:0ecd87de58035957@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Knoflook — Vroege rassen (Batch 7)\n\n🏡 
+ Uitplantperiode: week 46–47 (nov)\n🥕 Verwachte oogst: week 27–28 (j
+ un–jul)\n\nVariant: Winterharde herfstknoflook (hardneck)\nBetrouwbaarhe
+ id: ✅ Hoog\n\n💡 Tip: Plant in het najaar voor de grootste bollen. De 
+ kou in de winter is nodig (vernalisatie) om de bol te splitsen in tenen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knoflook — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:526aa5a8b535db13@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knoflook — Vroege rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 24–25 (jun)\n\nVariant: Winterharde herfstknoflook (hard
+ neck)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als ongeveer tweederde
+  van het loof geel is. Wacht niet tot alles plat ligt\, dan vallen de boll
+ en uiteen en bewaren ze slecht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knoflook — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:cabf3a76565d5e3e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knoflook — Vroege rassen (Batch 6)\n\n🥕 Oog
+ stperiode: week 26–27 (jun–jul)\n\nVariant: Winterharde herfstknoflook
+  (hardneck)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als ongeveer twe
+ ederde van het loof geel is. Wacht niet tot alles plat ligt\, dan vallen d
+ e bollen uiteen en bewaren ze slecht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knoflook — Vroege rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:c84d4131ea2d27c2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knoflook — Vroege rassen (Batch 7)\n\n🥕 Oog
+ stperiode: week 27–28 (jun–jul)\n\nVariant: Winterharde herfstknoflook
+  (hardneck)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als ongeveer twe
+ ederde van het loof geel is. Wacht niet tot alles plat ligt\, dan vallen d
+ e bollen uiteen en bewaren ze slecht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:b5df697d802c7638@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knoflook — Zomer rassen (Batch 1)\n\n🥕 Oogs
+ tperiode: week 29–30 (jul)\n\nVariant: Bewaarbare voorjaarsknoflook (sof
+ tneck)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Laat 
+ de bollen na de oogst 2 weken goed drogen op een winderige plek uit de zon
+  voordat je ze schoonmaakt voor opslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:e3c7caca3ce4b7af@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knoflook — Zomer rassen (Batch 2)\n\n🥕 Oogs
+ tperiode: week 30–31 (jul–aug)\n\nVariant: Bewaarbare voorjaarsknofloo
+ k (softneck)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip:
+  Laat de bollen na de oogst 2 weken goed drogen op een winderige plek uit 
+ de zon voordat je ze schoonmaakt voor opslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:c75fc92fe1978d34@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knoflook — Zomer rassen (Batch 3)\n\n🥕 Oogs
+ tperiode: week 31–32 (jul–aug)\n\nVariant: Bewaarbare voorjaarsknofloo
+ k (softneck)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laat de bollen na de 
+ oogst 2 weken goed drogen op een winderige plek uit de zon voordat je ze s
+ choonmaakt voor opslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Knoflook — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:ceaa90a6a20b4320@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Knoflook — Zomer rassen (Batch 4)\n\n🥕 Oogs
+ tperiode: week 32–33 (aug)\n\nVariant: Bewaarbare voorjaarsknoflook (sof
+ tneck)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laat de bollen na de oogst 
+ 2 weken goed drogen op een winderige plek uit de zon voordat je ze schoonm
+ aakt voor opslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

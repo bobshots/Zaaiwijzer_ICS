@@ -1,0 +1,265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Aardappel (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Aardappel
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:76650176435f397b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 11 (mrt)\n🥕 Verwachte oogst: week 24–25 (jun)\
+ n\nVariant: Snelgroeiende primeur (o.a. Frieslander\, Doré)\nBetrouwbaarh
+ eid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Laat pootgoed 3-4 weken v
+ oorkiemen op een lichte plek. Batch 1 en 2 vereisen vliesdoek tegen nachtv
+ orst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:a95c9bede18fe6eb@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Vroege rassen (Batch 2)\n\n🏡
+  Uitplantperiode: week 13 (mrt)\n🥕 Verwachte oogst: week 26–27 (jun
+ –jul)\n\nVariant: Snelgroeiende primeur (o.a. Frieslander\, Doré)\nBetr
+ ouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Laat pootgoed 3-4
+  weken voorkiemen op een lichte plek. Batch 1 en 2 vereisen vliesdoek tege
+ n nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:ebd425b1dfeac0eb@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Vroege rassen (Batch 3)\n\n🏡
+  Uitplantperiode: week 15 (apr)\n🥕 Verwachte oogst: week 28–29 (jul)\
+ n\nVariant: Snelgroeiende primeur (o.a. Frieslander\, Doré)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Laat pootgoed 3-4 weken voorkiemen op een licht
+ e plek. Batch 1 en 2 vereisen vliesdoek tegen nachtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:3fee8a73dac89486@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 24–25 (jun)\n\nVariant: Snelgroeiende primeur (o.a. Fri
+ eslander\, Doré)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡
+  Tip: Oogst als het loof nog groen is voor de fijnste smaak. Niet geschikt
+  voor langdurige bewaring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:df2058ae7733a9d6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Vroege rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 26–27 (jun–jul)\n\nVariant: Snelgroeiende primeur (o.
+ a. Frieslander\, Doré)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n
+ \n💡 Tip: Oogst als het loof nog groen is voor de fijnste smaak. Niet ge
+ schikt voor langdurige bewaring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:2cbfddc01e0c25e1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Vroege rassen (Batch 3)\n\n🥕 Oo
+ gstperiode: week 28–29 (jul)\n\nVariant: Snelgroeiende primeur (o.a. Fri
+ eslander\, Doré)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst als het lo
+ of nog groen is voor de fijnste smaak. Niet geschikt voor langdurige bewar
+ ing.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:d2cd167b509bcdb4@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Zomer rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 30–31 (
+ jul–aug)\n\nVariant: Middenvroege vastkokers (o.a. Nicola\, Bildtstar)\n
+ Betrouwbaarheid: ✅ Hoog\n\n💡 Tip: Aard de planten regelmatig aan zodr
+ a ze 10-15 cm boven de grond staan om groene knollen te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:1ca7c69b8769cdd3@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Zomer rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 16 (apr)\n🥕 Verwachte oogst: week 32–33 (aug)\n
+ \nVariant: Middenvroege vastkokers (o.a. Nicola\, Bildtstar)\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Aard de planten regelmatig aan zodra ze 10-15 c
+ m boven de grond staan om groene knollen te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:90ac72d01be1fd1b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Zomer rassen (Batch 6)\n\n🏡 
+ Uitplantperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 34–35 (
+ aug)\n\nVariant: Middenvroege vastkokers (o.a. Nicola\, Bildtstar)\nBetrou
+ wbaarheid: ✅ Hoog\n\n💡 Tip: Aard de planten regelmatig aan zodra ze 1
+ 0-15 cm boven de grond staan om groene knollen te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:54f8d1c6d9615cf3@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 30–31 (jul–aug)\n\nVariant: Middenvroege vastkokers (o
+ .a. Nicola\, Bildtstar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst wann
+ eer het loof begint te vergelen. Gebruik een riek en werk voorzichtig om k
+ nollen niet te beschadigen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:1bbb0583628f8709@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Zomer rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 32–33 (aug)\n\nVariant: Middenvroege vastkokers (o.a. Ni
+ cola\, Bildtstar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst wanneer he
+ t loof begint te vergelen. Gebruik een riek en werk voorzichtig om knollen
+  niet te beschadigen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:34732b8be23d8ebe@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Zomer rassen (Batch 6)\n\n🥕 Oog
+ stperiode: week 34–35 (aug)\n\nVariant: Middenvroege vastkokers (o.a. Ni
+ cola\, Bildtstar)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst wanneer he
+ t loof begint te vergelen. Gebruik een riek en werk voorzichtig om knollen
+  niet te beschadigen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Late rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:f68926a082c09816@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Late rassen (Batch 7)\n\n🏡 U
+ itplantperiode: week 16 (apr)\n🥕 Verwachte oogst: week 36–38 (sep)\n\
+ nVariant: Bewaaraardappel / Kruimig (o.a. Agria\, Melody)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Geef water bij droogte in juli/augustus voor dikke
+  knollen. Controleer wekelijks op Phytophthora (aardappelziekte).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Late rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:6ddbf66476c5e61f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Late rassen (Batch 8)\n\n🏡 U
+ itplantperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 39–41 (s
+ ep–okt)\n\nVariant: Bewaaraardappel / Kruimig (o.a. Agria\, Melody)\nBet
+ rouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef water bij droogte in juli/augustu
+ s voor dikke knollen. Controleer wekelijks op Phytophthora (aardappelziekt
+ e).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardappel — Late rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:32a823e50207523b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardappel — Late rassen (Batch 9)\n\n🏡 U
+ itplantperiode: week 20 (mei)\n🥕 Verwachte oogst: week 42–44 (okt–n
+ ov)\n\nVariant: Bewaaraardappel / Kruimig (o.a. Agria\, Melody)\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Geef water bij droogte in juli/augustus voor
+  dikke knollen. Controleer wekelijks op Phytophthora (aardappelziekte).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Late rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:0114a1a5847044f6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Late rassen (Batch 7)\n\n🥕 Oogs
+ tperiode: week 36–38 (sep)\n\nVariant: Bewaaraardappel / Kruimig (o.a. A
+ gria\, Melody)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Wacht na het afster
+ ven van het loof 2 weken met oogsten voor een harde schil. Laat goed droge
+ n voor opslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Late rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:37da2ca7783fce28@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Late rassen (Batch 8)\n\n🥕 Oogs
+ tperiode: week 39–41 (sep–okt)\n\nVariant: Bewaaraardappel / Kruimig (
+ o.a. Agria\, Melody)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Wacht na het 
+ afsterven van het loof 2 weken met oogsten voor een harde schil. Laat goed
+  drogen voor opslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardappel — Late rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185338Z
+UID:cc558400a35caf6e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardappel — Late rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 42–44 (okt–nov)\n\nVariant: Bewaaraardappel / Kruimig (
+ o.a. Agria\, Melody)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Wacht na het 
+ afsterven van het loof 2 weken met oogsten voor een harde schil. Laat goed
+  drogen voor opslag.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

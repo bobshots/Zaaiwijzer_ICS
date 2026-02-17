@@ -1,0 +1,187 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Pompoen (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Pompoen
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Pompoen — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:dd827427e300b3a3@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Pompoen — Vroege rassen (Batch 1)\n\n📅 Z
+ aaiperiode: week 16 (apr)\n🏡 Uitplanten: week 20 (mei)\n🥕 Verwachte 
+ oogst: week 33–37 (aug–sep)\n\nVariant: Snelgroeiende rassen (o.a. Hok
+ kaido\, Golden Nugget)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\
+ n💡 Tip: Zaai binnen in potjes bij minimaal 20°C. Batch 1 is vroeg en r
+ isicovol\; houd vliesdoek gereed bij het uitplanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Pompoen — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:dff0eeff9889a5e2@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Pompoen — Vroege rassen (Batch 2)\n\n📅 Z
+ aaiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 22 (mei–jun)\n
+ 🥕 Verwachte oogst: week 35–40 (aug–okt)\n\nVariant: Snelgroeiende r
+ assen (o.a. Hokkaido\, Golden Nugget)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Zaai binnen in potjes bij minimaal 20°C. Batch 1 is vroeg en risicovo
+ l\; houd vliesdoek gereed bij het uitplanten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Pompoen — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:8f6c4c4d886faf55@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Pompoen — Vroege rassen (Batch 1)\n\n🏡 U
+ itplantperiode: week 20 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwac
+ hte oogst: week 33–37 (aug–sep)\n\nVariant: Snelgroeiende rassen (o.a.
+  Hokkaido\, Golden Nugget)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk
+ )\n\n💡 Tip: Harden is cruciaal. Plant Batch 1 alleen uit als de nachten
+  warmer zijn dan 8°C of gebruik een tunnel. Pompoen stopt met groeien bij
+  kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Pompoen — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:3db902b5ce657726@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Pompoen — Vroege rassen (Batch 2)\n\n🏡 U
+ itplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 18 (apr–mei)\
+ n🥕 Verwachte oogst: week 35–40 (aug–okt)\n\nVariant: Snelgroeiende 
+ rassen (o.a. Hokkaido\, Golden Nugget)\nBetrouwbaarheid: ✅ Hoog\n\n💡 
+ Tip: Harden is cruciaal. Plant Batch 1 alleen uit als de nachten warmer zi
+ jn dan 8°C of gebruik een tunnel. Pompoen stopt met groeien bij kou.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Pompoen — Vroege rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:7c892994f05699c5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Pompoen — Vroege rassen (Batch 1)\n\n🥕 Oogs
+ tperiode: week 33–37 (aug–sep)\n\nVariant: Snelgroeiende rassen (o.a. 
+ Hokkaido\, Golden Nugget)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)
+ \n\n💡 Tip: Oogst zodra de steel verkurkt. Deze vroege rassen zijn minde
+ r lang bewaarbaar\, eet ze als eerste.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Pompoen — Vroege rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:f81b97a7c463fc55@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Pompoen — Vroege rassen (Batch 2)\n\n🥕 Oogs
+ tperiode: week 35–40 (aug–okt)\n\nVariant: Snelgroeiende rassen (o.a. 
+ Hokkaido\, Golden Nugget)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zo
+ dra de steel verkurkt. Deze vroege rassen zijn minder lang bewaarbaar\, ee
+ t ze als eerste.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Pompoen — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:dea636c2c1833880@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Pompoen — Zomer rassen (Batch 3)\n\n📅 Za
+ aiperiode: week 19 (mei)\n🏡 Uitplanten: week 23 (jun)\n🥕 Verwachte o
+ ogst: week 39–46 (sep–nov)\n\nVariant: Bewaarpompoenen (o.a. Butternut
+ \, Musquée de Provence)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Door Batc
+ h 4 twee weken later te zaaien spreid je de oogst en heb je verse pompoene
+ n tot diep in de herfst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Pompoen — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:66b5c88eb401ab13@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Pompoen — Zomer rassen (Batch 4)\n\n📅 Za
+ aiperiode: week 21 (mei)\n🏡 Uitplanten: week 25 (jun)\n🥕 Verwachte o
+ ogst: week 41–48 (okt–nov)\n\nVariant: Bewaarpompoenen (o.a. Butternut
+ \, Musquée de Provence)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Door Batc
+ h 4 twee weken later te zaaien spreid je de oogst en heb je verse pompoene
+ n tot diep in de herfst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Pompoen — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:9301b133f44cc985@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Pompoen — Zomer rassen (Batch 3)\n\n🏡 Ui
+ tplantperiode: week 23 (jun)\n🌱 Gezaaid in: week 19 (mei)\n🥕 Verwach
+ te oogst: week 39–46 (sep–nov)\n\nVariant: Bewaarpompoenen (o.a. Butte
+ rnut\, Musquée de Provence)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant
+  uit in zeer voedselrijke grond (composthoop). Batch 4 start in warmere gr
+ ond en zal snel inhalen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Pompoen — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:7053fa30652bd91f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Pompoen — Zomer rassen (Batch 4)\n\n🏡 Ui
+ tplantperiode: week 25 (jun)\n🌱 Gezaaid in: week 21 (mei)\n🥕 Verwach
+ te oogst: week 41–48 (okt–nov)\n\nVariant: Bewaarpompoenen (o.a. Butte
+ rnut\, Musquée de Provence)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant
+  uit in zeer voedselrijke grond (composthoop). Batch 4 start in warmere gr
+ ond en zal snel inhalen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Pompoen — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20260216T185338Z
+UID:cccea131ad9f7d64@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Pompoen — Zomer rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 39–46 (sep–nov)\n\nVariant: Bewaarpompoenen (o.a. Butter
+ nut\, Musquée de Provence)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laat z
+ e zo lang mogelijk rijpen voor smaak\, maar oogst ABSOLUUT vóór de eerst
+ e nachtvorst (week 45-50).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Pompoen — Zomer rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185338Z
+UID:fec5b4cd6c2f4745@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Pompoen — Zomer rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 41–48 (okt–nov)\n\nVariant: Bewaarpompoenen (o.a. Butter
+ nut\, Musquée de Provence)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Laat z
+ e zo lang mogelijk rijpen voor smaak\, maar oogst ABSOLUUT vóór de eerst
+ e nachtvorst (week 45-50).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Zoete aardappel (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Zoete aardappel
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:645fc366b70615c7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Zoete aardappel — Zomer rassen (Batch 1)\n\
+ n📅 Zaaiperiode: week 8–10 (feb–mrt)\n🏡 Uitplanten: week 20–21 
+ (mei)\n🥕 Verwachte oogst: week 36–39 (sep)\n\nVariant: Warmteminnende
+  rassen (o.a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Leg de m
+ oederknol in een laagje water of potgrond op een warme plek (20-25°C) om 
+ stekken (slips) te maken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185339Z
+UID:5bcbe421f8e7f5d2@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Zoete aardappel — Zomer rassen (Batch 2)\n\
+ n📅 Zaaiperiode: week 11–13 (mrt)\n🏡 Uitplanten: week 22–23 (mei
+ –jun)\n🥕 Verwachte oogst: week 39–41 (sep–okt)\n\nVariant: Warmte
+ minnende rassen (o.a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Leg de moederknol in een laagje water of potgrond op een warme plek (20-25
+ °C) om stekken (slips) te maken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:56f2fbdcea9a386b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Zoete aardappel — Zomer rassen (Batch 3)\n\
+ n📅 Zaaiperiode: week 14–16 (mrt–apr)\n🏡 Uitplanten: week 24–25
+  (jun)\n🥕 Verwachte oogst: week 41–42 (okt)\n\nVariant: Warmteminnend
+ e rassen (o.a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Leg de 
+ moederknol in een laagje water of potgrond op een warme plek (20-25°C) om
+  stekken (slips) te maken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:c7f8aa2cf0850f6b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Zoete aardappel — Zomer rassen (Batch 1)\n\
+ n🏡 Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 8–10 (f
+ eb–mrt)\n🥕 Verwachte oogst: week 36–39 (sep)\n\nVariant: Warmteminn
+ ende rassen (o.a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plan
+ t de gewortelde stekken pas buiten als de nachten warmer zijn dan 10°C. G
+ ebruik eventueel zwart plastic om de grond te verwarmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:f737767c94426bcb@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Zoete aardappel — Zomer rassen (Batch 2)\n\
+ n🏡 Uitplantperiode: week 22–23 (mei–jun)\n🌱 Gezaaid in: week 11
+ –13 (mrt)\n🥕 Verwachte oogst: week 39–41 (sep–okt)\n\nVariant: Wa
+ rmteminnende rassen (o.a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Plant de gewortelde stekken pas buiten als de nachten warmer zijn dan 
+ 10°C. Gebruik eventueel zwart plastic om de grond te verwarmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:61bf864492849184@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Zoete aardappel — Zomer rassen (Batch 3)\n\
+ n🏡 Uitplantperiode: week 24–25 (jun)\n🌱 Gezaaid in: week 14–16 (
+ mrt–apr)\n🥕 Verwachte oogst: week 41–42 (okt)\n\nVariant: Warmtemin
+ nende rassen (o.a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt de gewortelde stekken pas buiten als de nachten warmer zijn dan 10°C. 
+ Gebruik eventueel zwart plastic om de grond te verwarmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:9c0b952ca7f1557a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zoete aardappel — Zomer rassen (Batch 1)\n\n
+ 🥕 Oogstperiode: week 36–39 (sep)\n\nVariant: Warmteminnende rassen (o
+ .a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst direct bij d
+ e eerste tekenen van geel blad of kou. Laat de knollen na oogst 10 dagen '
+ curen' (warm en vochtig liggen) voor betere smaak en bewaring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185339Z
+UID:62ae9078af44b246@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zoete aardappel — Zomer rassen (Batch 2)\n\n
+ 🥕 Oogstperiode: week 39–41 (sep–okt)\n\nVariant: Warmteminnende ras
+ sen (o.a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst direct
+  bij de eerste tekenen van geel blad of kou. Laat de knollen na oogst 10 d
+ agen 'curen' (warm en vochtig liggen) voor betere smaak en bewaring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Zoete aardappel — Zomer rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:53ab0ca1a5557f90@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Zoete aardappel — Zomer rassen (Batch 3)\n\n
+ 🥕 Oogstperiode: week 41–42 (okt)\n\nVariant: Warmteminnende rassen (o
+ .a. Beauregard)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst direct bij d
+ e eerste tekenen van geel blad of kou. Laat de knollen na oogst 10 dagen '
+ curen' (warm en vochtig liggen) voor betere smaak en bewaring.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

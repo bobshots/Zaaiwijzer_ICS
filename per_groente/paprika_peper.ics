@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Paprika peper (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Paprika peper
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paprika peper — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185338Z
+UID:64ad55784e57739f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paprika peper — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 6 (feb)\n🏡 Uitplanten: week 20–21 (mei)\n🥕 
+ Verwachte oogst: week 28–36 (jul–sep)\n\nVariant: Snelrijpende puntpap
+ rika of vroege peper (o.a. Feher)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Start vroeg binnen. Verpot zaailingen na 6-8 weken naar grotere potten (mi
+ n. 2L) om groeistilstand te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paprika peper — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:e7b8c9388888529b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paprika peper — Vroege rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 8 (feb)\n🏡 Uitplanten: week 21–22 (mei–jun)\
+ n🥕 Verwachte oogst: week 30–38 (jul–sep)\n\nVariant: Snelrijpende p
+ untpaprika of vroege peper (o.a. Feher)\nBetrouwbaarheid: ✅ Hoog\n\n💡
+  Tip: Start vroeg binnen. Verpot zaailingen na 6-8 weken naar grotere pott
+ en (min. 2L) om groeistilstand te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paprika peper — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:7e7b2aecbe65c215@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paprika peper — Vroege rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 6 (feb)\n
+ 🥕 Verwachte oogst: week 28–36 (jul–sep)\n\nVariant: Snelrijpende pu
+ ntpaprika of vroege peper (o.a. Feher)\nBetrouwbaarheid: ✅ Hoog\n\n💡 
+ Tip: Houdt de nachttemperatuur in de gaten. Pas uitplanten na IJsheiligen 
+ (half mei) op een warme plek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paprika peper — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:71eb58c9d549ebfa@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paprika peper — Vroege rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 21–22 (mei–jun)\n🌱 Gezaaid in: week 8 (f
+ eb)\n🥕 Verwachte oogst: week 30–38 (jul–sep)\n\nVariant: Snelrijpen
+ de puntpaprika of vroege peper (o.a. Feher)\nBetrouwbaarheid: ✅ Hoog\n\n
+ 💡 Tip: Houdt de nachttemperatuur in de gaten. Pas uitplanten na IJsheil
+ igen (half mei) op een warme plek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paprika peper — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:77c5e05eef2c72fb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paprika peper — Vroege rassen (Batch 1)\n\n
+ 🥕 Oogstperiode: week 28–36 (jul–sep)\n\nVariant: Snelrijpende puntp
+ aprika of vroege peper (o.a. Feher)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip
+ : Oogst de eerste vruchten groen om de plant te stimuleren meer bloemen aa
+ n te maken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paprika peper — Vroege rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:e304514684271adf@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paprika peper — Vroege rassen (Batch 2)\n\n
+ 🥕 Oogstperiode: week 30–38 (jul–sep)\n\nVariant: Snelrijpende puntp
+ aprika of vroege peper (o.a. Feher)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip
+ : Oogst de eerste vruchten groen om de plant te stimuleren meer bloemen aa
+ n te maken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:844e09afac54d41c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paprika peper — Zomer rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 21–22 (mei–jun)
+ \n🥕 Verwachte oogst: week 33–40 (aug–okt)\n\nVariant: Klassieke blo
+ kpaprika of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Verpot de zaailingen naar tussenpotjes (P9) zodra de eerst
+ e echte blaadjes verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:5b6811417c0e19a6@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paprika peper — Zomer rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 22–23 (mei–jun)
+ \n🥕 Verwachte oogst: week 35–40 (aug–okt)\n\nVariant: Klassieke blo
+ kpaprika of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Verpot de zaailingen naar tussenpotjes (P9) zodra de eerst
+ e echte blaadjes verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:3d07d23c3df9dcda@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Paprika peper — Zomer rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 23–24 (jun)
+ \n🥕 Verwachte oogst: week 37–41 (sep–okt)\n\nVariant: Klassieke blo
+ kpaprika of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: ⚠️
+  Laag (weersafhankelijk)\n\n💡 Tip: Verpot de zaailingen naar tussenpotj
+ es (P9) zodra de eerste echte blaadjes verschijnen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:b323ae659b5e53ba@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paprika peper — Zomer rassen (Batch 3)\n\n
+ 🏡 Uitplantperiode: week 21–22 (mei–jun)\n🌱 Gezaaid in: week 10 (
+ mrt)\n🥕 Verwachte oogst: week 33–40 (aug–okt)\n\nVariant: Klassieke
+  blokpaprika of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Plant op een zonnige\, beschutte plek. Verwijder de 
+ eerste 'koningsbloem' voor een sterkere plant.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:901488a5f7b011bf@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paprika peper — Zomer rassen (Batch 4)\n\n
+ 🏡 Uitplantperiode: week 22–23 (mei–jun)\n🌱 Gezaaid in: week 12 (
+ mrt)\n🥕 Verwachte oogst: week 35–40 (aug–okt)\n\nVariant: Klassieke
+  blokpaprika of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Plant op een zonnige\, beschutte plek. Verwijder de 
+ eerste 'koningsbloem' voor een sterkere plant.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:529aa9deac4160eb@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Paprika peper — Zomer rassen (Batch 5)\n\n
+ 🏡 Uitplantperiode: week 23–24 (jun)\n🌱 Gezaaid in: week 14 (mrt–
+ apr)\n🥕 Verwachte oogst: week 37–41 (sep–okt)\n\nVariant: Klassieke
+  blokpaprika of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: 
+ ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Plant op een zonnige\, beschut
+ te plek. Verwijder de eerste 'koningsbloem' voor een sterkere plant.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:ed0bb17f95c7a684@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paprika peper — Zomer rassen (Batch 3)\n\n🥕
+  Oogstperiode: week 33–40 (aug–okt)\n\nVariant: Klassieke blokpaprika 
+ of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: ✅ Hoog\n\n
+ 💡 Tip: Let op nachtvorst in oktober. Oogst alles (ook groen) voordat de
+  temperatuur onder 0°C zakt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:a35e5b77444db026@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paprika peper — Zomer rassen (Batch 4)\n\n🥕
+  Oogstperiode: week 35–40 (aug–okt)\n\nVariant: Klassieke blokpaprika 
+ of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: ✅ Hoog\n\n
+ 💡 Tip: Let op nachtvorst in oktober. Oogst alles (ook groen) voordat de
+  temperatuur onder 0°C zakt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Paprika peper — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:799805698a0861d7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Paprika peper — Zomer rassen (Batch 5)\n\n🥕
+  Oogstperiode: week 37–41 (sep–okt)\n\nVariant: Klassieke blokpaprika 
+ of hete peper (o.a. Cayenne\, Jalapeño)\nBetrouwbaarheid: ⚠️ Laag (we
+ ersafhankelijk)\n\n💡 Tip: Let op nachtvorst in oktober. Oogst alles (oo
+ k groen) voordat de temperatuur onder 0°C zakt.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

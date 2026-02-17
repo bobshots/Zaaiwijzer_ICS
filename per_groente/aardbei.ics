@@ -1,0 +1,193 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Aardbei (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Aardbei
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Aardbei — Doorlevende rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:8bb4df5cbe427522@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Aardbei — Doorlevende rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 10–12 (mrt)\n🏡 Uitplanten: week 20–22 (mei
+ –jun)\n\nVariant: Bosaardbei (o.a. Baron von Solemacher)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Lichtkiemers: zaden niet bedekken\, enkel aandruk
+ ken. Binnen voorzaaien bij 20°C.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardbei — Doorlevende rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:f259da81b0c1d66f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardbei — Doorlevende rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 20–22 (mei–jun)\n🌱 Gezaaid in: week 10
+ –12 (mrt)\n\nVariant: Bosaardbei (o.a. Baron von Solemacher)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Plant uit op een half-schaduw plek. Oogst vol
+ gt meestal pas volgend jaar.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardbei — Late rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:0202c3d35dc43cf1@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardbei — Late rassen (Batch 2)\n\n🏡 Uit
+ plantperiode: week 14–16 (mrt–apr)\n🥕 Verwachte oogst: week 26–43
+  (jun–okt)\n\nVariant: Doordragende rassen (o.a. Ostara\, Albion)\nBetro
+ uwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Verwijder de eerst
+ e bloemen tot eind mei voor een sterkere plant. Grond is nog erg koud\, ge
+ bruik eventueel zwart plastic om op te warmen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardbei — Late rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185338Z
+UID:717a918437f172a9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardbei — Late rassen (Batch 2)\n\n🥕 Oogstp
+ eriode: week 26–43 (jun–okt)\n\nVariant: Doordragende rassen (o.a. Ost
+ ara\, Albion)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip
+ : Pluk regelmatig (2-3x per week) volledig rode vruchten door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:9a3b858c7042ccf5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardbei — Zomer rassen (Batch 3)\n\n🏡 Ui
+ tplantperiode: week 16 (apr)\n🥕 Verwachte oogst: week 24–27 (jun–ju
+ l)\n\nVariant: Gekoelde wachtbedplanten (o.a. Elsanta\, Sonata)\nBetrouwba
+ arheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Plant met de 'neus' (h
+ art) net boven de grond. Te diep = rot\, te ondiep = uitdroging. Geef dire
+ ct water.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:c268d52abd4a38f7@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardbei — Zomer rassen (Batch 4)\n\n🏡 Ui
+ tplantperiode: week 20 (mei)\n🥕 Verwachte oogst: week 28–31 (jul–au
+ g)\n\nVariant: Gekoelde wachtbedplanten (o.a. Elsanta\, Sonata)\nBetrouwba
+ arheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Plant met de 'neus' (h
+ art) net boven de grond. Te diep = rot\, te ondiep = uitdroging. Geef dire
+ ct water.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:dd3187120ac4770e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardbei — Zomer rassen (Batch 5)\n\n🏡 Ui
+ tplantperiode: week 24 (jun)\n🥕 Verwachte oogst: week 32–35 (aug)\n\n
+ Variant: Gekoelde wachtbedplanten (o.a. Elsanta\, Sonata)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Plant met de 'neus' (hart) net boven de grond. Te 
+ diep = rot\, te ondiep = uitdroging. Geef direct water.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:095403d236b42a90@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardbei — Zomer rassen (Batch 6)\n\n🏡 Ui
+ tplantperiode: week 28 (jul)\n🥕 Verwachte oogst: week 36–39 (sep)\n\n
+ Variant: Gekoelde wachtbedplanten (o.a. Elsanta\, Sonata)\nBetrouwbaarheid
+ : ✅ Hoog\n\n💡 Tip: Plant met de 'neus' (hart) net boven de grond. Te 
+ diep = rot\, te ondiep = uitdroging. Geef direct water.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:c65125fe7ff7e987@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardbei — Zomer rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 24–27 (jun–jul)\n\nVariant: Gekoelde wachtbedplanten (o.
+ a. Elsanta\, Sonata)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Na de oogst zijn deze planten 'op' voor professionele teelt\, ma
+ ar in de tuin dragen ze volgend jaar in juni weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:4dbdc54e0939c500@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardbei — Zomer rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 28–31 (jul–aug)\n\nVariant: Gekoelde wachtbedplanten (o.
+ a. Elsanta\, Sonata)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Na de oogst zijn deze planten 'op' voor professionele teelt\, ma
+ ar in de tuin dragen ze volgend jaar in juni weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:ca812266879573ea@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardbei — Zomer rassen (Batch 5)\n\n🥕 Oogst
+ periode: week 32–35 (aug)\n\nVariant: Gekoelde wachtbedplanten (o.a. Els
+ anta\, Sonata)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na de oogst zijn de
+ ze planten 'op' voor professionele teelt\, maar in de tuin dragen ze volge
+ nd jaar in juni weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Aardbei — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:fd3e05688efcfda0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Aardbei — Zomer rassen (Batch 6)\n\n🥕 Oogst
+ periode: week 36–39 (sep)\n\nVariant: Gekoelde wachtbedplanten (o.a. Els
+ anta\, Sonata)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Na de oogst zijn de
+ ze planten 'op' voor professionele teelt\, maar in de tuin dragen ze volge
+ nd jaar in juni weer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Aardbei — Vroege rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:dbac0dca7254333f@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Aardbei — Vroege rassen (Batch 7)\n\n🏡 U
+ itplantperiode: week 32–34 (aug)\n\nVariant: Juni-dragers (o.a. Lambada)
+ \nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant nu voor een hoofdoogst in j
+ uni volgend jaar. Verwijder alle uitlopers direct.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,872 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Radijs (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Radijs
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:bf442cb8e9db1994@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 8 (feb)\n🥕 Verwachte oogst: week 14 (mrt–apr)\n\nV
+ ariant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaar
+ heid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Bij zaai voor week 12 is
+  vliesdoek noodzakelijk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:e93080a75477b0a6@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 9 (feb–mrt)\n🥕 Verwachte oogst: week 15 (apr)\n\nV
+ ariant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaar
+ heid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Bij zaai voor week 12 is
+  vliesdoek noodzakelijk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:305dc2a98fde44aa@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 10 (mrt)\n🥕 Verwachte oogst: week 16 (apr)\n\nVarian
+ t: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaarheid:
+  ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Bij zaai voor week 12 is vlie
+ sdoek noodzakelijk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:802f20de16bfec46@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 11 (mrt)\n🥕 Verwachte oogst: week 17 (apr)\n\nVarian
+ t: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaarheid:
+  ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Bij zaai voor week 12 is vlie
+ sdoek noodzakelijk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:2981438f80682e36@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 5)\n\n📅
+  Zaaiperiode: week 12 (mrt)\n🥕 Verwachte oogst: week 18 (apr–mei)\n\n
+ Variant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Bij zaai voor week 12 is vliesdoek noodzakeli
+ jk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:f5b0563461acfdd7@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 6)\n\n📅
+  Zaaiperiode: week 13 (mrt)\n🥕 Verwachte oogst: week 19 (mei)\n\nVarian
+ t: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaarheid:
+  ✅ Hoog\n\n💡 Tip: Bij zaai voor week 12 is vliesdoek noodzakelijk voo
+ r goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:5e48146e66c02d9e@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 7)\n\n📅
+  Zaaiperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 20 (mei)\n\n
+ Variant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaa
+ rheid: ✅ Hoog\n\n💡 Tip: Bij zaai voor week 12 is vliesdoek noodzakeli
+ jk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:c6e489a46c1ebbef@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 8)\n\n📅
+  Zaaiperiode: week 15 (apr)\n🥕 Verwachte oogst: week 20–21 (mei)\n\nV
+ ariant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Bij zaai voor week 12 is vliesdoek noodzakelij
+ k voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:d447b4ea85d2581e@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 9)\n\n📅
+  Zaaiperiode: week 16 (apr)\n🥕 Verwachte oogst: week 21–22 (mei–jun
+ )\n\nVariant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetro
+ uwbaarheid: ✅ Hoog\n\n💡 Tip: Bij zaai voor week 12 is vliesdoek noodz
+ akelijk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:e3e18bf69d1c9f5a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 10)\n\n
+ 📅 Zaaiperiode: week 17 (apr)\n🥕 Verwachte oogst: week 22–23 (mei
+ –jun)\n\nVariant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\
+ nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij zaai voor week 12 is vliesdoek
+  noodzakelijk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:08b8ed462b266c75@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Vroege rassen (Batch 11)\n\n
+ 📅 Zaaiperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 23 (jun)
+ \n\nVariant: Snelgroeiend voorjaarsras (bijv. Saxa\, Cherry Belle)\nBetrou
+ wbaarheid: ✅ Hoog\n\n💡 Tip: Bij zaai voor week 12 is vliesdoek noodza
+ kelijk voor goede kieming in koude grond.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:3fcded626d535cc2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 14 (mrt–apr)\n\nVariant: Snelgroeiend voorjaarsras\nBetrou
+ wbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst op tijd\; in 
+ het warme voorjaar (mei) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:2e0c79f2e9981df8@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 15 (apr)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarh
+ eid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst op tijd\; in het wa
+ rme voorjaar (mei) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:c51b87e159d5c53a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 16 (apr)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarh
+ eid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst op tijd\; in het wa
+ rme voorjaar (mei) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:951992427c9e3c88@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 17 (apr)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarh
+ eid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst op tijd\; in het wa
+ rme voorjaar (mei) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:adaa574081453026@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 5)\n\n🥕 Oogst
+ periode: week 18 (apr–mei)\n\nVariant: Snelgroeiend voorjaarsras\nBetrou
+ wbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; in het warme voorjaar (me
+ i) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:bdb9d44a564aabc1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 6)\n\n🥕 Oogst
+ periode: week 19 (mei)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; in het warme voorjaar (mei) sch
+ ieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:2d282edbebd9b7ce@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 7)\n\n🥕 Oogst
+ periode: week 20 (mei)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaarh
+ eid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; in het warme voorjaar (mei) sch
+ ieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:eb65073d2bb79695@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 8)\n\n🥕 Oogst
+ periode: week 20–21 (mei)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouw
+ baarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; in het warme voorjaar (mei
+ ) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:fab76dc9144423ea@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 9)\n\n🥕 Oogst
+ periode: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorjaarsras\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; in het warme voorjaa
+ r (mei) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:181f2bff3df037b6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 10)\n\n🥕 Oogs
+ tperiode: week 22–23 (mei–jun)\n\nVariant: Snelgroeiend voorjaarsras\n
+ Betrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; in het warme voorja
+ ar (mei) schieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:d398b4db67391bf0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Vroege rassen (Batch 11)\n\n🥕 Oogs
+ tperiode: week 23 (jun)\n\nVariant: Snelgroeiend voorjaarsras\nBetrouwbaar
+ heid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; in het warme voorjaar (mei) sc
+ hieten vroege rassen snel door.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:b420a538a62725bc@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 12)\n\n📅
+  Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 23 (jun)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:2dd3f59b6885649b@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 13)\n\n📅
+  Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 24 (jun)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:37f65bd80e1e29ff@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 14)\n\n📅
+  Zaaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 25 (jun)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:ea3a6d26e74499eb@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 15)\n\n📅
+  Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 26 (jun)\n\n
+ Variant: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oo
+ gst. Houd grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:1cb1be844ef2d1ab@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 16)\n\n📅
+  Zaaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 27 (jun–jul)\n\n
+ Variant: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oo
+ gst. Houd grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:6e9678249fe584a0@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 17)\n\n📅
+  Zaaiperiode: week 24 (jun)\n🥕 Verwachte oogst: week 28 (jul)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:0f62a81122430a74@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 18)\n\n📅
+  Zaaiperiode: week 25 (jun)\n🥕 Verwachte oogst: week 29 (jul)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:2bb0dbe944a019b5@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 19)\n\n📅
+  Zaaiperiode: week 26 (jun)\n🥕 Verwachte oogst: week 30 (jul)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:65349d2499e815d4@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 20)\n\n📅
+  Zaaiperiode: week 27 (jun–jul)\n🥕 Verwachte oogst: week 31 (jul–au
+ g)\n\nVariant: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwb
+ aarheid: ✅ Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor consta
+ nte oogst. Houd grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:42c87adceaef4149@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 21)\n\n📅
+  Zaaiperiode: week 28 (jul)\n🥕 Verwachte oogst: week 32 (aug)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:dada6c6543bd9832@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 22)\n\n📅
+  Zaaiperiode: week 29 (jul)\n🥕 Verwachte oogst: week 33 (aug)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:28d68387e72b6229@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 23)\n\n📅
+  Zaaiperiode: week 30 (jul)\n🥕 Verwachte oogst: week 34 (aug)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:4ce52ad3e0baf155@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 24)\n\n📅
+  Zaaiperiode: week 31 (jul–aug)\n🥕 Verwachte oogst: week 35 (aug)\n\n
+ Variant: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oo
+ gst. Houd grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:641e6a5a7122a909@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 25)\n\n📅
+  Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 36 (sep)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:2e9e4ca43a108167@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 26)\n\n📅
+  Zaaiperiode: week 33 (aug)\n🥕 Verwachte oogst: week 37 (sep)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:6439eb8f1a3a7356@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Zomer rassen (Batch 27)\n\n📅
+  Zaaiperiode: week 34 (aug)\n🥕 Verwachte oogst: week 38 (sep)\n\nVarian
+ t: Schietresistente zomerradijs (bijv. Raxe\, Zlata)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Zaai elke week een klein rijtje voor constante oogst. H
+ oud grond goed vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:50d2059f2593c46a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 12)\n\n🥕 Oogst
+ periode: week 23 (jun)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:66009b0a06ebdedb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 13)\n\n🥕 Oogst
+ periode: week 24 (jun)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:1441bc9120390199@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 14)\n\n🥕 Oogst
+ periode: week 25 (jun)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:d6d36bb4a2c9b8b2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 15)\n\n🥕 Oogst
+ periode: week 26 (jun)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:b303790f44df42ad@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 16)\n\n🥕 Oogst
+ periode: week 27 (jun–jul)\n\nVariant: Schietresistente zomerradijs\nBet
+ rouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 da
+ gen)\; controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:717bd9b2af77f2ed@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 17)\n\n🥕 Oogst
+ periode: week 28 (jul)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:f597d852c183d4f9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 18)\n\n🥕 Oogst
+ periode: week 29 (jul)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:612455d6534c21aa@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 19)\n\n🥕 Oogst
+ periode: week 30 (jul)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:31484e522fe9f960@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 20)\n\n🥕 Oogst
+ periode: week 31 (jul–aug)\n\nVariant: Schietresistente zomerradijs\nBet
+ rouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 da
+ gen)\; controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:85c91edf2f4621a9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 21)\n\n🥕 Oogst
+ periode: week 32 (aug)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:2b2f2caa350a911e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 22)\n\n🥕 Oogst
+ periode: week 33 (aug)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:4c746206eb22a1bc@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 23)\n\n🥕 Oogst
+ periode: week 34 (aug)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:c1e7bebed0263225@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 24)\n\n🥕 Oogst
+ periode: week 35 (aug)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:dc2c569c4b22b20d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 25)\n\n🥕 Oogst
+ periode: week 36 (sep)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:994a93be6831949b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 26)\n\n🥕 Oogst
+ periode: week 37 (sep)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:3e94513c2245190d@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Zomer rassen (Batch 27)\n\n🥕 Oogst
+ periode: week 38 (sep)\n\nVariant: Schietresistente zomerradijs\nBetrouwba
+ arheid: ✅ Hoog\n\n💡 Tip: Zomerradijs groeit zeer snel (25-30 dagen)\;
+  controleer dagelijks.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:fb293d450cf4faca@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Late rassen (Batch 28)\n\n📅 
+ Zaaiperiode: week 32 (aug)\n🥕 Verwachte oogst: week 39–40 (sep–okt)
+ \n\nVariant: Winterrammenas type (bijv. Ronde Zwarte)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Zaai deze grotere rassen iets ruimer of dun uit op 1
+ 0-15 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Late rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:89ce74b47d90203f@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Late rassen (Batch 29)\n\n📅 
+ Zaaiperiode: week 33 (aug)\n🥕 Verwachte oogst: week 40–41 (sep–okt)
+ \n\nVariant: Winterrammenas type (bijv. Ronde Zwarte)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Zaai deze grotere rassen iets ruimer of dun uit op 1
+ 0-15 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:ef773665b2b8e20a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Late rassen (Batch 30)\n\n📅 
+ Zaaiperiode: week 34 (aug)\n🥕 Verwachte oogst: week 41–43 (okt)\n\nVa
+ riant: Winterrammenas type (bijv. Ronde Zwarte)\nBetrouwbaarheid: ✅ Hoog
+ \n\n💡 Tip: Zaai deze grotere rassen iets ruimer of dun uit op 10-15 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Late rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:b06a2a66a9cab24a@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Late rassen (Batch 31)\n\n📅 
+ Zaaiperiode: week 35 (aug)\n🥕 Verwachte oogst: week 43–45 (okt–nov)
+ \n\nVariant: Winterrammenas type (bijv. Ronde Zwarte)\nBetrouwbaarheid: 
+ ✅ Hoog\n\n💡 Tip: Zaai deze grotere rassen iets ruimer of dun uit op 1
+ 0-15 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Radijs — Late rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:9fcaf0a65a9f39a2@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Radijs — Late rassen (Batch 32)\n\n📅 
+ Zaaiperiode: week 36 (sep)\n🥕 Verwachte oogst: week 45–47 (nov)\n\nVa
+ riant: Winterrammenas type (bijv. Ronde Zwarte)\nBetrouwbaarheid: ✅ Hoog
+ \n\n💡 Tip: Zaai deze grotere rassen iets ruimer of dun uit op 10-15 cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Late rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251006
+DTSTAMP:20260216T185338Z
+UID:af53d697b08547cd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Late rassen (Batch 28)\n\n🥕 Oogstp
+ eriode: week 39–40 (sep–okt)\n\nVariant: Winterrammenas type\nBetrouwb
+ aarheid: ✅ Hoog\n\n💡 Tip: Rammenas kan goed tegen kou en blijft lang 
+ goed in de grond. Oogst voor strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:7caf895c2559e6ad@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Late rassen (Batch 29)\n\n🥕 Oogstp
+ eriode: week 40–41 (sep–okt)\n\nVariant: Winterrammenas type\nBetrouwb
+ aarheid: ✅ Hoog\n\n💡 Tip: Rammenas kan goed tegen kou en blijft lang 
+ goed in de grond. Oogst voor strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Late rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251027
+DTSTAMP:20260216T185338Z
+UID:97d2ffd8a03d2c9f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Late rassen (Batch 30)\n\n🥕 Oogstp
+ eriode: week 41–43 (okt)\n\nVariant: Winterrammenas type\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Rammenas kan goed tegen kou en blijft lang goed i
+ n de grond. Oogst voor strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Late rassen
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:4b5bdf1371d42195@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Late rassen (Batch 31)\n\n🥕 Oogstp
+ eriode: week 43–45 (okt–nov)\n\nVariant: Winterrammenas type\nBetrouwb
+ aarheid: ✅ Hoog\n\n💡 Tip: Rammenas kan goed tegen kou en blijft lang 
+ goed in de grond. Oogst voor strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Radijs — Late rassen
+DTSTART;VALUE=DATE:20251103
+DTEND;VALUE=DATE:20251124
+DTSTAMP:20260216T185338Z
+UID:63101405766bde64@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Radijs — Late rassen (Batch 32)\n\n🥕 Oogstp
+ eriode: week 45–47 (nov)\n\nVariant: Winterrammenas type\nBetrouwbaarhei
+ d: ✅ Hoog\n\n💡 Tip: Rammenas kan goed tegen kou en blijft lang goed i
+ n de grond. Oogst voor strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

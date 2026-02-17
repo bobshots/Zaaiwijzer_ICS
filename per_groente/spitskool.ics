@@ -1,0 +1,436 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Spitskool (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Spitskool
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185339Z
+UID:60ef85dd567fc09f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 6 (feb)\n🏡 Uitplanten: week 11 (mrt)\n🥕 Verwachte
+  oogst: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende vroege spitskoo
+ l (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen bij 
+ 15-20°C. Voorkom te hoge temperaturen na kieming om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185339Z
+UID:3a4cb29b5d30bb8b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 8 (feb)\n🏡 Uitplanten: week 13 (mrt)\n🥕 Verwachte
+  oogst: week 24–26 (jun)\n\nVariant: Snelgroeiende vroege spitskool (o.a
+ . Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen bij 15-20
+ °C. Voorkom te hoge temperaturen na kieming om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:960069d8271b0357@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Vroege rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 15 (apr)\n🥕 Verwacht
+ e oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende vroege spitsko
+ ol (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen bij
+  15-20°C. Voorkom te hoge temperaturen na kieming om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:099788cf1ad4c2fc@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Vroege rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 17 (apr)\n🥕 Verwacht
+ e oogst: week 28–30 (jul)\n\nVariant: Snelgroeiende vroege spitskool (o.
+ a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen bij 15-20
+ °C. Voorkom te hoge temperaturen na kieming om rekken te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185339Z
+UID:a105b0d8bc47b94d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 11 (mrt)\n🌱 Gezaaid in: week 6 (feb)\n🥕 Verwa
+ chte oogst: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende vroege spit
+ skool (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebruik vlie
+ sdoek bij het uitplanten van de eerste batches om de jonge planten te besc
+ hermen tegen nachtvorst en wild.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185339Z
+UID:1d20c87a56fc3f2d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Vroege rassen (Batch 2)\n\n🏡
+  Uitplantperiode: week 13 (mrt)\n🌱 Gezaaid in: week 8 (feb)\n🥕 Verwa
+ chte oogst: week 24–26 (jun)\n\nVariant: Snelgroeiende vroege spitskool 
+ (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebruik vliesdoek 
+ bij het uitplanten van de eerste batches om de jonge planten te beschermen
+  tegen nachtvorst en wild.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185339Z
+UID:888ad1e7f7054e66@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Vroege rassen (Batch 3)\n\n🏡
+  Uitplantperiode: week 15 (apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕 Verw
+ achte oogst: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende vroege spi
+ tskool (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebruik vli
+ esdoek bij het uitplanten van de eerste batches om de jonge planten te bes
+ chermen tegen nachtvorst en wild.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:f49ea36088a22a9e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Vroege rassen (Batch 4)\n\n🏡
+  Uitplantperiode: week 17 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verw
+ achte oogst: week 28–30 (jul)\n\nVariant: Snelgroeiende vroege spitskool
+  (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Gebruik vliesdoek
+  bij het uitplanten van de eerste batches om de jonge planten te bescherme
+ n tegen nachtvorst en wild.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:eead65d61ead8f0f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 22–24 (mei–jun)\n\nVariant: Snelgroeiende vroege spit
+ skool (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra 
+ de punt stevig aanvoelt. Laat ze niet te lang staan\, vroege soorten barst
+ en snel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:ee103d2834a4edb4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Vroege rassen (Batch 2)\n\n🥕 Oo
+ gstperiode: week 24–26 (jun)\n\nVariant: Snelgroeiende vroege spitskool 
+ (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de pun
+ t stevig aanvoelt. Laat ze niet te lang staan\, vroege soorten barsten sne
+ l.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:f6e165660a40555e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Vroege rassen (Batch 3)\n\n🥕 Oo
+ gstperiode: week 26–28 (jun–jul)\n\nVariant: Snelgroeiende vroege spit
+ skool (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra 
+ de punt stevig aanvoelt. Laat ze niet te lang staan\, vroege soorten barst
+ en snel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Vroege rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:19717633b2073ad5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Vroege rassen (Batch 4)\n\n🥕 Oo
+ gstperiode: week 28–30 (jul)\n\nVariant: Snelgroeiende vroege spitskool 
+ (o.a. Hispi F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst zodra de pun
+ t stevig aanvoelt. Laat ze niet te lang staan\, vroege soorten barsten sne
+ l.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:2583945f626e5b53@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Zomer rassen (Batch 5)\n\n📅 
+ Zaaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18 (apr–mei)\n
+ 🥕 Verwachte oogst: week 29–31 (jul–aug)\n\nVariant: Productieve zom
+ erkool (o.a. Caraflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd de 
+ zaailingen vochtig. Week 20 zaaien valt iets buiten het standaard venster\
+ , maar zorgt voor oogstcontinuïteit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:c058cd4bc9121812@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Zomer rassen (Batch 6)\n\n📅 
+ Zaaiperiode: week 16 (apr)\n🏡 Uitplanten: week 20 (mei)\n🥕 Verwachte
+  oogst: week 31–33 (jul–aug)\n\nVariant: Productieve zomerkool (o.a. C
+ araflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd de zaailingen voc
+ htig. Week 20 zaaien valt iets buiten het standaard venster\, maar zorgt v
+ oor oogstcontinuïteit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:2628b0d0a21c7c8c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 22 (mei–jun)\n
+ 🥕 Verwachte oogst: week 33–35 (aug)\n\nVariant: Productieve zomerkool
+  (o.a. Caraflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Houd de zaaili
+ ngen vochtig. Week 20 zaaien valt iets buiten het standaard venster\, maar
+  zorgt voor oogstcontinuïteit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:e60f53723c77efee@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Zomer rassen (Batch 8)\n\n📅 
+ Zaaiperiode: week 20 (mei)\n🏡 Uitplanten: week 24 (jun)\n🥕 Verwachte
+  oogst: week 35–37 (aug–sep)\n\nVariant: Productieve zomerkool (o.a. C
+ araflex F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: 
+ Houd de zaailingen vochtig. Week 20 zaaien valt iets buiten het standaard 
+ venster\, maar zorgt voor oogstcontinuïteit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:71990df1256c80f5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Zomer rassen (Batch 5)\n\n🏡 
+ Uitplantperiode: week 18 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–apr)
+ \n🥕 Verwachte oogst: week 29–31 (jul–aug)\n\nVariant: Productieve z
+ omerkool (o.a. Caraflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bedek 
+ direct na het uitplanten met insectengaas (fijnmazig) tegen koolwitjes en 
+ koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:3b0fdba15ba67c67@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Zomer rassen (Batch 6)\n\n🏡 
+ Uitplantperiode: week 20 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwa
+ chte oogst: week 31–33 (jul–aug)\n\nVariant: Productieve zomerkool (o.
+ a. Caraflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bedek direct na he
+ t uitplanten met insectengaas (fijnmazig) tegen koolwitjes en koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:14a7edcb03b156dc@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Zomer rassen (Batch 7)\n\n🏡 
+ Uitplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 18 (apr–mei)
+ \n🥕 Verwachte oogst: week 33–35 (aug)\n\nVariant: Productieve zomerko
+ ol (o.a. Caraflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bedek direct
+  na het uitplanten met insectengaas (fijnmazig) tegen koolwitjes en koolvl
+ ieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:f3a9d93fb5a16d7c@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Zomer rassen (Batch 8)\n\n🏡 
+ Uitplantperiode: week 24 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕 Verwa
+ chte oogst: week 35–37 (aug–sep)\n\nVariant: Productieve zomerkool (o.
+ a. Caraflex F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 T
+ ip: Bedek direct na het uitplanten met insectengaas (fijnmazig) tegen kool
+ witjes en koolvlieg.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185339Z
+UID:372dbcb323eab19c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Zomer rassen (Batch 5)\n\n🥕 Oog
+ stperiode: week 29–31 (jul–aug)\n\nVariant: Productieve zomerkool (o.a
+ . Caraflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer regelmat
+ ig onder het blad op rupsen\, zelfs onder insectengaas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185339Z
+UID:e660cc6da893fbc5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Zomer rassen (Batch 6)\n\n🥕 Oog
+ stperiode: week 31–33 (jul–aug)\n\nVariant: Productieve zomerkool (o.a
+ . Caraflex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer regelmat
+ ig onder het blad op rupsen\, zelfs onder insectengaas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185339Z
+UID:ca704e4665512200@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Zomer rassen (Batch 7)\n\n🥕 Oog
+ stperiode: week 33–35 (aug)\n\nVariant: Productieve zomerkool (o.a. Cara
+ flex F1)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Controleer regelmatig ond
+ er het blad op rupsen\, zelfs onder insectengaas.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185339Z
+UID:7d70d7bd965bc580@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Zomer rassen (Batch 8)\n\n🥕 Oog
+ stperiode: week 35–37 (aug–sep)\n\nVariant: Productieve zomerkool (o.a
+ . Caraflex F1)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Ti
+ p: Controleer regelmatig onder het blad op rupsen\, zelfs onder insectenga
+ as.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Late rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:784a978daaccdbd7@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Late rassen (Batch 9)\n\n📅 Z
+ aaiperiode: week 21 (mei)\n🏡 Uitplanten: week 25 (jun)\n🥕 Verwachte 
+ oogst: week 38–41 (sep–okt)\n\nVariant: Trage bewaarkool (o.a. Filderk
+ raut)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai niet te dik. Late rasse
+ n hebben veel ruimte en tijd nodig om grote kolen te vormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Spitskool — Late rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:53388056048d0488@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Spitskool — Late rassen (Batch 10)\n\n📅 
+ Zaaiperiode: week 23 (jun)\n🏡 Uitplanten: week 27 (jun–jul)\n🥕 Ver
+ wachte oogst: week 41–46 (okt–nov)\n\nVariant: Trage bewaarkool (o.a. 
+ Filderkraut)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai niet te dik. Lat
+ e rassen hebben veel ruimte en tijd nodig om grote kolen te vormen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Late rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:d2ba85d232e76263@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Late rassen (Batch 9)\n\n🏡 U
+ itplantperiode: week 25 (jun)\n🌱 Gezaaid in: week 21 (mei)\n🥕 Verwac
+ hte oogst: week 38–41 (sep–okt)\n\nVariant: Trage bewaarkool (o.a. Fil
+ derkraut)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef deze rassen een rui
+ mere plantafstand (50x50cm) voor maximale grootte.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Spitskool — Late rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:c1b714a807d2bc6d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Spitskool — Late rassen (Batch 10)\n\n🏡 
+ Uitplantperiode: week 27 (jun–jul)\n🌱 Gezaaid in: week 23 (jun)\n🥕
+  Verwachte oogst: week 41–46 (okt–nov)\n\nVariant: Trage bewaarkool (o
+ .a. Filderkraut)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geef deze rassen 
+ een ruimere plantafstand (50x50cm) voor maximale grootte.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Late rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185339Z
+UID:0c218502bd33d504@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Late rassen (Batch 9)\n\n🥕 Oogs
+ tperiode: week 38–41 (sep–okt)\n\nVariant: Trage bewaarkool (o.a. Fild
+ erkraut)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze kolen kunnen lichte 
+ vorst verdragen. Oogst ze voor de strenge vorst invalt (rond week 46-48).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Spitskool — Late rassen
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251117
+DTSTAMP:20260216T185339Z
+UID:379a3bfbdec28c8a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Spitskool — Late rassen (Batch 10)\n\n🥕 Oog
+ stperiode: week 41–46 (okt–nov)\n\nVariant: Trage bewaarkool (o.a. Fil
+ derkraut)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Deze kolen kunnen lichte
+  vorst verdragen. Oogst ze voor de strenge vorst invalt (rond week 46-48).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Stokbonen (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Stokbonen
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stokbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250407
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:d86d08ab402ebc7c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stokbonen — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 15–16 (apr)\n🏡 Uitplanten: week 20–21 (mei)\n
+ 🥕 Verwachte oogst: week 27–30 (jun–jul)\n\nVariant: Snelgroeiend ty
+ pe (bijv. Vroege sperzieboon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Star
+ t nu binnen. De grond buiten is dit jaar te koud voor directe zaai (<15°C
+ )\, dus voorzaaien is verplicht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stokbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:b64cad284a884492@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stokbonen — Vroege rassen (Batch 1)\n\n🏡
+  Uitplantperiode: week 20–21 (mei)\n🌱 Gezaaid in: week 15–16 (apr)\
+ n🥕 Verwachte oogst: week 27–30 (jun–jul)\n\nVariant: Snelgroeiend t
+ ype (bijv. Vroege sperzieboon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt uit na IJsheiligen. De luchttemperatuur is nu veilig\, maar verplaats d
+ e planten voorzichtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stokbonen — Vroege rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:b18021d82b15911c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stokbonen — Vroege rassen (Batch 1)\n\n🥕 Oo
+ gstperiode: week 27–30 (jun–jul)\n\nVariant: Snelgroeiend type (bijv. 
+ Vroege sperzieboon)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk de bonen 
+ jong (potlooddikte) voor de beste smaak. Eerste oogst van het jaar!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:30bf7a572cf97b63@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stokbonen — Zomer rassen (Batch 2)\n\n📅 
+ Zaaiperiode: week 19–20 (mei)\n🏡 Uitplanten: week 23–24 (jun)\n🥕
+  Verwachte oogst: week 30–35 (jul–aug)\n\nVariant: Klimbonen hoge opbr
+ engst (bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Blijf binnen voorzaaien in diepe potten. Buiten zaaien is te riskant door 
+ de structureel lage bodemtemperatuur.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:a02b72662849ba17@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stokbonen — Zomer rassen (Batch 3)\n\n📅 
+ Zaaiperiode: week 22–23 (mei–jun)\n🏡 Uitplanten: week 26–27 (jun
+ –jul)\n🥕 Verwachte oogst: week 34–39 (aug–sep)\n\nVariant: Klimbo
+ nen hoge opbrengst (bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\
+ n\n💡 Tip: Blijf binnen voorzaaien in diepe potten. Buiten zaaien is te 
+ riskant door de structureel lage bodemtemperatuur.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:c513aa99998799cd@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Stokbonen — Zomer rassen (Batch 4)\n\n📅 
+ Zaaiperiode: week 25–26 (jun)\n🏡 Uitplanten: week 29–30 (jul)\n🥕
+  Verwachte oogst: week 38–42 (sep–okt)\n\nVariant: Klimbonen hoge opbr
+ engst (bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: 
+ Blijf binnen voorzaaien in diepe potten. Buiten zaaien is te riskant door 
+ de structureel lage bodemtemperatuur.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:c62d066c6737bb25@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stokbonen — Zomer rassen (Batch 2)\n\n🏡 
+ Uitplantperiode: week 23–24 (jun)\n🌱 Gezaaid in: week 19–20 (mei)\n
+ 🥕 Verwachte oogst: week 30–35 (jul–aug)\n\nVariant: Klimbonen hoge 
+ opbrengst (bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Zorg voor stevige klimsteunen (minimaal 2.5m hoog). Plant 3-5 zaailing
+ en per stok.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:72904a1521e0f4c9@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stokbonen — Zomer rassen (Batch 3)\n\n🏡 
+ Uitplantperiode: week 26–27 (jun–jul)\n🌱 Gezaaid in: week 22–23 (
+ mei–jun)\n🥕 Verwachte oogst: week 34–39 (aug–sep)\n\nVariant: Kli
+ mbonen hoge opbrengst (bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Ho
+ og\n\n💡 Tip: Zorg voor stevige klimsteunen (minimaal 2.5m hoog). Plant 
+ 3-5 zaailingen per stok.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:1a9caa7641bffbb8@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Stokbonen — Zomer rassen (Batch 4)\n\n🏡 
+ Uitplantperiode: week 29–30 (jul)\n🌱 Gezaaid in: week 25–26 (jun)\n
+ 🥕 Verwachte oogst: week 38–42 (sep–okt)\n\nVariant: Klimbonen hoge 
+ opbrengst (bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Zorg voor stevige klimsteunen (minimaal 2.5m hoog). Plant 3-5 zaailing
+ en per stok.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185339Z
+UID:b2617aba1b1705cf@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stokbonen — Zomer rassen (Batch 2)\n\n🥕 Oog
+ stperiode: week 30–35 (jul–aug)\n\nVariant: Klimbonen hoge opbrengst (
+ bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst t
+ wee keer per week. Batch 4 stopt vanzelf als de temperatuur in oktober ond
+ er de 12°C duikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:92c156c9926628c6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stokbonen — Zomer rassen (Batch 3)\n\n🥕 Oog
+ stperiode: week 34–39 (aug–sep)\n\nVariant: Klimbonen hoge opbrengst (
+ bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst t
+ wee keer per week. Batch 4 stopt vanzelf als de temperatuur in oktober ond
+ er de 12°C duikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Stokbonen — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:b2675625552b1999@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Stokbonen — Zomer rassen (Batch 4)\n\n🥕 Oog
+ stperiode: week 38–42 (sep–okt)\n\nVariant: Klimbonen hoge opbrengst (
+ bijv. Spekbonen/Snijbonen)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst t
+ wee keer per week. Batch 4 stopt vanzelf als de temperatuur in oktober ond
+ er de 12°C duikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

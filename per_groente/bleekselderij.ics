@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Bleekselderij (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Bleekselderij
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bleekselderij — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250303
+DTSTAMP:20260216T185338Z
+UID:efcdad53539368e2@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bleekselderij — Vroege rassen (Batch 1)\n\n
+ 📅 Zaaiperiode: week 8–9 (feb–mrt)\n🏡 Uitplanten: week 20 (mei)\n
+ 🥕 Verwachte oogst: week 30–33 (jul–aug)\n\nVariant: Zelfblekende va
+ riëteiten (o.a. Golden Self-Blanching)\nBetrouwbaarheid: ✅ Hoog\n\n💡
+  Tip: Zaai binnen warm (20°C+) in trays. Kieming duurt lang (2-3 weken). 
+ Houd grond constant vochtig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250310
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:38d70bc561db29af@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bleekselderij — Zomer rassen (Batch 2)\n\n
+ 📅 Zaaiperiode: week 11 (mrt)\n🏡 Uitplanten: week 22 (mei–jun)\n
+ 🥕 Verwachte oogst: week 33–36 (aug–sep)\n\nVariant: Groene of zelfb
+ lekende types (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Ver
+ speen de zaailingen naar potjes zodra ze 2 echte blaadjes hebben. Laat ze 
+ niet uitdrogen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250324
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:892b9d496db9f592@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bleekselderij — Zomer rassen (Batch 3)\n\n
+ 📅 Zaaiperiode: week 13 (mrt)\n🏡 Uitplanten: week 24 (jun)\n🥕 Verw
+ achte oogst: week 36–39 (sep)\n\nVariant: Groene of zelfblekende types (
+ o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Verspeen de zaaili
+ ngen naar potjes zodra ze 2 echte blaadjes hebben. Laat ze niet uitdrogen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:d89978f9d6523250@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bleekselderij — Zomer rassen (Batch 4)\n\n
+ 📅 Zaaiperiode: week 16 (apr)\n🏡 Uitplanten: week 27 (jun–jul)\n
+ 🥕 Verwachte oogst: week 39–42 (sep–okt)\n\nVariant: Groene of zelfb
+ lekende types (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Ver
+ speen de zaailingen naar potjes zodra ze 2 echte blaadjes hebben. Laat ze 
+ niet uitdrogen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Bleekselderij — Late rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:0285f2ffe0e66b6f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Bleekselderij — Late rassen (Batch 5)\n\n
+ 📅 Zaaiperiode: week 19 (mei)\n🏡 Uitplanten: week 30 (jul)\n🥕 Verw
+ achte oogst: week 43–45 (okt–nov)\n\nVariant: Harde of rode variëteit
+ en (o.a. Giant Red)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Late rassen zijn vaak sterker van smaak en beter bestand tegen h
+ erfstweer.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bleekselderij — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:475dd7bf1e27a746@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bleekselderij — Vroege rassen (Batch 1)\n\n
+ 🏡 Uitplantperiode: week 20 (mei)\n🌱 Gezaaid in: week 8–9 (feb–mr
+ t)\n🥕 Verwachte oogst: week 30–33 (jul–aug)\n\nVariant: Zelfblekend
+ e variëteiten (o.a. Golden Self-Blanching)\nBetrouwbaarheid: ✅ Hoog\n\n
+ 💡 Tip: Plant pas na Ijsheiligen buiten. Bleekselderij houdt niet van ko
+ ude schokken (kans op doorschieten). Plantafstand 30x30cm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:68f380013254644b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bleekselderij — Zomer rassen (Batch 2)\n\n
+ 🏡 Uitplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 11 (mrt)\
+ n🥕 Verwachte oogst: week 33–36 (aug–sep)\n\nVariant: Groene of zelf
+ blekende types (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bl
+ eekselderij is een moerasplant: geef veel water en mulch de bodem om vocht
+  vast te houden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:ef624490dd971692@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bleekselderij — Zomer rassen (Batch 3)\n\n
+ 🏡 Uitplantperiode: week 24 (jun)\n🌱 Gezaaid in: week 13 (mrt)\n🥕 
+ Verwachte oogst: week 36–39 (sep)\n\nVariant: Groene of zelfblekende typ
+ es (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bleekselderij 
+ is een moerasplant: geef veel water en mulch de bodem om vocht vast te hou
+ den.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:cf4e23c38daff16a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bleekselderij — Zomer rassen (Batch 4)\n\n
+ 🏡 Uitplantperiode: week 27 (jun–jul)\n🌱 Gezaaid in: week 16 (apr)\
+ n🥕 Verwachte oogst: week 39–42 (sep–okt)\n\nVariant: Groene of zelf
+ blekende types (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bl
+ eekselderij is een moerasplant: geef veel water en mulch de bodem om vocht
+  vast te houden.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Bleekselderij — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:7df9b1938b2b43bf@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Bleekselderij — Late rassen (Batch 5)\n\n
+ 🏡 Uitplantperiode: week 30 (jul)\n🌱 Gezaaid in: week 19 (mei)\n🥕 
+ Verwachte oogst: week 43–45 (okt–nov)\n\nVariant: Harde of rode varië
+ teiten (o.a. Giant Red)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n
+ \n💡 Tip: Plant op een beschutte plek voor de late oogst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bleekselderij — Vroege rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:9ffe3854e1324d7c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bleekselderij — Vroege rassen (Batch 1)\n\n
+ 🥕 Oogstperiode: week 30–33 (jul–aug)\n\nVariant: Zelfblekende vari
+ ëteiten (o.a. Golden Self-Blanching)\nBetrouwbaarheid: ✅ Hoog\n\n💡 T
+ ip: Oogst stengels per stuk of snijd de hele plant af. Zelfblekende rassen
+  zijn lichter van kleur.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:40b414c52d7190d2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bleekselderij — Zomer rassen (Batch 2)\n\n🥕
+  Oogstperiode: week 33–36 (aug–sep)\n\nVariant: Groene of zelfblekende
+  types (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij niet-z
+ elfblekende rassen: bind de planten 3 weken voor oogst samen of aard ze aa
+ n voor blekere stengels.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:9d815a491e545d7a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bleekselderij — Zomer rassen (Batch 3)\n\n🥕
+  Oogstperiode: week 36–39 (sep)\n\nVariant: Groene of zelfblekende types
+  (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij niet-zelfble
+ kende rassen: bind de planten 3 weken voor oogst samen of aard ze aan voor
+  blekere stengels.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bleekselderij — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185338Z
+UID:85b4ee798ba34b08@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bleekselderij — Zomer rassen (Batch 4)\n\n🥕
+  Oogstperiode: week 39–42 (sep–okt)\n\nVariant: Groene of zelfblekende
+  types (o.a. Tall Utah)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Bij niet-z
+ elfblekende rassen: bind de planten 3 weken voor oogst samen of aard ze aa
+ n voor blekere stengels.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Bleekselderij — Late rassen
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:1db20148d376aec1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Bleekselderij — Late rassen (Batch 5)\n\n🥕 
+ Oogstperiode: week 43–45 (okt–nov)\n\nVariant: Harde of rode variëtei
+ ten (o.a. Giant Red)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n
+ 💡 Tip: Let op nachtvorst! Oogst alles voor de temperatuur onder -2°C d
+ uikt (week 43-44 is risicovol).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

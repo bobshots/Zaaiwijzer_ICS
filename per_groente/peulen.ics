@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Peulen (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Peulen
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Peulen — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185338Z
+UID:f26a5952adfbbe84@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Peulen — Vroege rassen (Batch 1)\n\n📅 Za
+ aiperiode: week 6 (feb)\n🏡 Uitplanten: week 10 (mrt)\n🥕 Verwachte oo
+ gst: week 20–21 (mei)\n\nVariant: Laagblijvende vroege rassen (o.a. Oreg
+ on Sugar Pod)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start vroeg binnen. 
+ De grond buiten is nog te koud en nat\, waardoor zaden zouden rotten.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Peulen — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:1f324bf45d6b0309@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Peulen — Vroege rassen (Batch 2)\n\n📅 Za
+ aiperiode: week 8 (feb)\n🏡 Uitplanten: week 12 (mrt)\n🥕 Verwachte oo
+ gst: week 22–23 (mei–jun)\n\nVariant: Laagblijvende vroege rassen (o.a
+ . Oregon Sugar Pod)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Start vroeg bi
+ nnen. De grond buiten is nog te koud en nat\, waardoor zaden zouden rotten
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Peulen — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:db696f91d042112e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Peulen — Vroege rassen (Batch 1)\n\n🏡 Ui
+ tplantperiode: week 10 (mrt)\n🌱 Gezaaid in: week 6 (feb)\n🥕 Verwacht
+ e oogst: week 20–21 (mei)\n\nVariant: Laagblijvende vroege rassen (o.a. 
+ Oregon Sugar Pod)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit als de
+  plantjes ongeveer 10cm zijn. Bescherm met vliesdoek tegen duiven en late\
+ , strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Peulen — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:b04f79cc142fff83@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Peulen — Vroege rassen (Batch 2)\n\n🏡 Ui
+ tplantperiode: week 12 (mrt)\n🌱 Gezaaid in: week 8 (feb)\n🥕 Verwacht
+ e oogst: week 22–23 (mei–jun)\n\nVariant: Laagblijvende vroege rassen 
+ (o.a. Oregon Sugar Pod)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant uit 
+ als de plantjes ongeveer 10cm zijn. Bescherm met vliesdoek tegen duiven en
+  late\, strenge vorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Peulen — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185338Z
+UID:465a6187f1a0e8dc@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Peulen — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 20–21 (mei)\n\nVariant: Laagblijvende vroege rassen (o.a. 
+ Oregon Sugar Pod)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk elke 2 dage
+ n. Oogst jong: zodra je de erwten begint te voelen\, ben je eigenlijk al t
+ e laat voor peulen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Peulen — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185338Z
+UID:e3c6a66575f669f1@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Peulen — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 22–23 (mei–jun)\n\nVariant: Laagblijvende vroege rassen 
+ (o.a. Oregon Sugar Pod)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pluk elke 
+ 2 dagen. Oogst jong: zodra je de erwten begint te voelen\, ben je eigenlij
+ k al te laat voor peulen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:75f9ddc8a9d8e67e@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Peulen — Zomer rassen (Batch 3)\n\n📅 Zaa
+ iperiode: week 10 (mrt)\n🏡 Uitplanten: week 14 (mrt–apr)\n🥕 Verwac
+ hte oogst: week 24–25 (jun)\n\nVariant: Hoge rassen (o.a. Heraut\, Golde
+ n Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien blijft noodzak
+ elijk tot half mei\; de bodemtemperatuur is buiten nog te wisselvallig voo
+ r directe zaai.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:951ce42497d59f49@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Peulen — Zomer rassen (Batch 4)\n\n📅 Zaa
+ iperiode: week 12 (mrt)\n🏡 Uitplanten: week 16 (apr)\n🥕 Verwachte oo
+ gst: week 26–27 (jun–jul)\n\nVariant: Hoge rassen (o.a. Heraut\, Golde
+ n Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien blijft noodzak
+ elijk tot half mei\; de bodemtemperatuur is buiten nog te wisselvallig voo
+ r directe zaai.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:484f38e4c32ebb3b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Peulen — Zomer rassen (Batch 5)\n\n📅 Zaa
+ iperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18 (apr–mei)\n🥕 
+ Verwachte oogst: week 28–29 (jul)\n\nVariant: Hoge rassen (o.a. Heraut\,
+  Golden Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien blijft n
+ oodzakelijk tot half mei\; de bodemtemperatuur is buiten nog te wisselvall
+ ig voor directe zaai.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:2e6b7aca78cd1b92@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Peulen — Zomer rassen (Batch 6)\n\n📅 Zaa
+ iperiode: week 16 (apr)\n🏡 Uitplanten: week 19 (mei)\n🥕 Verwachte oo
+ gst: week 30–31 (jul–aug)\n\nVariant: Hoge rassen (o.a. Heraut\, Golde
+ n Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Voorzaaien blijft noodzak
+ elijk tot half mei\; de bodemtemperatuur is buiten nog te wisselvallig voo
+ r directe zaai.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:3799a257f3aebf24@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Peulen — Zomer rassen (Batch 3)\n\n🏡 Uit
+ plantperiode: week 14 (mrt–apr)\n🌱 Gezaaid in: week 10 (mrt)\n🥕 Ve
+ rwachte oogst: week 24–25 (jun)\n\nVariant: Hoge rassen (o.a. Heraut\, G
+ olden Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plaats direct bij het
+  uitplanten een klimrek of gaas van minimaal 1.50m hoog.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:18ea9473427f9af1@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Peulen — Zomer rassen (Batch 4)\n\n🏡 Uit
+ plantperiode: week 16 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 Verwacht
+ e oogst: week 26–27 (jun–jul)\n\nVariant: Hoge rassen (o.a. Heraut\, G
+ olden Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plaats direct bij het
+  uitplanten een klimrek of gaas van minimaal 1.50m hoog.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:da2feaa36a0ddc4e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Peulen — Zomer rassen (Batch 5)\n\n🏡 Uit
+ plantperiode: week 18 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–apr)\n
+ 🥕 Verwachte oogst: week 28–29 (jul)\n\nVariant: Hoge rassen (o.a. Her
+ aut\, Golden Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plaats direct 
+ bij het uitplanten een klimrek of gaas van minimaal 1.50m hoog.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:15c0bd8f52ac0510@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Peulen — Zomer rassen (Batch 6)\n\n🏡 Uit
+ plantperiode: week 19 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Verwacht
+ e oogst: week 30–31 (jul–aug)\n\nVariant: Hoge rassen (o.a. Heraut\, G
+ olden Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plaats direct bij het
+  uitplanten een klimrek of gaas van minimaal 1.50m hoog.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:b3e618529d796f69@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Peulen — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 32–33 (aug)\n\nVa
+ riant: Hoge rassen (o.a. Heraut\, Golden Sweet)\nBetrouwbaarheid: ✅ Hoog
+ \n\n💡 Tip: De bodem is nu warm genoeg (>5°C) voor directe zaai. Dit is
+  de laatste batch voor de zomerstop.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:1c89a0b548df607c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Peulen — Zomer rassen (Batch 3)\n\n🥕 Oogstp
+ eriode: week 24–25 (jun)\n\nVariant: Hoge rassen (o.a. Heraut\, Golden S
+ weet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Tijdens warme zomerweken gro
+ eien peulen razendsnel. Check dagelijks om taaiheid te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185338Z
+UID:c1e8748ccd0873ec@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Peulen — Zomer rassen (Batch 4)\n\n🥕 Oogstp
+ eriode: week 26–27 (jun–jul)\n\nVariant: Hoge rassen (o.a. Heraut\, Go
+ lden Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Tijdens warme zomerwek
+ en groeien peulen razendsnel. Check dagelijks om taaiheid te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:56667836d75ee5ba@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Peulen — Zomer rassen (Batch 5)\n\n🥕 Oogstp
+ eriode: week 28–29 (jul)\n\nVariant: Hoge rassen (o.a. Heraut\, Golden S
+ weet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Tijdens warme zomerweken gro
+ eien peulen razendsnel. Check dagelijks om taaiheid te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:329a730e2bf761d2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Peulen — Zomer rassen (Batch 6)\n\n🥕 Oogstp
+ eriode: week 30–31 (jul–aug)\n\nVariant: Hoge rassen (o.a. Heraut\, Go
+ lden Sweet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Tijdens warme zomerwek
+ en groeien peulen razendsnel. Check dagelijks om taaiheid te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Peulen — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:d01a07a5540c74f4@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Peulen — Zomer rassen (Batch 7)\n\n🥕 Oogstp
+ eriode: week 32–33 (aug)\n\nVariant: Hoge rassen (o.a. Heraut\, Golden S
+ weet)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Tijdens warme zomerweken gro
+ eien peulen razendsnel. Check dagelijks om taaiheid te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

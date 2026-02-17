@@ -1,0 +1,198 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Buitenkomkommer (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Buitenkomkommer
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:c34592815ba688ef@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen (Batch 1)\n\
+ n📅 Zaaiperiode: week 16 (apr)\n🏡 Uitplanten: week 20 (mei)\n🥕 Ver
+ wachte oogst: week 26–31 (jun–aug)\n\nVariant: Koude-tolerante buitenc
+ ultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai bi
+ nnen warm (20°C+) in ruime P9-potten. Zaai niet te vroeg\; zaailingen mog
+ en max. 3-4 weken oud zijn bij het uitplanten om groeistilstand te voorkom
+ en.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:f069029ff951a879@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen (Batch 2)\n\
+ n📅 Zaaiperiode: week 19 (mei)\n🏡 Uitplanten: week 22 (mei–jun)\n
+ 🥕 Verwachte oogst: week 29–34 (jul–aug)\n\nVariant: Koude-tolerante
+  buitencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip:
+  Zaai binnen warm (20°C+) in ruime P9-potten. Zaai niet te vroeg\; zaaili
+ ngen mogen max. 3-4 weken oud zijn bij het uitplanten om groeistilstand te
+  voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:2f76c54a69b0353c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen (Batch 3)\n\
+ n📅 Zaaiperiode: week 22 (mei–jun)\n🏡 Uitplanten: week 25 (jun)\n
+ 🥕 Verwachte oogst: week 32–37 (aug–sep)\n\nVariant: Koude-tolerante
+  buitencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip:
+  Zaai binnen warm (20°C+) in ruime P9-potten. Zaai niet te vroeg\; zaaili
+ ngen mogen max. 3-4 weken oud zijn bij het uitplanten om groeistilstand te
+  voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:f754a0424a057dc4@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Buitenkomkommer — Zomer rassen (Batch 4)\n\
+ n📅 Zaaiperiode: week 25 (jun)\n🏡 Uitplanten: week 28 (jul)\n🥕 Ver
+ wachte oogst: week 35–41 (aug–okt)\n\nVariant: Koude-tolerante buitenc
+ ultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai bi
+ nnen warm (20°C+) in ruime P9-potten. Zaai niet te vroeg\; zaailingen mog
+ en max. 3-4 weken oud zijn bij het uitplanten om groeistilstand te voorkom
+ en.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:6675e6c6a9de8e08@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Buitenkomkommer — Zomer rassen (Batch 1)\n\
+ n🏡 Uitplantperiode: week 20 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕
+  Verwachte oogst: week 26–31 (jun–aug)\n\nVariant: Koude-tolerante bui
+ tencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt uit na ijsheiligen op een beschutte\, zonnige plek. De bodem moet opgew
+ armd zijn. Gebruik evt. zwart plastic of vliesdoek om de start te versnell
+ en.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:1e20a4ba0d6256dc@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Buitenkomkommer — Zomer rassen (Batch 2)\n\
+ n🏡 Uitplantperiode: week 22 (mei–jun)\n🌱 Gezaaid in: week 19 (mei)
+ \n🥕 Verwachte oogst: week 29–34 (jul–aug)\n\nVariant: Koude-toleran
+ te buitencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Ti
+ p: Plant uit na ijsheiligen op een beschutte\, zonnige plek. De bodem moet
+  opgewarmd zijn. Gebruik evt. zwart plastic of vliesdoek om de start te ve
+ rsnellen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185338Z
+UID:77ac171981d3b034@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Buitenkomkommer — Zomer rassen (Batch 3)\n\
+ n🏡 Uitplantperiode: week 25 (jun)\n🌱 Gezaaid in: week 22 (mei–jun)
+ \n🥕 Verwachte oogst: week 32–37 (aug–sep)\n\nVariant: Koude-toleran
+ te buitencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Ti
+ p: Plant uit na ijsheiligen op een beschutte\, zonnige plek. De bodem moet
+  opgewarmd zijn. Gebruik evt. zwart plastic of vliesdoek om de start te ve
+ rsnellen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:4b38c4a009be9d7b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Buitenkomkommer — Zomer rassen (Batch 4)\n\
+ n🏡 Uitplantperiode: week 28 (jul)\n🌱 Gezaaid in: week 25 (jun)\n🥕
+  Verwachte oogst: week 35–41 (aug–okt)\n\nVariant: Koude-tolerante bui
+ tencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt uit na ijsheiligen op een beschutte\, zonnige plek. De bodem moet opgew
+ armd zijn. Gebruik evt. zwart plastic of vliesdoek om de start te versnell
+ en.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:5fc742bf430aac56@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Buitenkomkommer — Zomer rassen (Batch 1)\n\n
+ 🥕 Oogstperiode: week 26–31 (jun–aug)\n\nVariant: Koude-tolerante bu
+ itencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pl
+ uk dagelijks! Hoe meer je plukt\, hoe meer de plant aanmaakt. Bij koud/nat
+  weer in de herfst (na wk 40) stopt de productie snel en kunnen planten af
+ sterven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:3a76f66519b703f7@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Buitenkomkommer — Zomer rassen (Batch 2)\n\n
+ 🥕 Oogstperiode: week 29–34 (jul–aug)\n\nVariant: Koude-tolerante bu
+ itencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pl
+ uk dagelijks! Hoe meer je plukt\, hoe meer de plant aanmaakt. Bij koud/nat
+  weer in de herfst (na wk 40) stopt de productie snel en kunnen planten af
+ sterven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:e83006a03782596a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Buitenkomkommer — Zomer rassen (Batch 3)\n\n
+ 🥕 Oogstperiode: week 32–37 (aug–sep)\n\nVariant: Koude-tolerante bu
+ itencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pl
+ uk dagelijks! Hoe meer je plukt\, hoe meer de plant aanmaakt. Bij koud/nat
+  weer in de herfst (na wk 40) stopt de productie snel en kunnen planten af
+ sterven.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Buitenkomkommer — Zomer rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:15ec06be7c89152f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Buitenkomkommer — Zomer rassen (Batch 4)\n\n
+ 🥕 Oogstperiode: week 35–41 (aug–okt)\n\nVariant: Koude-tolerante bu
+ itencultivars (o.a. Marketmore)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pl
+ uk dagelijks! Hoe meer je plukt\, hoe meer de plant aanmaakt. Bij koud/nat
+  weer in de herfst (na wk 40) stopt de productie snel en kunnen planten af
+ sterven.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

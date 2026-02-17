@@ -1,0 +1,637 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Kropsla (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Kropsla
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185338Z
+UID:3ca690a1a4cf096d@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Vroege rassen (Batch 1)\n\n📅 Z
+ aaiperiode: week 6 (feb)\n🏡 Uitplanten: week 10–11 (mrt)\n🥕 Verwac
+ hte oogst: week 19–20 (mei)\n\nVariant: Snelgroeiend voorjaarstype (o.a.
+  Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen warm voo
+ r (min. 12°C). Gebruik groeilampen als ze gaan strekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185338Z
+UID:eef68b761c26857f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Vroege rassen (Batch 2)\n\n📅 Z
+ aaiperiode: week 8 (feb)\n🏡 Uitplanten: week 12–13 (mrt)\n🥕 Verwac
+ hte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorjaarstype
+  (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen wa
+ rm voor (min. 12°C). Gebruik groeilampen als ze gaan strekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185338Z
+UID:7b3646300d948bc4@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Vroege rassen (Batch 3)\n\n📅 Z
+ aaiperiode: week 10 (mrt)\n🏡 Uitplanten: week 14–15 (mrt–apr)\n🥕
+  Verwachte oogst: week 23–24 (jun)\n\nVariant: Snelgroeiend voorjaarstyp
+ e (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen w
+ arm voor (min. 12°C). Gebruik groeilampen als ze gaan strekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185338Z
+UID:648fd1794ec480df@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Vroege rassen (Batch 4)\n\n📅 Z
+ aaiperiode: week 12 (mrt)\n🏡 Uitplanten: week 16–17 (apr)\n🥕 Verwa
+ chte oogst: week 25–26 (jun)\n\nVariant: Snelgroeiend voorjaarstype (o.a
+ . Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zaai binnen warm vo
+ or (min. 12°C). Gebruik groeilampen als ze gaan strekken.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185338Z
+UID:542f29fad290e0e5@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Vroege rassen (Batch 5)\n\n📅 Z
+ aaiperiode: week 14 (mrt–apr)\n🏡 Uitplanten: week 18–19 (apr–mei)
+ \n🥕 Verwachte oogst: week 27–28 (jun–jul)\n\nVariant: Snelgroeiend 
+ voorjaarstype (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Z
+ aai binnen warm voor (min. 12°C). Gebruik groeilampen als ze gaan strekke
+ n.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250317
+DTSTAMP:20260216T185338Z
+UID:f670a4d1c733b925@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Vroege rassen (Batch 1)\n\n🏡 U
+ itplantperiode: week 10–11 (mrt)\n🌱 Gezaaid in: week 6 (feb)\n🥕 Ve
+ rwachte oogst: week 19–20 (mei)\n\nVariant: Snelgroeiend voorjaarstype (
+ o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harden de plantj
+ es af. Bij nachtvorst (< -2°C) afdekken met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250331
+DTSTAMP:20260216T185338Z
+UID:de2f68ca23cc4af7@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Vroege rassen (Batch 2)\n\n🏡 U
+ itplantperiode: week 12–13 (mrt)\n🌱 Gezaaid in: week 8 (feb)\n🥕 Ve
+ rwachte oogst: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorjaars
+ type (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harden de 
+ plantjes af. Bij nachtvorst (< -2°C) afdekken met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250414
+DTSTAMP:20260216T185338Z
+UID:7cc93093a71e15f5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Vroege rassen (Batch 3)\n\n🏡 U
+ itplantperiode: week 14–15 (mrt–apr)\n🌱 Gezaaid in: week 10 (mrt)\n
+ 🥕 Verwachte oogst: week 23–24 (jun)\n\nVariant: Snelgroeiend voorjaar
+ stype (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harden de
+  plantjes af. Bij nachtvorst (< -2°C) afdekken met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185338Z
+UID:c7115d68db6c36b1@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Vroege rassen (Batch 4)\n\n🏡 U
+ itplantperiode: week 16–17 (apr)\n🌱 Gezaaid in: week 12 (mrt)\n🥕 V
+ erwachte oogst: week 25–26 (jun)\n\nVariant: Snelgroeiend voorjaarstype 
+ (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Harden de plant
+ jes af. Bij nachtvorst (< -2°C) afdekken met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185338Z
+UID:04e925af7f45e997@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Vroege rassen (Batch 5)\n\n🏡 U
+ itplantperiode: week 18–19 (apr–mei)\n🌱 Gezaaid in: week 14 (mrt–
+ apr)\n🥕 Verwachte oogst: week 27–28 (jun–jul)\n\nVariant: Snelgroei
+ end voorjaarstype (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Ti
+ p: Harden de plantjes af. Bij nachtvorst (< -2°C) afdekken met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:24e76bb482e7c705@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Vroege rassen (Batch 1)\n\n🥕 Oogs
+ tperiode: week 19–20 (mei)\n\nVariant: Snelgroeiend voorjaarstype (o.a. 
+ Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; vroeg
+ e rassen schieten snel door bij warmte en >14.5u licht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:b0d051a624d9924e@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Vroege rassen (Batch 2)\n\n🥕 Oogs
+ tperiode: week 21–22 (mei–jun)\n\nVariant: Snelgroeiend voorjaarstype 
+ (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\;
+  vroege rassen schieten snel door bij warmte en >14.5u licht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:e0769c4ddec9d06c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Vroege rassen (Batch 3)\n\n🥕 Oogs
+ tperiode: week 23–24 (jun)\n\nVariant: Snelgroeiend voorjaarstype (o.a. 
+ Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; vroeg
+ e rassen schieten snel door bij warmte en >14.5u licht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:e99d53b30279883a@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Vroege rassen (Batch 4)\n\n🥕 Oogs
+ tperiode: week 25–26 (jun)\n\nVariant: Snelgroeiend voorjaarstype (o.a. 
+ Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\; vroeg
+ e rassen schieten snel door bij warmte en >14.5u licht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Vroege rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:d2a24a71fe2a8acd@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Vroege rassen (Batch 5)\n\n🥕 Oogs
+ tperiode: week 27–28 (jun–jul)\n\nVariant: Snelgroeiend voorjaarstype 
+ (o.a. Meikoningin)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst op tijd\;
+  vroege rassen schieten snel door bij warmte en >14.5u licht.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185338Z
+UID:a5e75c9b09907b4c@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Zomer rassen (Batch 6)\n\n📅 Za
+ aiperiode: week 16 (apr)\n🏡 Uitplanten: week 19–20 (mei)\n🥕 Verwac
+ hte oogst: week 28–29 (jul)\n\nVariant: Schietresistente zomerkropsla (o
+ .a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kiemt slecht boven 2
+ 2°C bodemtemperatuur. Zaai op een koele plek of in de schaduw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185338Z
+UID:d4d3322c5f1976f0@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Zomer rassen (Batch 7)\n\n📅 Za
+ aiperiode: week 18 (apr–mei)\n🏡 Uitplanten: week 21–22 (mei–jun)\
+ n🥕 Verwachte oogst: week 30–31 (jul–aug)\n\nVariant: Schietresisten
+ te zomerkropsla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Ki
+ emt slecht boven 22°C bodemtemperatuur. Zaai op een koele plek of in de s
+ chaduw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:3eb1422195aaecbd@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Zomer rassen (Batch 8)\n\n📅 Za
+ aiperiode: week 20 (mei)\n🏡 Uitplanten: week 23–24 (jun)\n🥕 Verwac
+ hte oogst: week 32–33 (aug)\n\nVariant: Schietresistente zomerkropsla (o
+ .a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kiemt slecht boven 2
+ 2°C bodemtemperatuur. Zaai op een koele plek of in de schaduw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:3756b14366d7dd6b@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Zomer rassen (Batch 9)\n\n📅 Za
+ aiperiode: week 22 (mei–jun)\n🏡 Uitplanten: week 25–26 (jun)\n🥕 
+ Verwachte oogst: week 34–35 (aug)\n\nVariant: Schietresistente zomerkrop
+ sla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kiemt slecht b
+ oven 22°C bodemtemperatuur. Zaai op een koele plek of in de schaduw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:fb8e737ebf5ae258@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Zomer rassen (Batch 10)\n\n📅 Z
+ aaiperiode: week 24 (jun)\n🏡 Uitplanten: week 27–28 (jun–jul)\n🥕
+  Verwachte oogst: week 36–37 (sep)\n\nVariant: Schietresistente zomerkro
+ psla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kiemt slecht 
+ boven 22°C bodemtemperatuur. Zaai op een koele plek of in de schaduw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250623
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:e60ce0a5de836a79@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Zomer rassen (Batch 11)\n\n📅 Z
+ aaiperiode: week 26 (jun)\n🏡 Uitplanten: week 29–30 (jul)\n🥕 Verwa
+ chte oogst: week 38–39 (sep)\n\nVariant: Schietresistente zomerkropsla (
+ o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kiemt slecht boven 
+ 22°C bodemtemperatuur. Zaai op een koele plek of in de schaduw.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:5dcbfbde82b2647a@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Zomer rassen (Batch 12)\n\n📅 Z
+ aaiperiode: week 28 (jul)\n🏡 Uitplanten: week 31–32 (jul–aug)\n🥕
+  Verwachte oogst: week 40–41 (sep–okt)\n\nVariant: Schietresistente zo
+ merkropsla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Kiemt s
+ lecht boven 22°C bodemtemperatuur. Zaai op een koele plek of in de schadu
+ w.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185338Z
+UID:bc008065b444b983@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Zomer rassen (Batch 6)\n\n🏡 Ui
+ tplantperiode: week 19–20 (mei)\n🌱 Gezaaid in: week 16 (apr)\n🥕 Ve
+ rwachte oogst: week 28–29 (jul)\n\nVariant: Schietresistente zomerkropsl
+ a (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant niet te di
+ ep\; het 'hart' van de plant moet vrij blijven van de grond om rot te voor
+ komen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185338Z
+UID:e4d3ec3954ac258d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Zomer rassen (Batch 7)\n\n🏡 Ui
+ tplantperiode: week 21–22 (mei–jun)\n🌱 Gezaaid in: week 18 (apr–m
+ ei)\n🥕 Verwachte oogst: week 30–31 (jul–aug)\n\nVariant: Schietresi
+ stente zomerkropsla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip
+ : Plant niet te diep\; het 'hart' van de plant moet vrij blijven van de gr
+ ond om rot te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185338Z
+UID:916753f1fd43794a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Zomer rassen (Batch 8)\n\n🏡 Ui
+ tplantperiode: week 23–24 (jun)\n🌱 Gezaaid in: week 20 (mei)\n🥕 Ve
+ rwachte oogst: week 32–33 (aug)\n\nVariant: Schietresistente zomerkropsl
+ a (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant niet te di
+ ep\; het 'hart' van de plant moet vrij blijven van de grond om rot te voor
+ komen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185338Z
+UID:60c0b7f19b07f05b@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Zomer rassen (Batch 9)\n\n🏡 Ui
+ tplantperiode: week 25–26 (jun)\n🌱 Gezaaid in: week 22 (mei–jun)\n
+ 🥕 Verwachte oogst: week 34–35 (aug)\n\nVariant: Schietresistente zome
+ rkropsla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant nie
+ t te diep\; het 'hart' van de plant moet vrij blijven van de grond om rot 
+ te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185338Z
+UID:1386a560a3cb2a9a@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Zomer rassen (Batch 10)\n\n🏡 U
+ itplantperiode: week 27–28 (jun–jul)\n🌱 Gezaaid in: week 24 (jun)\n
+ 🥕 Verwachte oogst: week 36–37 (sep)\n\nVariant: Schietresistente zome
+ rkropsla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant nie
+ t te diep\; het 'hart' van de plant moet vrij blijven van de grond om rot 
+ te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:f7e2d646135face5@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Zomer rassen (Batch 11)\n\n🏡 U
+ itplantperiode: week 29–30 (jul)\n🌱 Gezaaid in: week 26 (jun)\n🥕 V
+ erwachte oogst: week 38–39 (sep)\n\nVariant: Schietresistente zomerkrops
+ la (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Plant niet te d
+ iep\; het 'hart' van de plant moet vrij blijven van de grond om rot te voo
+ rkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:d9dd34a89fb4aec6@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Zomer rassen (Batch 12)\n\n🏡 U
+ itplantperiode: week 31–32 (jul–aug)\n🌱 Gezaaid in: week 28 (jul)\n
+ 🥕 Verwachte oogst: week 40–41 (sep–okt)\n\nVariant: Schietresistent
+ e zomerkropsla (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Pla
+ nt niet te diep\; het 'hart' van de plant moet vrij blijven van de grond o
+ m rot te voorkomen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250707
+DTEND;VALUE=DATE:20250721
+DTSTAMP:20260216T185338Z
+UID:3d87999bba1c3859@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Zomer rassen (Batch 6)\n\n🥕 Oogst
+ periode: week 28–29 (jul)\n\nVariant: Schietresistente zomerkropsla (o.a
+ . Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g als het blad nog knapperig is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250804
+DTSTAMP:20260216T185338Z
+UID:771a1efd7f2616b2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Zomer rassen (Batch 7)\n\n🥕 Oogst
+ periode: week 30–31 (jul–aug)\n\nVariant: Schietresistente zomerkropsl
+ a (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtend
+ s vroeg als het blad nog knapperig is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250818
+DTSTAMP:20260216T185338Z
+UID:17adbe541d69b9fb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Zomer rassen (Batch 8)\n\n🥕 Oogst
+ periode: week 32–33 (aug)\n\nVariant: Schietresistente zomerkropsla (o.a
+ . Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g als het blad nog knapperig is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20260216T185338Z
+UID:fb84c63b5c62171c@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Zomer rassen (Batch 9)\n\n🥕 Oogst
+ periode: week 34–35 (aug)\n\nVariant: Schietresistente zomerkropsla (o.a
+ . Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vroe
+ g als het blad nog knapperig is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250915
+DTSTAMP:20260216T185338Z
+UID:e769bec0b73d597b@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Zomer rassen (Batch 10)\n\n🥕 Oogs
+ tperiode: week 36–37 (sep)\n\nVariant: Schietresistente zomerkropsla (o.
+ a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vro
+ eg als het blad nog knapperig is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250915
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185338Z
+UID:d41e08e7833ffcc5@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Zomer rassen (Batch 11)\n\n🥕 Oogs
+ tperiode: week 38–39 (sep)\n\nVariant: Schietresistente zomerkropsla (o.
+ a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochtends vro
+ eg als het blad nog knapperig is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Zomer rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251013
+DTSTAMP:20260216T185338Z
+UID:46ed51bcac5fa9f2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Zomer rassen (Batch 12)\n\n🥕 Oogs
+ tperiode: week 40–41 (sep–okt)\n\nVariant: Schietresistente zomerkrops
+ la (o.a. Kagraner)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst 's ochten
+ ds vroeg als het blad nog knapperig is.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185338Z
+UID:97c75f48b675a1de@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Late rassen (Batch 13)\n\n📅 Za
+ aiperiode: week 30 (jul)\n🏡 Uitplanten: week 33–34 (aug)\n🥕 Verwac
+ hte oogst: week 43–45 (okt–nov)\n\nVariant: Herfst- en winterkropsla (
+ o.a. Wonder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geschikt
+  voor koudere omstandigheden. Groeit trager.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185338Z
+UID:093fd57f6002e6d1@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Late rassen (Batch 14)\n\n📅 Za
+ aiperiode: week 32 (aug)\n🏡 Uitplanten: week 35–36 (aug–sep)\n🥕 
+ Verwachte oogst: week 46–49 (nov–dec)\n\nVariant: Herfst- en winterkro
+ psla (o.a. Wonder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Ge
+ schikt voor koudere omstandigheden. Groeit trager.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌱 Voorzaaien: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:1dc42ee039b39d6f@zaaikompas.nl
+CATEGORIES:Voorzaaien
+DESCRIPTION:🌱 Voorzaaien: Kropsla — Late rassen (Batch 15)\n\n📅 Za
+ aiperiode: week 34 (aug)\n🏡 Uitplanten: week 37–38 (sep)\n🥕 Verwac
+ hte oogst: week 50–52 (dec)\n\nVariant: Herfst- en winterkropsla (o.a. W
+ onder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Geschikt voor 
+ koudere omstandigheden. Groeit trager.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20250811
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185338Z
+UID:f8d2f2fd0950a79d@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Late rassen (Batch 13)\n\n🏡 Ui
+ tplantperiode: week 33–34 (aug)\n🌱 Gezaaid in: week 30 (jul)\n🥕 Ve
+ rwachte oogst: week 43–45 (okt–nov)\n\nVariant: Herfst- en winterkrops
+ la (o.a. Wonder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg
+  voor voldoende plantafstand (30x30cm) voor luchtcirculatie tegen schimmel
+ .
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185338Z
+UID:f3a313e4312e16ec@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Late rassen (Batch 14)\n\n🏡 Ui
+ tplantperiode: week 35–36 (aug–sep)\n🌱 Gezaaid in: week 32 (aug)\n
+ 🥕 Verwachte oogst: week 46–49 (nov–dec)\n\nVariant: Herfst- en wint
+ erkropsla (o.a. Wonder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Ti
+ p: Zorg voor voldoende plantafstand (30x30cm) voor luchtcirculatie tegen s
+ chimmel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏡 Uitplanten: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250922
+DTSTAMP:20260216T185338Z
+UID:a3cba08215447e9e@zaaikompas.nl
+CATEGORIES:Uitplanten
+DESCRIPTION:🏡 Uitplanten: Kropsla — Late rassen (Batch 15)\n\n🏡 Ui
+ tplantperiode: week 37–38 (sep)\n🌱 Gezaaid in: week 34 (aug)\n🥕 Ve
+ rwachte oogst: week 50–52 (dec)\n\nVariant: Herfst- en winterkropsla (o.
+ a. Wonder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zorg voor 
+ voldoende plantafstand (30x30cm) voor luchtcirculatie tegen schimmel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185338Z
+UID:f73fdd5edf66f5a9@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Late rassen (Batch 13)\n\n🥕 Oogst
+ periode: week 43–45 (okt–nov)\n\nVariant: Herfst- en winterkropsla (o.
+ a. Wonder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor
+  zware vorst\, of dek af. Groei stopt bijna volledig bij <5°C.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251208
+DTSTAMP:20260216T185338Z
+UID:18e0c22612e5cddb@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Late rassen (Batch 14)\n\n🥕 Oogst
+ periode: week 46–49 (nov–dec)\n\nVariant: Herfst- en winterkropsla (o.
+ a. Wonder van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor
+  zware vorst\, of dek af. Groei stopt bijna volledig bij <5°C.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Kropsla — Late rassen
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185338Z
+UID:ad720cb850bad43f@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Kropsla — Late rassen (Batch 15)\n\n🥕 Oogst
+ periode: week 50–52 (dec)\n\nVariant: Herfst- en winterkropsla (o.a. Won
+ der van Voorburg)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst voor zware
+  vorst\, of dek af. Groei stopt bijna volledig bij <5°C.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

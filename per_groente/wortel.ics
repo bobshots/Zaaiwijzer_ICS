@@ -1,0 +1,434 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZaaiKompas//Zaaikalender//NL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Zaai-\, plant- en oogstkalender voor Wortel (2025).
+X-WR-CALNAME:ZaaiKompas 2025 — Wortel
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250203
+DTEND;VALUE=DATE:20250210
+DTSTAMP:20260216T185339Z
+UID:0b51e12b42038e34@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Vroege rassen (Batch 1)\n\n📅
+  Zaaiperiode: week 6 (feb)\n🥕 Verwachte oogst: week 20–21 (mei)\n\nVa
+ riant: Snelle bospeen (o.a. Amsterdamse Bak)\nBetrouwbaarheid: ⚠️ Laag
+  (weersafhankelijk)\n\n💡 Tip: Zaai ondiep (1 cm). Kieming duurt lang (3
+ -4 weken) bij koude grond\; houd de grond continu vochtig. Dek batch 1 eve
+ ntueel af met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250217
+DTEND;VALUE=DATE:20250224
+DTSTAMP:20260216T185339Z
+UID:e0fe12c665847baa@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Vroege rassen (Batch 2)\n\n📅
+  Zaaiperiode: week 8 (feb)\n🥕 Verwachte oogst: week 22–23 (mei–jun)
+ \n\nVariant: Snelle bospeen (o.a. Amsterdamse Bak)\nBetrouwbaarheid: ✅ H
+ oog\n\n💡 Tip: Zaai ondiep (1 cm). Kieming duurt lang (3-4 weken) bij ko
+ ude grond\; houd de grond continu vochtig. Dek batch 1 eventueel af met vl
+ iesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250303
+DTEND;VALUE=DATE:20250310
+DTSTAMP:20260216T185339Z
+UID:754a3bf44efd8f76@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Vroege rassen (Batch 3)\n\n📅
+  Zaaiperiode: week 10 (mrt)\n🥕 Verwachte oogst: week 23–24 (jun)\n\nV
+ ariant: Snelle bospeen (o.a. Amsterdamse Bak)\nBetrouwbaarheid: ✅ Hoog\n
+ \n💡 Tip: Zaai ondiep (1 cm). Kieming duurt lang (3-4 weken) bij koude g
+ rond\; houd de grond continu vochtig. Dek batch 1 eventueel af met vliesdo
+ ek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250317
+DTEND;VALUE=DATE:20250324
+DTSTAMP:20260216T185339Z
+UID:d45eb410e5777f00@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Vroege rassen (Batch 4)\n\n📅
+  Zaaiperiode: week 12 (mrt)\n🥕 Verwachte oogst: week 25–26 (jun)\n\nV
+ ariant: Snelle bospeen (o.a. Amsterdamse Bak)\nBetrouwbaarheid: ⚠️ Laa
+ g (weersafhankelijk)\n\n💡 Tip: Zaai ondiep (1 cm). Kieming duurt lang (
+ 3-4 weken) bij koude grond\; houd de grond continu vochtig. Dek batch 1 ev
+ entueel af met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250331
+DTEND;VALUE=DATE:20250407
+DTSTAMP:20260216T185339Z
+UID:650ecab4ded0e533@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Vroege rassen (Batch 5)\n\n📅
+  Zaaiperiode: week 14 (mrt–apr)\n🥕 Verwachte oogst: week 27–28 (jun
+ –jul)\n\nVariant: Snelle bospeen (o.a. Amsterdamse Bak)\nBetrouwbaarheid
+ : ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Zaai ondiep (1 cm). Kieming 
+ duurt lang (3-4 weken) bij koude grond\; houd de grond continu vochtig. De
+ k batch 1 eventueel af met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250421
+DTSTAMP:20260216T185339Z
+UID:9cd86485fba81ae7@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Vroege rassen (Batch 6)\n\n📅
+  Zaaiperiode: week 16 (apr)\n🥕 Verwachte oogst: week 29–30 (jul)\n\nV
+ ariant: Snelle bospeen (o.a. Amsterdamse Bak)\nBetrouwbaarheid: ⚠️ Laa
+ g (weersafhankelijk)\n\n💡 Tip: Zaai ondiep (1 cm). Kieming duurt lang (
+ 3-4 weken) bij koude grond\; houd de grond continu vochtig. Dek batch 1 ev
+ entueel af met vliesdoek.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:3d9e60b5a53ec517@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Vroege rassen (Batch 1)\n\n🥕 Oogst
+ periode: week 20–21 (mei)\n\nVariant: Snelle bospeen (o.a. Amsterdamse B
+ ak)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst jo
+ ng voor de zoetste smaak. Laat vroege rassen niet te lang staan\, dan bars
+ ten ze.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:4ab85140d53bc620@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Vroege rassen (Batch 2)\n\n🥕 Oogst
+ periode: week 22–23 (mei–jun)\n\nVariant: Snelle bospeen (o.a. Amsterd
+ amse Bak)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong voor de zoets
+ te smaak. Laat vroege rassen niet te lang staan\, dan barsten ze.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250616
+DTSTAMP:20260216T185339Z
+UID:418ea960f1ab5554@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Vroege rassen (Batch 3)\n\n🥕 Oogst
+ periode: week 23–24 (jun)\n\nVariant: Snelle bospeen (o.a. Amsterdamse B
+ ak)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst jong voor de zoetste sma
+ ak. Laat vroege rassen niet te lang staan\, dan barsten ze.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250630
+DTSTAMP:20260216T185339Z
+UID:d3b0ea6456fa3868@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Vroege rassen (Batch 4)\n\n🥕 Oogst
+ periode: week 25–26 (jun)\n\nVariant: Snelle bospeen (o.a. Amsterdamse B
+ ak)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst jo
+ ng voor de zoetste smaak. Laat vroege rassen niet te lang staan\, dan bars
+ ten ze.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250714
+DTSTAMP:20260216T185339Z
+UID:464fc5b108dc87b2@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Vroege rassen (Batch 5)\n\n🥕 Oogst
+ periode: week 27–28 (jun–jul)\n\nVariant: Snelle bospeen (o.a. Amsterd
+ amse Bak)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oo
+ gst jong voor de zoetste smaak. Laat vroege rassen niet te lang staan\, da
+ n barsten ze.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Vroege rassen
+DTSTART;VALUE=DATE:20250714
+DTEND;VALUE=DATE:20250728
+DTSTAMP:20260216T185339Z
+UID:adf71b36f973d482@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Vroege rassen (Batch 6)\n\n🥕 Oogst
+ periode: week 29–30 (jul)\n\nVariant: Snelle bospeen (o.a. Amsterdamse B
+ ak)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Oogst jo
+ ng voor de zoetste smaak. Laat vroege rassen niet te lang staan\, dan bars
+ ten ze.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250428
+DTSTAMP:20260216T185339Z
+UID:b94ca609a3695a69@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Zomer rassen (Batch 7)\n\n📅 
+ Zaaiperiode: week 17 (apr)\n🥕 Verwachte oogst: week 30–32 (jul–aug)
+ \n\nVariant: Zoete zomerwortel (o.a. Nantes)\nBetrouwbaarheid: ✅ Hoog\n\
+ n💡 Tip: Dun tijdig uit op 3-5 cm afstand om rechte wortels te krijgen e
+ n wortelvlieg te verwarren (werk bij regenachtig weer).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250505
+DTEND;VALUE=DATE:20250512
+DTSTAMP:20260216T185339Z
+UID:ba9ac173f599b9f3@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Zomer rassen (Batch 8)\n\n📅 
+ Zaaiperiode: week 19 (mei)\n🥕 Verwachte oogst: week 32–34 (aug)\n\nVa
+ riant: Zoete zomerwortel (o.a. Nantes)\nBetrouwbaarheid: ✅ Hoog\n\n💡 
+ Tip: Dun tijdig uit op 3-5 cm afstand om rechte wortels te krijgen en wort
+ elvlieg te verwarren (werk bij regenachtig weer).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250519
+DTEND;VALUE=DATE:20250526
+DTSTAMP:20260216T185339Z
+UID:74a33a4f8dcab7b3@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Zomer rassen (Batch 9)\n\n📅 
+ Zaaiperiode: week 21 (mei)\n🥕 Verwachte oogst: week 34–36 (aug–sep)
+ \n\nVariant: Zoete zomerwortel (o.a. Nantes)\nBetrouwbaarheid: ✅ Hoog\n\
+ n💡 Tip: Dun tijdig uit op 3-5 cm afstand om rechte wortels te krijgen e
+ n wortelvlieg te verwarren (werk bij regenachtig weer).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250602
+DTEND;VALUE=DATE:20250609
+DTSTAMP:20260216T185339Z
+UID:236cf2a3738a129c@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Zomer rassen (Batch 10)\n\n📅
+  Zaaiperiode: week 23 (jun)\n🥕 Verwachte oogst: week 36–39 (sep)\n\nV
+ ariant: Zoete zomerwortel (o.a. Nantes)\nBetrouwbaarheid: ✅ Hoog\n\n💡
+  Tip: Dun tijdig uit op 3-5 cm afstand om rechte wortels te krijgen en wor
+ telvlieg te verwarren (werk bij regenachtig weer).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250616
+DTEND;VALUE=DATE:20250623
+DTSTAMP:20260216T185339Z
+UID:0b086aaaec1ecea4@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Zomer rassen (Batch 11)\n\n📅
+  Zaaiperiode: week 25 (jun)\n🥕 Verwachte oogst: week 39–42 (sep–okt
+ )\n\nVariant: Zoete zomerwortel (o.a. Nantes)\nBetrouwbaarheid: ✅ Hoog\n
+ \n💡 Tip: Dun tijdig uit op 3-5 cm afstand om rechte wortels te krijgen 
+ en wortelvlieg te verwarren (werk bij regenachtig weer).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250630
+DTEND;VALUE=DATE:20250707
+DTSTAMP:20260216T185339Z
+UID:c9fe9a2ef54085fb@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Zomer rassen (Batch 12)\n\n📅
+  Zaaiperiode: week 27 (jun–jul)\n🥕 Verwachte oogst: week 42–45 (okt
+ –nov)\n\nVariant: Zoete zomerwortel (o.a. Nantes)\nBetrouwbaarheid: ✅ 
+ Hoog\n\n💡 Tip: Dun tijdig uit op 3-5 cm afstand om rechte wortels te kr
+ ijgen en wortelvlieg te verwarren (werk bij regenachtig weer).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250721
+DTEND;VALUE=DATE:20250811
+DTSTAMP:20260216T185339Z
+UID:b428aa4b725fd001@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Zomer rassen (Batch 7)\n\n🥕 Oogstp
+ eriode: week 30–32 (jul–aug)\n\nVariant: Zoete zomerwortel (o.a. Nante
+ s)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerwortels zijn iets langer h
+ oudbaar in de grond dan vroege rassen\, maar oogst voor de eerste zware na
+ chtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250804
+DTEND;VALUE=DATE:20250825
+DTSTAMP:20260216T185339Z
+UID:afe118ab1c2dcd87@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Zomer rassen (Batch 8)\n\n🥕 Oogstp
+ eriode: week 32–34 (aug)\n\nVariant: Zoete zomerwortel (o.a. Nantes)\nBe
+ trouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerwortels zijn iets langer houdbaa
+ r in de grond dan vroege rassen\, maar oogst voor de eerste zware nachtvor
+ st.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250908
+DTSTAMP:20260216T185339Z
+UID:91087ccca611ec96@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Zomer rassen (Batch 9)\n\n🥕 Oogstp
+ eriode: week 34–36 (aug–sep)\n\nVariant: Zoete zomerwortel (o.a. Nante
+ s)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerwortels zijn iets langer h
+ oudbaar in de grond dan vroege rassen\, maar oogst voor de eerste zware na
+ chtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250929
+DTSTAMP:20260216T185339Z
+UID:c57ace493323c8cf@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Zomer rassen (Batch 10)\n\n🥕 Oogst
+ periode: week 36–39 (sep)\n\nVariant: Zoete zomerwortel (o.a. Nantes)\nB
+ etrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerwortels zijn iets langer houdba
+ ar in de grond dan vroege rassen\, maar oogst voor de eerste zware nachtvo
+ rst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20250922
+DTEND;VALUE=DATE:20251020
+DTSTAMP:20260216T185339Z
+UID:56725007f31334d0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Zomer rassen (Batch 11)\n\n🥕 Oogst
+ periode: week 39–42 (sep–okt)\n\nVariant: Zoete zomerwortel (o.a. Nant
+ es)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerwortels zijn iets langer 
+ houdbaar in de grond dan vroege rassen\, maar oogst voor de eerste zware n
+ achtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Zomer rassen
+DTSTART;VALUE=DATE:20251013
+DTEND;VALUE=DATE:20251110
+DTSTAMP:20260216T185339Z
+UID:478680488c32f9b0@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Zomer rassen (Batch 12)\n\n🥕 Oogst
+ periode: week 42–45 (okt–nov)\n\nVariant: Zoete zomerwortel (o.a. Nant
+ es)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Zomerwortels zijn iets langer 
+ houdbaar in de grond dan vroege rassen\, maar oogst voor de eerste zware n
+ achtvorst.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Late rassen
+DTSTART;VALUE=DATE:20250428
+DTEND;VALUE=DATE:20250505
+DTSTAMP:20260216T185339Z
+UID:f222b03c03607365@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Late rassen (Batch 13)\n\n📅 
+ Zaaiperiode: week 18 (apr–mei)\n🥕 Verwachte oogst: week 40–44 (sep
+ –nov)\n\nVariant: Winterpeen voor bewaring (o.a. Flakkee)\nBetrouwbaarhe
+ id: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: Winterpeen heeft die losse
+  grond nodig. Zaai niet te dicht om dikke bewaarwortels te krijgen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Late rassen
+DTSTART;VALUE=DATE:20250512
+DTEND;VALUE=DATE:20250519
+DTSTAMP:20260216T185339Z
+UID:21783369d2cb12e4@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Late rassen (Batch 14)\n\n📅 
+ Zaaiperiode: week 20 (mei)\n🥕 Verwachte oogst: week 43–48 (okt–nov)
+ \n\nVariant: Winterpeen voor bewaring (o.a. Flakkee)\nBetrouwbaarheid: ✅
+  Hoog\n\n💡 Tip: Winterpeen heeft die losse grond nodig. Zaai niet te di
+ cht om dikke bewaarwortels te krijgen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Direct zaaien: Wortel — Late rassen
+DTSTART;VALUE=DATE:20250526
+DTEND;VALUE=DATE:20250602
+DTSTAMP:20260216T185339Z
+UID:b0ac4d6eae14c500@zaaikompas.nl
+CATEGORIES:Direct zaaien
+DESCRIPTION:🌿 Direct zaaien: Wortel — Late rassen (Batch 15)\n\n📅 
+ Zaaiperiode: week 22 (mei–jun)\n🥕 Verwachte oogst: week 46–52 (nov
+ –dec)\n\nVariant: Winterpeen voor bewaring (o.a. Flakkee)\nBetrouwbaarhe
+ id: ✅ Hoog\n\n💡 Tip: Winterpeen heeft die losse grond nodig. Zaai nie
+ t te dicht om dikke bewaarwortels te krijgen.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Late rassen
+DTSTART;VALUE=DATE:20250929
+DTEND;VALUE=DATE:20251103
+DTSTAMP:20260216T185339Z
+UID:baefde2d111088a6@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Late rassen (Batch 13)\n\n🥕 Oogstp
+ eriode: week 40–44 (sep–nov)\n\nVariant: Winterpeen voor bewaring (o.a
+ . Flakkee)\nBetrouwbaarheid: ⚠️ Laag (weersafhankelijk)\n\n💡 Tip: O
+ ogst alles uiterlijk week 52. In januari duikt de grondtemperatuur onder d
+ e fatale grens van -10°C\, wat vorstschade veroorzaakt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Late rassen
+DTSTART;VALUE=DATE:20251020
+DTEND;VALUE=DATE:20251201
+DTSTAMP:20260216T185339Z
+UID:2722e98ef721d167@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Late rassen (Batch 14)\n\n🥕 Oogstp
+ eriode: week 43–48 (okt–nov)\n\nVariant: Winterpeen voor bewaring (o.a
+ . Flakkee)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst alles uiterlijk w
+ eek 52. In januari duikt de grondtemperatuur onder de fatale grens van -10
+ °C\, wat vorstschade veroorzaakt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🥕 Oogsten: Wortel — Late rassen
+DTSTART;VALUE=DATE:20251110
+DTEND;VALUE=DATE:20251229
+DTSTAMP:20260216T185339Z
+UID:c4ae655f03ce0b28@zaaikompas.nl
+CATEGORIES:Oogsten
+DESCRIPTION:🥕 Oogsten: Wortel — Late rassen (Batch 15)\n\n🥕 Oogstp
+ eriode: week 46–52 (nov–dec)\n\nVariant: Winterpeen voor bewaring (o.a
+ . Flakkee)\nBetrouwbaarheid: ✅ Hoog\n\n💡 Tip: Oogst alles uiterlijk w
+ eek 52. In januari duikt de grondtemperatuur onder de fatale grens van -10
+ °C\, wat vorstschade veroorzaakt.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
