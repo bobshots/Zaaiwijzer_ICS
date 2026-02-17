@@ -1,0 +1,67 @@
+/* Custom Styles */
+
+body {
+    -webkit-tap-highlight-color: transparent;
+    padding-bottom: 80px; /* Space for bottom nav or just padding */
+}
+
+/* Scrollbar hiding for horizontal scroll */
+.overflow-x-auto::-webkit-scrollbar {
+    display: none;
+}
+.overflow-x-auto {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+/* Filter buttons */
+.filter-btn {
+    transition: all 0.2s ease;
+    border: 1px solid #374151;
+    background-color: #1f2937;
+    color: #9ca3af;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    font-weight: 600;
+}
+
+.filter-btn.active {
+    background-color: #16a34a; /* green-600 */
+    color: white;
+    border-color: #4ade80; /* green-400 */
+    transform: scale(1.05);
+}
+
+/* Task Cards */
+.task-card {
+    transition: transform 0.2s;
+    border-left-width: 6px;
+}
+.task-card:active {
+    transform: scale(0.98);
+}
+
+/* Phase specifics */
+.task-card.phase-VOORZAAIEN { border-left-color: #3b82f6; } /* blue-500 */
+.task-card.phase-DIRECTZAAIEN { border-left-color: #eab308; } /* yellow-500 */
+.task-card.phase-UITPLANTEN { border-left-color: #22c55e; } /* green-500 */
+.task-card.phase-OOGSTEN { border-left-color: #ef4444; } /* red-500 */
+
+/* Sticky header adjustments */
+header {
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    background-color: rgba(17, 24, 39, 0.95);
+}
+
+/* Month buttons specific styling */
+.month-btn {
+    min-width: 4rem;
+    text-align: center;
+}
+
+/* Icon layout */
+.vegetable-icon {
+    filter: drop-shadow(0 4px 3px rgba(0,0,0,0.3));
+    /* Make icons slightly pop */
+}
